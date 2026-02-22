@@ -1,0 +1,44 @@
+{
+  "document_id": "29908d5cdbc758d9",
+  "cliente_id": "NOMBRE_LEGAJOS",
+  "campos": {
+    "dni": "25082025",
+    "cuil_cuit": null,
+    "nombre_completo": null,
+    "direccion": null,
+    "localidad": "mendoza",
+    "matricula": "1633",
+    "laboratorio": null,
+    "tipo_persona": null
+  },
+  "documentos_detectados_preliminar": {
+    "dni": true,
+    "titulo": true,
+    "matricula_actualizada": true,
+    "constancia_cuit": false,
+    "seguro_mala_praxis": false,
+    "adhesion_pami": false,
+    "adhesion_osep": false
+  },
+  "evidencia": {
+    "dni_candidatos": [
+      "25082025",
+      "38579297"
+    ],
+    "dni_mrz": [],
+    "cuit_candidatos": [],
+    "matricula_candidatos": [
+      "1633",
+      "13"
+    ],
+    "keywords": {
+      "dni": true,
+      "osep": false,
+      "pami": false,
+      "seguro": false,
+      "mala_praxis": false
+    }
+  },
+  "faltantes": [],
+  "txt_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\00_ocr\\LEGAJOS_25082025_100131_270963_OCR_LLM_READY.txt"
+}

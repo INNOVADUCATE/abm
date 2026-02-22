@@ -1,0 +1,70 @@
+{
+  "schema": "abm_doc_clasificado_v1",
+  "fecha_proceso_utc": "2026-02-22T21:35:15Z",
+  "socio_uid": "27-38579297-8",
+  "document_id": "ea838fb66118b8e8",
+  "input": {
+    "analysis_json": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\01_evidencia\\LEGAJOS_25082025_100107_270959_OCR_LLM_READY_ANALISIS_ABM.json",
+    "txt_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\00_ocr\\LEGAJOS_25082025_100107_270959_OCR_LLM_READY.txt"
+  },
+  "campos_aportados": {
+    "dni": "25082025",
+    "cuil_cuit": "27-38579297-8",
+    "matricula": null,
+    "nombre_completo": null,
+    "direccion": null,
+    "localidad": "mendoza"
+  },
+  "evidencia_resumen": {
+    "dni_candidatos": [
+      "25082025"
+    ],
+    "dni_mrz": [
+      "38579297"
+    ],
+    "cuit_candidatos": [
+      "00506875044",
+      "27-38579297-8"
+    ],
+    "matricula_candidatos": [],
+    "keywords": {
+      "dni": true,
+      "osep": false,
+      "pami": false,
+      "seguro": false,
+      "mala_praxis": false
+    }
+  },
+  "clasificacion": {
+    "tipos": [
+      {
+        "tipo": "dni",
+        "confianza": "alta",
+        "score": 5
+      }
+    ],
+    "heuristica_scores": {
+      "dni": 5,
+      "afip_arca": 0,
+      "ingresos_brutos_atm": 0,
+      "titulo_habilitante": 0,
+      "matricula_profesional": 0,
+      "sss_prestador": 0,
+      "seguro_mala_praxis": 0,
+      "habilitacion_laboratorio": 0,
+      "designacion_director_tecnico": 0,
+      "adhesion_abm": 0,
+      "adhesion_osep": 0,
+      "adhesion_pami": 0,
+      "aceptacion_pago_convenios": 0,
+      "cuenta_bancaria": 0,
+      "otros": 0
+    },
+    "llm": {
+      "usado": false,
+      "model": null,
+      "error": null
+    }
+  },
+  "snippets": "DOCUMENTO: LEGAJOS_25082025_100107_270959.pdf\nDOCUMENT_ID: ea838fb66118b8e8\nREPUBLICA ARGENTINA - MERCOSUR\nREGISTRO NACIONAL DE LAS PERSONAS\nMINISTERIO DEL INTERIOR, OBRAS PUBLICAS Y VIVIENDA\n01 AGO/ AUG 2032\nDocumento / Document\nTramate N° / Of. ident.\nPulGar\nIDARG38579297<2<<<<<<<<<<<<<<<\n95 0 2219F32 0 8 0 1 4A R G < < < < < < < < < < <2"
+}

@@ -2423,3 +2423,31 @@
 [18:35:46] [INFO] [pipeline] OCR página 1/1
 [18:35:46] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
 [18:35:48] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:35:51] [INFO] [pipeline] OCR página 1 OK (chars=686)
+[18:35:51] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_25082025_105017_270971_OCR_LLM_READY.txt
+[18:35:51] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_25082025_105017_270971_OCR_LLM_READY_RAW.json
+[18:35:51] [INFO] [pipeline] Procesamiento completado en 5.48s
+[18:35:51] [INFO] [pipeline] Procesando LEGAJOS_25112025_142436_320433.pdf
+[18:35:52] [INFO] [pipeline] 3 páginas renderizadas
+[18:35:52] [INFO] [pipeline] OCR página 1/3
+[18:35:52] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:35:54] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:35:58] [INFO] [pipeline] OCR página 1 OK (chars=1656)
+[18:35:58] [INFO] [pipeline] OCR página 2/3
+[18:36:00] [INFO] [pipeline] OCR página 2 OK (chars=37)
+[18:36:00] [INFO] [pipeline] OCR página 3/3
+[18:36:04] [INFO] [pipeline] OCR página 3 OK (chars=554)
+[18:36:04] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_25112025_142436_320433_OCR_LLM_READY.txt
+[18:36:04] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_25112025_142436_320433_OCR_LLM_READY_RAW.json
+[18:36:04] [INFO] [pipeline] Procesamiento completado en 12.64s
+[18:36:04] [INFO] [pipeline] Procesando LEGAJOS_26092025_093319_287432.pdf
+[18:36:05] [INFO] [pipeline] 10 páginas renderizadas
+[18:36:05] [INFO] [pipeline] OCR página 1/10
+[18:36:05] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:36:07] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:36:10] [INFO] [pipeline] OCR página 1 OK (chars=629)
+[18:36:10] [INFO] [pipeline] OCR página 2/10
+[18:36:12] [ERROR] [pipeline] Error en página 2: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[18:36:12] [INFO] [pipeline] OCR página 3/10
+[18:36:16] [INFO] [pipeline] OCR página 3 OK (chars=904)
+[18:36:16] [INFO] [pipeline] OCR página 4/10

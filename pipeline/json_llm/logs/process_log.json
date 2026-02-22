@@ -1,23 +1,23 @@
 {
   "schema": "abm_process_log_v1",
-  "fecha_proceso": "2026-02-22T18:34:26",
+  "fecha_proceso": "2026-02-22T18:36:04",
   "resumen": {
     "pdfs_detectados": 154,
-    "documentos_ok": 95,
+    "documentos_ok": 104,
     "documentos_warning": 0,
     "documentos_error": 1,
     "documentos_skipped": 0,
     "documentos_duplicate": 0,
-    "documentos_procesados": 95,
+    "documentos_procesados": 104,
     "socios_clasificados": 0,
     "socios_aportes": 0,
     "socios_estado": 0,
-    "processed_index": 96,
+    "processed_index": 105,
     "total_detected": 154,
-    "worked_docs": 95,
-    "elapsed_sec": 4223.66,
-    "avg_sec_per_doc": 44.46,
-    "eta_sec": 2578.65
+    "worked_docs": 104,
+    "elapsed_sec": 4322.05,
+    "avg_sec_per_doc": 41.56,
+    "eta_sec": 2036.35
   },
   "items": [
     {
@@ -4879,6 +4879,465 @@
           "mensaje_humano": "Documento clasificado. (LEGAJOS_22092025_125211_286593.pdf)",
           "detalle_tecnico": null,
           "documento_tipo": "titulo_habilitante"
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:34:49",
+      "document_id": "b5d452c2a3dc28cb",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "ocr",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_23092025_142926_287337.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "OCR_OK",
+          "mensaje_humano": "OCR completado correctamente. (LEGAJOS_23092025_142926_287337.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": null
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:34:49",
+      "document_id": "b5d452c2a3dc28cb",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "evidencia",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_23092025_142926_287337.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "EVIDENCIA_OK",
+          "mensaje_humano": "Evidencia generada. (LEGAJOS_23092025_142926_287337.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": null
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:34:49",
+      "document_id": "b5d452c2a3dc28cb",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "clasificacion",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_23092025_142926_287337.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "CLASIFICACION_OK",
+          "mensaje_humano": "Documento clasificado. (LEGAJOS_23092025_142926_287337.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": "dni"
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:09",
+      "document_id": "7f8f556483ccf597",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "ocr",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_24092025_130640_287349.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "OCR_OK",
+          "mensaje_humano": "OCR completado correctamente. (LEGAJOS_24092025_130640_287349.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": null
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:09",
+      "document_id": "7f8f556483ccf597",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "evidencia",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_24092025_130640_287349.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "EVIDENCIA_OK",
+          "mensaje_humano": "Evidencia generada. (LEGAJOS_24092025_130640_287349.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": null
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:09",
+      "document_id": "7f8f556483ccf597",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "clasificacion",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_24092025_130640_287349.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "CLASIFICACION_OK",
+          "mensaje_humano": "Documento clasificado. (LEGAJOS_24092025_130640_287349.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": "dni"
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:15",
+      "document_id": "ea838fb66118b8e8",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "ocr",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25082025_100107_270959.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "OCR_OK",
+          "mensaje_humano": "OCR completado correctamente. (LEGAJOS_25082025_100107_270959.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": null
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:15",
+      "document_id": "ea838fb66118b8e8",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "evidencia",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25082025_100107_270959.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "EVIDENCIA_OK",
+          "mensaje_humano": "Evidencia generada. (LEGAJOS_25082025_100107_270959.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": null
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:15",
+      "document_id": "ea838fb66118b8e8",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "clasificacion",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25082025_100107_270959.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "CLASIFICACION_OK",
+          "mensaje_humano": "Documento clasificado. (LEGAJOS_25082025_100107_270959.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": "dni"
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:19",
+      "document_id": "5c3843409222e19b",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "ocr",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25082025_100120_270961.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "OCR_OK",
+          "mensaje_humano": "OCR completado correctamente. (LEGAJOS_25082025_100120_270961.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": null
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:19",
+      "document_id": "5c3843409222e19b",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "evidencia",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25082025_100120_270961.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "EVIDENCIA_OK",
+          "mensaje_humano": "Evidencia generada. (LEGAJOS_25082025_100120_270961.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": null
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:19",
+      "document_id": "5c3843409222e19b",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "clasificacion",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25082025_100120_270961.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "CLASIFICACION_OK",
+          "mensaje_humano": "Documento clasificado. (LEGAJOS_25082025_100120_270961.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": "titulo_habilitante"
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:24",
+      "document_id": "29908d5cdbc758d9",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "ocr",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25082025_100131_270963.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "OCR_OK",
+          "mensaje_humano": "OCR completado correctamente. (LEGAJOS_25082025_100131_270963.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": null
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:24",
+      "document_id": "29908d5cdbc758d9",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "evidencia",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25082025_100131_270963.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "EVIDENCIA_OK",
+          "mensaje_humano": "Evidencia generada. (LEGAJOS_25082025_100131_270963.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": null
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:24",
+      "document_id": "29908d5cdbc758d9",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "clasificacion",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25082025_100131_270963.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "CLASIFICACION_OK",
+          "mensaje_humano": "Documento clasificado. (LEGAJOS_25082025_100131_270963.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": "dni"
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:30",
+      "document_id": "b291f515a9e9540d",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "ocr",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25082025_100142_270965.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "OCR_OK",
+          "mensaje_humano": "OCR completado correctamente. (LEGAJOS_25082025_100142_270965.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": null
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:30",
+      "document_id": "b291f515a9e9540d",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "evidencia",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25082025_100142_270965.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "EVIDENCIA_OK",
+          "mensaje_humano": "Evidencia generada. (LEGAJOS_25082025_100142_270965.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": null
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:30",
+      "document_id": "b291f515a9e9540d",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "clasificacion",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25082025_100142_270965.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "CLASIFICACION_OK",
+          "mensaje_humano": "Documento clasificado. (LEGAJOS_25082025_100142_270965.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": "sss_prestador"
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:46",
+      "document_id": "55555f62ac68f3b1",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "ocr",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25082025_100202_270967.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "OCR_OK",
+          "mensaje_humano": "OCR completado correctamente. (LEGAJOS_25082025_100202_270967.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": null
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:46",
+      "document_id": "55555f62ac68f3b1",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "evidencia",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25082025_100202_270967.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "EVIDENCIA_OK",
+          "mensaje_humano": "Evidencia generada. (LEGAJOS_25082025_100202_270967.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": null
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:46",
+      "document_id": "55555f62ac68f3b1",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "clasificacion",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25082025_100202_270967.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "CLASIFICACION_OK",
+          "mensaje_humano": "Documento clasificado. (LEGAJOS_25082025_100202_270967.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": "seguro_mala_praxis"
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:51",
+      "document_id": "1bf93b57c447b35e",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "ocr",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25082025_105017_270971.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "OCR_OK",
+          "mensaje_humano": "OCR completado correctamente. (LEGAJOS_25082025_105017_270971.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": null
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:51",
+      "document_id": "1bf93b57c447b35e",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "evidencia",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25082025_105017_270971.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "EVIDENCIA_OK",
+          "mensaje_humano": "Evidencia generada. (LEGAJOS_25082025_105017_270971.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": null
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:35:51",
+      "document_id": "1bf93b57c447b35e",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "clasificacion",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25082025_105017_270971.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "CLASIFICACION_OK",
+          "mensaje_humano": "Documento clasificado. (LEGAJOS_25082025_105017_270971.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": "afip_arca"
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:36:04",
+      "document_id": "53db64eb0c2cc7cb",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "ocr",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25112025_142436_320433.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "OCR_OK",
+          "mensaje_humano": "OCR completado correctamente. (LEGAJOS_25112025_142436_320433.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": null
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:36:04",
+      "document_id": "53db64eb0c2cc7cb",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "evidencia",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25112025_142436_320433.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "EVIDENCIA_OK",
+          "mensaje_humano": "Evidencia generada. (LEGAJOS_25112025_142436_320433.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": null
+        }
+      ]
+    },
+    {
+      "fecha_proceso": "2026-02-22T18:36:04",
+      "document_id": "53db64eb0c2cc7cb",
+      "socio_uid": "NOMBRE_LEGAJOS",
+      "etapa": "clasificacion",
+      "estado": "ok",
+      "file_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\runs\\entrada_normalizada\\NOMBRE_LEGAJOS\\LEGAJOS_25112025_142436_320433.pdf",
+      "mensajes": [
+        {
+          "nivel": "ok",
+          "codigo": "CLASIFICACION_OK",
+          "mensaje_humano": "Documento clasificado. (LEGAJOS_25112025_142436_320433.pdf)",
+          "detalle_tecnico": null,
+          "documento_tipo": "afip_arca"
         }
       ]
     }
