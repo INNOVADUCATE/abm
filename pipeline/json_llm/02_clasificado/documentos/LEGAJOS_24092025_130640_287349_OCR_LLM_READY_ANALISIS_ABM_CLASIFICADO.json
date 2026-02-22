@@ -1,0 +1,86 @@
+{
+  "schema": "abm_doc_clasificado_v1",
+  "fecha_proceso_utc": "2026-02-22T21:35:09Z",
+  "socio_uid": "27-29125435-2",
+  "document_id": "7f8f556483ccf597",
+  "input": {
+    "analysis_json": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\01_evidencia\\LEGAJOS_24092025_130640_287349_OCR_LLM_READY_ANALISIS_ABM.json",
+    "txt_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\00_ocr\\LEGAJOS_24092025_130640_287349_OCR_LLM_READY.txt"
+  },
+  "campos_aportados": {
+    "dni": "24092025",
+    "cuil_cuit": "27-29125435-2",
+    "matricula": null,
+    "nombre_completo": "SILLERO LORENA MIRTA - C.U.LT. N° -- CON DOMICILIO EN CALLE ESPAÑA",
+    "direccion": "españa 2101",
+    "localidad": "mendoza"
+  },
+  "evidencia_resumen": {
+    "dni_candidatos": [
+      "24092025",
+      "29125435",
+      "71845449",
+      "12715605",
+      "32355042"
+    ],
+    "dni_mrz": [],
+    "cuit_candidatos": [
+      "27-29125435-2",
+      "27291254352",
+      "27-29125435-2",
+      "30-71845449-9",
+      "30718454499",
+      "30-71845449-9",
+      "20-12715605-1",
+      "20127156051",
+      "20-32355042-6",
+      "20323550426",
+      "20-32355042-6"
+    ],
+    "matricula_candidatos": [],
+    "keywords": {
+      "dni": true,
+      "osep": false,
+      "pami": false,
+      "seguro": false,
+      "mala_praxis": false
+    }
+  },
+  "clasificacion": {
+    "tipos": [
+      {
+        "tipo": "dni",
+        "confianza": "media",
+        "score": 2
+      },
+      {
+        "tipo": "habilitacion_laboratorio",
+        "confianza": "media",
+        "score": 2
+      }
+    ],
+    "heuristica_scores": {
+      "dni": 2,
+      "afip_arca": 0,
+      "ingresos_brutos_atm": 0,
+      "titulo_habilitante": 0,
+      "matricula_profesional": 0,
+      "sss_prestador": 0,
+      "seguro_mala_praxis": 0,
+      "habilitacion_laboratorio": 2,
+      "designacion_director_tecnico": 0,
+      "adhesion_abm": 0,
+      "adhesion_osep": 0,
+      "adhesion_pami": 0,
+      "aceptacion_pago_convenios": 0,
+      "cuenta_bancaria": 0,
+      "otros": 0
+    },
+    "llm": {
+      "usado": false,
+      "model": null,
+      "error": null
+    }
+  },
+  "snippets": "DOCUMENTO: LEGAJOS_24092025_130640_287349.pdf\nDOCUMENT_ID: 7f8f556483ccf597\nRepública Argentina\nCarátula Expediente\nNúmero: PV-2025-07087805-GDEMZA-SDFYH#MSDSYD\nMendoza, Martes 9 de Septiembre de 2025\nReferencia: Carátula del expediente EX-2025-07087803- -GDEMZA-SDFYH#MSDSYD\nExpediente: EX-2025-07087803- -GDEMZA-SDFYH#MSDSYD\nFecha Caratulación: 09/09/2025\nUsuario Solicitante: Jimena Villafañe (JVILLAFANE)\nCódigo Trámite:SSSA-HABIL - Aplicación de Ley 9536 y Decreto 1847/24\nDeSCTipCiÓn: S/ HABILITACIÓN CENTRO DENOMINADO \"FLOR DE LIS\" TITULARIDAD DE\nSILLERO LORENA MIRTA - C.U.LT. N° 27-29125435-2 CON DOMICILIO EN CALLE ESPAÑA\nCuit/Cuil: 27291254352\nDNI no validado por RENAPER\nTipo Documento: DNI\nNúmero Documento: 29125435\nPersona Fisica/Persona Jurídica\nNúmero: PV-2025-05644122-GDEMZA-SDFYH#MSDSYD\nMiércoles 23 de Julio de 2025\nReferencia: Carátula del expediente EX-2025-05644120- -GDEMZA-SDFYH#MSDSYD\nExpediente: EX-2025-05644120- -GDEMZA-SDFYH#MSDSYD\nFecha Caratulación: 23/07/2025\nDeSCrIpCIÓn: S/ HABILITACIÓN CONSULTORIOS DENOMINADO \"CENTRO MEDICO REVIT\"\nTITULARIDAD DE REVIT S. A. S. - C.U I.T. N° 30-71845449-9 CON DOMICILIO EN EDIFICIO\nAVATAR WORK - PALMARES VALLEY PB OFICINA 15. LUJAN DE CUYO\nCuit/Cuil: 30718454499\nNúmero Documento:71845449\nPersona Física/Persona Jurídica\nLocalidad:LA PUNTILLA\nDomIcilIO: EDIFICIO AVATAR WORK - PALMARES VALLEY\nPiso: PB\nObservaciones: ---\nMotivo de Solicitud de Caratulación: S/ HABILITACIÓN CONSULTORIOS DENOMINADO \"CENTRO\nMEDICO REVIT\" TITULARIDAD DE REVIT S. A. S. - C.U.I.T. N° 30-71845449-9 CON DOMICILIO\nEN EDIFICIO AVATAR WORK - PALMARES VALLEY PB OFICINA 15. LUJAN DE CUYO\nNúmero:\nMendoza,\nReferencia: Carátula del expediente EX-2025-02206748- -GDEMZA-SDFYH#MSDSYD\nExpediente: EX-2025-02206748- -GDEMZA-SDFYH#MSDSYD\nFechaCaratulación: 26/03/2025\nUsuario Solicitante: Noelia Pereira (NPEREIRA)\nCódigo Trámite: SSSA-HABIL - Aplicación de Ley 9536 y Decreto 1847/24\nDeSCrIpCIÓn: S/ HABILITACION \" AMAYA ESPACIO DE SALUD \" TITULAR AMAYA JULIO\nEDUARDO CUIT 20-12715605-1 DOMICILIO MITRE N 775 CIUDAD\nCuit/Cuil:20127156051\nNúmero Documento: 12715605\nMotivo de Solicitud de Caratulación: S/ HABILITACION \" AMAYA ESPACIO DE SALUD \" TITULAR\nAMAYA JULIO EDUARDO CUIT 20-12715605- I DOMICILIO MITRE N 775 CIUDAD\nNúmero: PV-2025-03031379-GDEMZA-SDFYH#MSDSYD\nJueves 24 de Abril de 2025\nReferencia: Carátula del expediente EX-2025-03031374- -GDEMZA-SDFYH#MSDSYD\nExpediente:EX-2025-03031374- -GDEMZA-SDFYH#MSDSYD\nFecha Caratulación: 24/04/2025\nDesCripción: S/ HABILITACION \" CENTRO MEDICO LELOIR\" TITULAR FERNANDEZ JUAN\nMANUEL CUIT 20-32355042-6 DOMICILIO PAULA ALBARRACIN N 999 BARRIO BANCARIO\nCuit/Cuil: 20323550426\nNúmero Documento: 32355042\nMotivo de Solicitud de Caratulación: S/ HABILITACION \" CENTRO MEDICO LELOIR\" TITULAR\nFERNANDEZ JUAN MANUEL CUIT 20-32355042-6 DOMICILIO PAULA ALBARRACIN N 999"
+}
