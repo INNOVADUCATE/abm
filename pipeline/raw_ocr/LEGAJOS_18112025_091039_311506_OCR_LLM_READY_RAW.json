@@ -1,0 +1,1734 @@
+{
+  "documento": "LEGAJOS_18112025_091039_311506.pdf",
+  "document_id": "547507ae8005d7ae",
+  "paginas": [
+    {
+      "pagina": 1,
+      "image_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\temp_proceso\\LEGAJOS_18112025_091039_311506_p1.png",
+      "items": [
+        {
+          "bbox": [
+            [
+              137,
+              86
+            ],
+            [
+              1038,
+              91
+            ],
+            [
+              1038,
+              139
+            ],
+            [
+              136,
+              134
+            ]
+          ],
+          "text": "SENTENCIA EXPEDIENTE 05/2025 ACTUACIÓN SUMARIAL MAT. 1510",
+          "score": 0.9927239418029785
+        },
+        {
+          "bbox": [
+            [
+              106,
+              161
+            ],
+            [
+              1066,
+              172
+            ],
+            [
+              1066,
+              223
+            ],
+            [
+              105,
+              211
+            ]
+          ],
+          "text": "Visto el Expediente 05/2025 Actuación Sumarial Mat.1510 iniciado por",
+          "score": 0.9919966459274292
+        },
+        {
+          "bbox": [
+            [
+              107,
+              201
+            ],
+            [
+              1059,
+              212
+            ],
+            [
+              1059,
+              259
+            ],
+            [
+              107,
+              248
+            ]
+          ],
+          "text": "denuncia presentada ante la Comisión Directiva de la Asociación Bioquímica",
+          "score": 0.9916788339614868
+        },
+        {
+          "bbox": [
+            [
+              108,
+              239
+            ],
+            [
+              1056,
+              249
+            ],
+            [
+              1056,
+              293
+            ],
+            [
+              108,
+              283
+            ]
+          ],
+          "text": "de Mendoza por la Sra. Claudia Correa, encargada de las oficinasPAMI",
+          "score": 0.9845255613327026
+        },
+        {
+          "bbox": [
+            [
+              110,
+              278
+            ],
+            [
+              1050,
+              291
+            ],
+            [
+              1050,
+              325
+            ],
+            [
+              110,
+              312
+            ]
+          ],
+          "text": "Maipú, en virtud del reclamo formulado por la paciente María Teresa Torres,",
+          "score": 0.9977241158485413
+        },
+        {
+          "bbox": [
+            [
+              109,
+              312
+            ],
+            [
+              1050,
+              323
+            ],
+            [
+              1050,
+              356
+            ],
+            [
+              109,
+              346
+            ]
+          ],
+          "text": "afiliada de dicha obra social, quien al pretender realizarse análisis clínicos",
+          "score": 0.9909656047821045
+        },
+        {
+          "bbox": [
+            [
+              110,
+              349
+            ],
+            [
+              1046,
+              359
+            ],
+            [
+              1046,
+              386
+            ],
+            [
+              110,
+              376
+            ]
+          ],
+          "text": "en el laboratorio sito en el Centro Médico Don Bosco —bajo dirección de la",
+          "score": 0.9887227416038513
+        },
+        {
+          "bbox": [
+            [
+              109,
+              381
+            ],
+            [
+              1046,
+              391
+            ],
+            [
+              1046,
+              422
+            ],
+            [
+              109,
+              412
+            ]
+          ],
+          "text": "Bioq. Marina Florencia Monsalvo— fue informada que su orden médica",
+          "score": 0.9787105321884155
+        },
+        {
+          "bbox": [
+            [
+              109,
+              416
+            ],
+            [
+              431,
+              419
+            ],
+            [
+              430,
+              447
+            ],
+            [
+              109,
+              444
+            ]
+          ],
+          "text": "OME N° 3325464806522 (",
+          "score": 0.9749855399131775
+        },
+        {
+          "bbox": [
+            [
+              461,
+              418
+            ],
+            [
+              1045,
+              427
+            ],
+            [
+              1044,
+              455
+            ],
+            [
+              461,
+              446
+            ]
+          ],
+          "text": "fecha 07/05/2025) excedía consumo por existir",
+          "score": 0.9920715093612671
+        },
+        {
+          "bbox": [
+            [
+              106,
+              449
+            ],
+            [
+              1046,
+              459
+            ],
+            [
+              1046,
+              490
+            ],
+            [
+              106,
+              480
+            ]
+          ],
+          "text": "otra orden previa OME N° 3325283386540 (de fecha 11/02/2025), pese a",
+          "score": 0.9884381890296936
+        },
+        {
+          "bbox": [
+            [
+              105,
+              482
+            ],
+            [
+              1046,
+              491
+            ],
+            [
+              1046,
+              524
+            ],
+            [
+              105,
+              515
+            ]
+          ],
+          "text": "que nunca había sido atendida en dicha fecha y se le habría pretendido",
+          "score": 0.9799562692642212
+        },
+        {
+          "bbox": [
+            [
+              106,
+              516
+            ],
+            [
+              724,
+              523
+            ],
+            [
+              723,
+              553
+            ],
+            [
+              106,
+              546
+            ]
+          ],
+          "text": "cobrar indebidamente la suma de $40.000 y que:-",
+          "score": 0.9649157524108887
+        },
+        {
+          "bbox": [
+            [
+              143,
+              551
+            ],
+            [
+              1044,
+              560
+            ],
+            [
+              1044,
+              591
+            ],
+            [
+              142,
+              582
+            ]
+          ],
+          "text": "A) La Comisión Directiva de la ABM, mediante Resolución N°56-038/25,",
+          "score": 0.995349109172821
+        },
+        {
+          "bbox": [
+            [
+              181,
+              584
+            ],
+            [
+              1046,
+              595
+            ],
+            [
+              1045,
+              628
+            ],
+            [
+              181,
+              617
+            ]
+          ],
+          "text": "dispuso la apertura de la actuación sumarial y la intervención del",
+          "score": 0.9779723286628723
+        },
+        {
+          "bbox": [
+            [
+              179,
+              620
+            ],
+            [
+              1046,
+              630
+            ],
+            [
+              1046,
+              663
+            ],
+            [
+              179,
+              653
+            ]
+          ],
+          "text": "Departamento de Auditoría, conforme al POE 008 del Sistema de",
+          "score": 0.9922409057617188
+        },
+        {
+          "bbox": [
+            [
+              178,
+              655
+            ],
+            [
+              1045,
+              666
+            ],
+            [
+              1045,
+              696
+            ],
+            [
+              178,
+              685
+            ]
+          ],
+          "text": "Gestión. La auditoría efectuada en el laboratorio del Centro Médico",
+          "score": 0.9912267923355103
+        },
+        {
+          "bbox": [
+            [
+              177,
+              690
+            ],
+            [
+              1044,
+              698
+            ],
+            [
+              1044,
+              728
+            ],
+            [
+              177,
+              720
+            ]
+          ],
+          "text": "Don Bosco -bajo responsabilidad de la profesional sumariada—",
+          "score": 0.970855712890625
+        },
+        {
+          "bbox": [
+            [
+              175,
+              725
+            ],
+            [
+              1046,
+              731
+            ],
+            [
+              1046,
+              764
+            ],
+            [
+              175,
+              758
+            ]
+          ],
+          "text": "detectó irregularidades graves en la trazabilidad de órdenes y en la",
+          "score": 0.9854204654693604
+        },
+        {
+          "bbox": [
+            [
+              173,
+              761
+            ],
+            [
+              1047,
+              765
+            ],
+            [
+              1047,
+              798
+            ],
+            [
+              173,
+              793
+            ]
+          ],
+          "text": "cooperación institucional debida, circunstancia que derivó en la",
+          "score": 0.9973101615905762
+        },
+        {
+          "bbox": [
+            [
+              171,
+              792
+            ],
+            [
+              1048,
+              801
+            ],
+            [
+              1048,
+              836
+            ],
+            [
+              171,
+              827
+            ]
+          ],
+          "text": "elevación de las actuaciones a este Honorable Tribunal de Ética y",
+          "score": 0.9861994981765747
+        },
+        {
+          "bbox": [
+            [
+              170,
+              831
+            ],
+            [
+              319,
+              831
+            ],
+            [
+              319,
+              862
+            ],
+            [
+              170,
+              862
+            ]
+          ],
+          "text": "Disciplina.--",
+          "score": 0.9997551441192627
+        },
+        {
+          "bbox": [
+            [
+              126,
+              862
+            ],
+            [
+              1049,
+              866
+            ],
+            [
+              1049,
+              903
+            ],
+            [
+              126,
+              899
+            ]
+          ],
+          "text": "B) Analizadas las pruebas producidas, el informe de auditoría (folios 5 a",
+          "score": 0.9927272200584412
+        },
+        {
+          "bbox": [
+            [
+              166,
+              896
+            ],
+            [
+              1047,
+              904
+            ],
+            [
+              1047,
+              938
+            ],
+            [
+              166,
+              930
+            ]
+          ],
+          "text": "8), el acta notarial de constatación de fecha 10/06/2025 y el descargo",
+          "score": 0.9953371286392212
+        },
+        {
+          "bbox": [
+            [
+              165,
+              932
+            ],
+            [
+              1047,
+              939
+            ],
+            [
+              1047,
+              970
+            ],
+            [
+              165,
+              963
+            ]
+          ],
+          "text": "formal de la profesional, este Tribunal advierte que la orden OME",
+          "score": 0.9924615621566772
+        },
+        {
+          "bbox": [
+            [
+              163,
+              967
+            ],
+            [
+              1045,
+              973
+            ],
+            [
+              1045,
+              1004
+            ],
+            [
+              163,
+              998
+            ]
+          ],
+          "text": "N°3325283386540 (11/02/2025) fue gestionada bajo la matrícula",
+          "score": 0.9857677221298218
+        },
+        {
+          "bbox": [
+            [
+              162,
+              1002
+            ],
+            [
+              1046,
+              1007
+            ],
+            [
+              1046,
+              1040
+            ],
+            [
+              162,
+              1035
+            ]
+          ],
+          "text": "profesional de la Bioq. Monsalvo, sin que exista constancia alguna de",
+          "score": 0.9924550652503967
+        },
+        {
+          "bbox": [
+            [
+              160,
+              1039
+            ],
+            [
+              1045,
+              1043
+            ],
+            [
+              1045,
+              1073
+            ],
+            [
+              160,
+              1069
+            ]
+          ],
+          "text": "atención efectiva, muestra procesada o registro en los libros de",
+          "score": 0.9976435899734497
+        },
+        {
+          "bbox": [
+            [
+              158,
+              1074
+            ],
+            [
+              1044,
+              1078
+            ],
+            [
+              1044,
+              1109
+            ],
+            [
+              158,
+              1105
+            ]
+          ],
+          "text": "laboratorio. La profesional no logra aportar explicación plausible ni",
+          "score": 0.9974140524864197
+        },
+        {
+          "bbox": [
+            [
+              157,
+              1108
+            ],
+            [
+              1045,
+              1111
+            ],
+            [
+              1045,
+              1145
+            ],
+            [
+              157,
+              1142
+            ]
+          ],
+          "text": "documentación que justifique la tenencia o emisión de dicha orden,",
+          "score": 0.9931771159172058
+        },
+        {
+          "bbox": [
+            [
+              156,
+              1140
+            ],
+            [
+              1046,
+              1145
+            ],
+            [
+              1046,
+              1182
+            ],
+            [
+              156,
+              1177
+            ]
+          ],
+          "text": "limitándose a alegar un error informático del sistema PAMl y",
+          "score": 0.9857741594314575
+        },
+        {
+          "bbox": [
+            [
+              156,
+              1179
+            ],
+            [
+              1045,
+              1181
+            ],
+            [
+              1045,
+              1215
+            ],
+            [
+              156,
+              1213
+            ]
+          ],
+          "text": "atribuyendo responsabilidad a su personal técnico, sin acreditar tales",
+          "score": 0.9913397431373596
+        },
+        {
+          "bbox": [
+            [
+              156,
+              1220
+            ],
+            [
+              299,
+              1220
+            ],
+            [
+              299,
+              1247
+            ],
+            [
+              156,
+              1247
+            ]
+          ],
+          "text": "extremos.-",
+          "score": 0.9997873306274414
+        },
+        {
+          "bbox": [
+            [
+              109,
+              1247
+            ],
+            [
+              1048,
+              1247
+            ],
+            [
+              1048,
+              1290
+            ],
+            [
+              109,
+              1290
+            ]
+          ],
+          "text": "C) Asimismo, de las constancias obrantes surge que durante el",
+          "score": 0.9872267842292786
+        },
+        {
+          "bbox": [
+            [
+              152,
+              1283
+            ],
+            [
+              1044,
+              1282
+            ],
+            [
+              1044,
+              1319
+            ],
+            [
+              152,
+              1320
+            ]
+          ],
+          "text": "procedimiento de auditoría la Bioq. Monsalvo obstaculizó el accionar",
+          "score": 0.9963163733482361
+        },
+        {
+          "bbox": [
+            [
+              155,
+              1321
+            ],
+            [
+              1041,
+              1321
+            ],
+            [
+              1041,
+              1351
+            ],
+            [
+              155,
+              1351
+            ]
+          ],
+          "text": "de las auditoras de la ABM, demorando el acceso a la documentación",
+          "score": 0.998862087726593
+        },
+        {
+          "bbox": [
+            [
+              152,
+              1355
+            ],
+            [
+              1042,
+              1352
+            ],
+            [
+              1042,
+              1386
+            ],
+            [
+              152,
+              1388
+            ]
+          ],
+          "text": "y condicionando la entrega de registros, vulnerando de ese modo el",
+          "score": 0.9992210865020752
+        },
+        {
+          "bbox": [
+            [
+              153,
+              1390
+            ],
+            [
+              1039,
+              1391
+            ],
+            [
+              1039,
+              1421
+            ],
+            [
+              153,
+              1420
+            ]
+          ],
+          "text": "deber de colaboración con los órganos de control y la transparencia",
+          "score": 0.9952676296234131
+        },
+        {
+          "bbox": [
+            [
+              150,
+              1424
+            ],
+            [
+              1041,
+              1425
+            ],
+            [
+              1041,
+              1459
+            ],
+            [
+              150,
+              1458
+            ]
+          ],
+          "text": "institucional que rige el ejercicio de la actividad profesional",
+          "score": 0.9882382750511169
+        },
+        {
+          "bbox": [
+            [
+              148,
+              1461
+            ],
+            [
+              316,
+              1459
+            ],
+            [
+              316,
+              1491
+            ],
+            [
+              149,
+              1493
+            ]
+          ],
+          "text": "bioquímica.-",
+          "score": 0.9993919730186462
+        }
+      ]
+    },
+    {
+      "pagina": 2,
+      "image_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\temp_proceso\\LEGAJOS_18112025_091039_311506_p2.png",
+      "items": [
+        {
+          "bbox": [
+            [
+              129,
+              76
+            ],
+            [
+              1030,
+              97
+            ],
+            [
+              1029,
+              128
+            ],
+            [
+              128,
+              107
+            ]
+          ],
+          "text": "D) La defensa presentada por la profesional y su patrocinante, Dra.",
+          "score": 0.9902586340904236
+        },
+        {
+          "bbox": [
+            [
+              172,
+              116
+            ],
+            [
+              1029,
+              134
+            ],
+            [
+              1028,
+              164
+            ],
+            [
+              172,
+              146
+            ]
+          ],
+          "text": "Miriam Tosi, carece de sustento probatorio suficiente que permita",
+          "score": 0.985318124294281
+        },
+        {
+          "bbox": [
+            [
+              173,
+              154
+            ],
+            [
+              1029,
+              170
+            ],
+            [
+              1028,
+              200
+            ],
+            [
+              173,
+              184
+            ]
+          ],
+          "text": "desvirtuar las constataciones efectuadas por la auditoría y la",
+          "score": 0.9977684617042542
+        },
+        {
+          "bbox": [
+            [
+              174,
+              193
+            ],
+            [
+              1029,
+              205
+            ],
+            [
+              1028,
+              235
+            ],
+            [
+              174,
+              223
+            ]
+          ],
+          "text": "Comisión Directiva, limitándose a manifestar disconformidad con el",
+          "score": 0.9965177774429321
+        },
+        {
+          "bbox": [
+            [
+              173,
+              231
+            ],
+            [
+              1030,
+              240
+            ],
+            [
+              1029,
+              274
+            ],
+            [
+              173,
+              265
+            ]
+          ],
+          "text": "procedimiento y solicitar el archivo del expediente, sin aportar",
+          "score": 0.9988061189651489
+        },
+        {
+          "bbox": [
+            [
+              174,
+              269
+            ],
+            [
+              977,
+              277
+            ],
+            [
+              977,
+              308
+            ],
+            [
+              174,
+              300
+            ]
+          ],
+          "text": "elementos de convicción que permitan arribar a otra conclusión.",
+          "score": 0.9946560263633728
+        },
+        {
+          "bbox": [
+            [
+              975,
+              288
+            ],
+            [
+              1023,
+              288
+            ],
+            [
+              1023,
+              302
+            ],
+            [
+              975,
+              302
+            ]
+          ],
+          "text": "----",
+          "score": 0.8425162434577942
+        },
+        {
+          "bbox": [
+            [
+              130,
+              300
+            ],
+            [
+              1031,
+              308
+            ],
+            [
+              1030,
+              348
+            ],
+            [
+              129,
+              340
+            ]
+          ],
+          "text": "E) Tales conductas —la imposibilidad de justificar la existencia de una",
+          "score": 0.9813050627708435
+        },
+        {
+          "bbox": [
+            [
+              173,
+              342
+            ],
+            [
+              1027,
+              348
+            ],
+            [
+              1026,
+              379
+            ],
+            [
+              173,
+              373
+            ]
+          ],
+          "text": "orden médica no utilizada y la obstaculización de la auditoría—",
+          "score": 0.9849081039428711
+        },
+        {
+          "bbox": [
+            [
+              173,
+              378
+            ],
+            [
+              1029,
+              382
+            ],
+            [
+              1028,
+              416
+            ],
+            [
+              173,
+              412
+            ]
+          ],
+          "text": "constituyen infracciones graves a los deberes éticos establecidos en",
+          "score": 0.993723452091217
+        },
+        {
+          "bbox": [
+            [
+              171,
+              410
+            ],
+            [
+              1030,
+              416
+            ],
+            [
+              1029,
+              454
+            ],
+            [
+              171,
+              448
+            ]
+          ],
+          "text": "el Código de Ética de la Asociación Bioquímica de Mendoza,",
+          "score": 0.9764643907546997
+        },
+        {
+          "bbox": [
+            [
+              172,
+              448
+            ],
+            [
+              1029,
+              455
+            ],
+            [
+              1028,
+              489
+            ],
+            [
+              172,
+              482
+            ]
+          ],
+          "text": "particularmente los artículos 34 inciso d) y 40, que obligan a los",
+          "score": 0.9876794815063477
+        },
+        {
+          "bbox": [
+            [
+              174,
+              487
+            ],
+            [
+              1028,
+              492
+            ],
+            [
+              1027,
+              523
+            ],
+            [
+              174,
+              518
+            ]
+          ],
+          "text": "profesionales bioquímicos a observar una conducta leal, veraz y",
+          "score": 0.9920259118080139
+        },
+        {
+          "bbox": [
+            [
+              174,
+              522
+            ],
+            [
+              1029,
+              525
+            ],
+            [
+              1029,
+              558
+            ],
+            [
+              174,
+              555
+            ]
+          ],
+          "text": "ajustada a las normas institucionales, colaborando con los",
+          "score": 0.9854398965835571
+        },
+        {
+          "bbox": [
+            [
+              174,
+              559
+            ],
+            [
+              639,
+              561
+            ],
+            [
+              638,
+              592
+            ],
+            [
+              174,
+              590
+            ]
+          ],
+          "text": "mecanismos de fiscalización interna.--",
+          "score": 0.9909427165985107
+        },
+        {
+          "bbox": [
+            [
+              92,
+              592
+            ],
+            [
+              1028,
+              598
+            ],
+            [
+              1027,
+              635
+            ],
+            [
+              92,
+              629
+            ]
+          ],
+          "text": "Por las razones expuestas el Honorable Tribunal de Ética y Disciplina de la",
+          "score": 0.9937336444854736
+        },
+        {
+          "bbox": [
+            [
+              95,
+              632
+            ],
+            [
+              662,
+              636
+            ],
+            [
+              662,
+              666
+            ],
+            [
+              95,
+              662
+            ]
+          ],
+          "text": "Asociación Bioquímica de Mendoza resuelve:",
+          "score": 0.9879793524742126
+        },
+        {
+          "bbox": [
+            [
+              116,
+              670
+            ],
+            [
+              142,
+              670
+            ],
+            [
+              142,
+              700
+            ],
+            [
+              116,
+              700
+            ]
+          ],
+          "text": "I.",
+          "score": 0.9760311841964722
+        },
+        {
+          "bbox": [
+            [
+              170,
+              668
+            ],
+            [
+              1029,
+              672
+            ],
+            [
+              1028,
+              706
+            ],
+            [
+              170,
+              702
+            ]
+          ],
+          "text": "Tener por acreditadas las infracciones éticas cometidas por la Bioq.",
+          "score": 0.9881842136383057
+        },
+        {
+          "bbox": [
+            [
+              173,
+              704
+            ],
+            [
+              1031,
+              706
+            ],
+            [
+              1031,
+              739
+            ],
+            [
+              173,
+              737
+            ]
+          ],
+          "text": "Marina Florencia Monsalvo, matrícula 1510, por violación de los",
+          "score": 0.9863011837005615
+        },
+        {
+          "bbox": [
+            [
+              173,
+              742
+            ],
+            [
+              1031,
+              740
+            ],
+            [
+              1031,
+              774
+            ],
+            [
+              173,
+              776
+            ]
+          ],
+          "text": "artículos 34 inciso d) y 40 del Código de Ética de la Asociación",
+          "score": 0.9949519634246826
+        },
+        {
+          "bbox": [
+            [
+              174,
+              781
+            ],
+            [
+              504,
+              776
+            ],
+            [
+              504,
+              807
+            ],
+            [
+              174,
+              812
+            ]
+          ],
+          "text": "Bioquímica de Mendoza.--",
+          "score": 0.9920625686645508
+        },
+        {
+          "bbox": [
+            [
+              112,
+              816
+            ],
+            [
+              143,
+              816
+            ],
+            [
+              143,
+              848
+            ],
+            [
+              112,
+              848
+            ]
+          ],
+          "text": "II.",
+          "score": 0.977311909198761
+        },
+        {
+          "bbox": [
+            [
+              173,
+              816
+            ],
+            [
+              1035,
+              816
+            ],
+            [
+              1035,
+              848
+            ],
+            [
+              173,
+              848
+            ]
+          ],
+          "text": "Sancionar a la mencionada profesional, atento las particularidades y",
+          "score": 0.9997390508651733
+        },
+        {
+          "bbox": [
+            [
+              174,
+              851
+            ],
+            [
+              1037,
+              851
+            ],
+            [
+              1037,
+              885
+            ],
+            [
+              174,
+              885
+            ]
+          ],
+          "text": "antecedentes del caso, con la suspensión por sesenta (60) días en el",
+          "score": 0.991296648979187
+        },
+        {
+          "bbox": [
+            [
+              176,
+              890
+            ],
+            [
+              1036,
+              890
+            ],
+            [
+              1036,
+              920
+            ],
+            [
+              176,
+              920
+            ]
+          ],
+          "text": "ejercicio de sus derechos como asociada de la Asociación Bioquímica",
+          "score": 0.9972991943359375
+        },
+        {
+          "bbox": [
+            [
+              174,
+              924
+            ],
+            [
+              1036,
+              926
+            ],
+            [
+              1036,
+              957
+            ],
+            [
+              174,
+              955
+            ]
+          ],
+          "text": "de Mendoza, conforme a las atribuciones conferidas por el",
+          "score": 0.9890962839126587
+        },
+        {
+          "bbox": [
+            [
+              174,
+              959
+            ],
+            [
+              751,
+              960
+            ],
+            [
+              751,
+              994
+            ],
+            [
+              174,
+              993
+            ]
+          ],
+          "text": "Reglamento del Tribunal de Ética y Disciplina.-",
+          "score": 0.9980648756027222
+        },
+        {
+          "bbox": [
+            [
+              104,
+              998
+            ],
+            [
+              146,
+              998
+            ],
+            [
+              146,
+              1032
+            ],
+            [
+              104,
+              1032
+            ]
+          ],
+          "text": "III.",
+          "score": 0.936114490032196
+        },
+        {
+          "bbox": [
+            [
+              176,
+              1001
+            ],
+            [
+              1036,
+              1000
+            ],
+            [
+              1036,
+              1028
+            ],
+            [
+              176,
+              1029
+            ]
+          ],
+          "text": "Notificar la presente resolución a la Comisión Directiva de la ABM",
+          "score": 0.9865158796310425
+        },
+        {
+          "bbox": [
+            [
+              176,
+              1039
+            ],
+            [
+              1039,
+              1037
+            ],
+            [
+              1039,
+              1068
+            ],
+            [
+              176,
+              1070
+            ]
+          ],
+          "text": "para su registro en el legajo disciplinario correspondiente y su",
+          "score": 0.9822472333908081
+        },
+        {
+          "bbox": [
+            [
+              178,
+              1076
+            ],
+            [
+              975,
+              1074
+            ],
+            [
+              975,
+              1104
+            ],
+            [
+              178,
+              1106
+            ]
+          ],
+          "text": "comunicación a las áreas institucionales que correspondan. -----",
+          "score": 0.9772424697875977
+        },
+        {
+          "bbox": [
+            [
+              102,
+              1146
+            ],
+            [
+              1040,
+              1144
+            ],
+            [
+              1040,
+              1177
+            ],
+            [
+              102,
+              1179
+            ]
+          ],
+          "text": "Firman la presente sentencia el señor Presidente, Dr. Héctor R. Mazzei; y los",
+          "score": 0.9975860118865967
+        },
+        {
+          "bbox": [
+            [
+              102,
+              1182
+            ],
+            [
+              1040,
+              1178
+            ],
+            [
+              1040,
+              1212
+            ],
+            [
+              102,
+              1216
+            ]
+          ],
+          "text": "vocales miembros del Honorable Tribunal de Ética y Disciplina de la",
+          "score": 0.9915189743041992
+        },
+        {
+          "bbox": [
+            [
+              105,
+              1218
+            ],
+            [
+              768,
+              1216
+            ],
+            [
+              768,
+              1250
+            ],
+            [
+              105,
+              1252
+            ]
+          ],
+          "text": "Asociación Bioquímica de Mendoza, de lo que doy fe.",
+          "score": 0.9974471926689148
+        },
+        {
+          "bbox": [
+            [
+              105,
+              1463
+            ],
+            [
+              336,
+              1468
+            ],
+            [
+              335,
+              1500
+            ],
+            [
+              104,
+              1495
+            ]
+          ],
+          "text": "Dr. Héctor Mazzei",
+          "score": 0.9825818538665771
+        },
+        {
+          "bbox": [
+            [
+              405,
+              1472
+            ],
+            [
+              689,
+              1472
+            ],
+            [
+              689,
+              1499
+            ],
+            [
+              405,
+              1499
+            ]
+          ],
+          "text": "Dr. Rodrigo Arancibia",
+          "score": 0.9972329139709473
+        },
+        {
+          "bbox": [
+            [
+              757,
+              1474
+            ],
+            [
+              1029,
+              1478
+            ],
+            [
+              1028,
+              1506
+            ],
+            [
+              757,
+              1502
+            ]
+          ],
+          "text": "Dr. Federico Morralla",
+          "score": 0.9918989539146423
+        }
+      ]
+    }
+  ]
+}

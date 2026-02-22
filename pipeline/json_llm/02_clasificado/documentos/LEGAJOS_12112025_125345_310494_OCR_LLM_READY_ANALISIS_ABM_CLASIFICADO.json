@@ -1,0 +1,70 @@
+{
+  "schema": "abm_doc_clasificado_v1",
+  "fecha_proceso_utc": "2026-02-22T21:24:33Z",
+  "socio_uid": "20-32355042-6",
+  "document_id": "a547ff70917fd2c0",
+  "input": {
+    "analysis_json": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\01_evidencia\\LEGAJOS_12112025_125345_310494_OCR_LLM_READY_ANALISIS_ABM.json",
+    "txt_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\00_ocr\\LEGAJOS_12112025_125345_310494_OCR_LLM_READY.txt"
+  },
+  "campos_aportados": {
+    "dni": "12112025",
+    "cuil_cuit": "20-32355042-6",
+    "matricula": null,
+    "nombre_completo": null,
+    "direccion": null,
+    "localidad": "godoy cruz"
+  },
+  "evidencia_resumen": {
+    "dni_candidatos": [
+      "12112025"
+    ],
+    "dni_mrz": [
+      "32355042"
+    ],
+    "cuit_candidatos": [
+      "00627734118",
+      "20-32355042-6"
+    ],
+    "matricula_candidatos": [],
+    "keywords": {
+      "dni": true,
+      "osep": false,
+      "pami": false,
+      "seguro": false,
+      "mala_praxis": false
+    }
+  },
+  "clasificacion": {
+    "tipos": [
+      {
+        "tipo": "dni",
+        "confianza": "alta",
+        "score": 5
+      }
+    ],
+    "heuristica_scores": {
+      "dni": 5,
+      "afip_arca": 0,
+      "ingresos_brutos_atm": 0,
+      "titulo_habilitante": 0,
+      "matricula_profesional": 0,
+      "sss_prestador": 0,
+      "seguro_mala_praxis": 0,
+      "habilitacion_laboratorio": 0,
+      "designacion_director_tecnico": 0,
+      "adhesion_abm": 0,
+      "adhesion_osep": 0,
+      "adhesion_pami": 0,
+      "aceptacion_pago_convenios": 0,
+      "cuenta_bancaria": 0,
+      "otros": 0
+    },
+    "llm": {
+      "usado": false,
+      "model": null,
+      "error": null
+    }
+  },
+  "snippets": "DOCUMENTO: LEGAJOS_12112025_125345_310494.pdf\nDOCUMENT_ID: a547ff70917fd2c0\nREPUBLICA ARGENTINA - MERCOSUR\nREGISTRO NACIONAL DE LAS PERSONAS\nMINISTERIO DEL INTERIOR\nFIRMAIDENTIFICADOI SIGNATURE\nFecha de vencimiento / Date of expiry\n05 FEBI FEB 2035\nDocumento / Document\nTramite Nº / Of. ident.\nPULGAR\nIDARG32355042<4<<<<<<<<<<<<<<<\n8609225M3502055ARG<<<<<<<<<<<0"
+}

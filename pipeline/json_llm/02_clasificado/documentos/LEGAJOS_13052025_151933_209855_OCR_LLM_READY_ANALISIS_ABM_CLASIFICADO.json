@@ -1,0 +1,79 @@
+{
+  "schema": "abm_doc_clasificado_v1",
+  "fecha_proceso_utc": "2026-02-22T21:25:06Z",
+  "socio_uid": "30715010565",
+  "document_id": "f6e6f7bc5e9df2cc",
+  "input": {
+    "analysis_json": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\01_evidencia\\LEGAJOS_13052025_151933_209855_OCR_LLM_READY_ANALISIS_ABM.json",
+    "txt_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\00_ocr\\LEGAJOS_13052025_151933_209855_OCR_LLM_READY.txt"
+  },
+  "campos_aportados": {
+    "dni": "13052025",
+    "cuil_cuit": "30715010565",
+    "matricula": null,
+    "nombre_completo": null,
+    "direccion": null,
+    "localidad": "mendoza"
+  },
+  "evidencia_resumen": {
+    "dni_candidatos": [
+      "13052025"
+    ],
+    "dni_mrz": [],
+    "cuit_candidatos": [
+      "30715010565",
+      "30545508652",
+      "30717087840"
+    ],
+    "matricula_candidatos": [],
+    "keywords": {
+      "dni": true,
+      "osep": false,
+      "pami": false,
+      "seguro": false,
+      "mala_praxis": false
+    }
+  },
+  "clasificacion": {
+    "tipos": [
+      {
+        "tipo": "afip_arca",
+        "confianza": "alta",
+        "score": 3
+      },
+      {
+        "tipo": "dni",
+        "confianza": "media",
+        "score": 2
+      },
+      {
+        "tipo": "titulo_habilitante",
+        "confianza": "media",
+        "score": 2
+      }
+    ],
+    "heuristica_scores": {
+      "dni": 2,
+      "afip_arca": 3,
+      "ingresos_brutos_atm": 0,
+      "titulo_habilitante": 2,
+      "matricula_profesional": 0,
+      "sss_prestador": 0,
+      "seguro_mala_praxis": 0,
+      "habilitacion_laboratorio": 0,
+      "designacion_director_tecnico": 0,
+      "adhesion_abm": 0,
+      "adhesion_osep": 0,
+      "adhesion_pami": 0,
+      "aceptacion_pago_convenios": 0,
+      "cuenta_bancaria": 2,
+      "otros": 0
+    },
+    "llm": {
+      "usado": false,
+      "model": null,
+      "error": null
+    }
+  },
+  "snippets": "DOCUMENTO: LEGAJOS_13052025_151933_209855.pdf\nDOCUMENT_ID: f6e6f7bc5e9df2cc\nCUIT: 30715010565\nIVA Responsable Inscripto\nCOD. 01\nPágina 1 de 1\nAsociacion Bioquimica De Mendoza (54550865)\nN° Documento:\nBelgrano 925 0\niviendoza Ciudad (5500)\nResponsable Inscripto\nMendoza, Argentina\nC\nCUENTA CORRIE 12/05/25\n1,634,710.00\na24\nCONSULTA DE CBU\nFECHA CONSULTA:\nGASU SAS\nTIPO CUENTA\n03 - CC $\nNÚMERO CUENTA\n13558420030899\nCBU\n0110842020084200308995\nALIAS\nGASU.ARGENTINA"
+}

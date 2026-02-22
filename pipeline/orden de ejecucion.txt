@@ -1,0 +1,197 @@
+ORDEN DE EJECUCIÓN – PIPELINE ABM (VERSIÓN FINAL)
+
+👉 **Siempre parado en la carpeta raíz del proyecto**
+(no importa si cambió la letra del disco).
+
+---
+
+## 🔹 PASO 0 – OCR (PDF → TXT)
+
+**Objetivo:** convertir los PDFs de los bioquímicos en TXT.
+
+👉 Script (según el que estés usando):
+
+* `abm_pipeline_demo.py`
+  o
+* el OCR que ya tengas funcionando y te genere `.txt`
+
+**Entrada:**
+
+```
+PDFs originales (los de ellos)
+```
+
+**Salida esperada:**
+
+```
+raw_ocr/
+ ├─ socio_xxx_001.txt
+ ├─ socio_xxx_002.txt
+```
+
+📌 Si ya tenés los `.txt`, **este paso lo podés saltear**.
+
+---
+
+## 🔹 PASO 1 – Evidencia (TXT → ANALISIS)
+
+**Script:**
+👉 `abm_01_evidencia_gui.py`
+
+**Qué hace:**
+
+* Lee `.txt`
+* Extrae campos + evidencia
+* NO decide nada todavía
+
+**Entrada:**
+
+```
+raw_ocr/*.txt
+```
+
+**Salida:**
+
+```
+json_llm/
+ └─ 01_evidencia/
+    ├─ socio_xxx_ANALISIS_ABM.json
+```
+
+📌 Este paso **es clave** y siempre va primero.
+
+---
+
+## 🔹 PASO 2 – Clasificación (ANALISIS → CLASIFICADO)
+
+**Script:**
+👉 `abm_02_clasificador_gui.py`
+
+**Qué hace:**
+
+* Clasifica documentos (DNI, seguro, matrícula, etc.)
+* Usa **DeepSeek vía Ollama** (si está activado)
+* Consolida por socio
+
+**Entrada:**
+
+```
+json_llm/01_evidencia/*_ANALISIS_ABM.json
+```
+
+**Salida:**
+
+```
+json_llm/
+ └─ 02_clasificado/
+    ├─ documentos/
+    │   ├─ *_CLASIFICADO.json
+    └─ socios/
+        ├─ SOCIO_xxx.json
+```
+
+📌 Acá ya “entiende” qué es cada documento.
+
+---
+
+## 🔹 PASO 3 – Aportes + Vencimientos
+
+**Script:**
+👉 `abm_03_aportes_vencimientos_gui.py`
+
+**Qué hace:**
+
+* Mapea: “este documento aporta a X”
+* Detecta vencimientos
+* Aplica filtros por tipo (seguro ≠ matrícula ≠ SSS)
+* Guarda evidencia + confianza
+
+**Entrada:**
+
+```
+json_llm/02_clasificado/documentos/*_CLASIFICADO.json
+```
+
+**Salida:**
+
+```
+json_llm/
+ └─ 03_aportes/
+    ├─ documentos/
+    │   ├─ *_APORTES.json
+    └─ socios/
+        ├─ SOCIO_xxx.json
+```
+
+📌 Acá ya tenés **información operativa real**.
+
+---
+
+## 🔹 PASO 4 – Estado + Alertas (el más importante para ABM)
+
+**Script:**
+👉 `abm_04_estado_alertas_gui.py`
+
+**Qué hace:**
+
+* Aplica reglas ABM
+* Detecta:
+
+  * faltantes
+  * vencidos
+  * próximos a vencer
+* Calcula **estado global del socio**
+
+**Entrada:**
+
+```
+json_llm/03_aportes/socios/SOCIO_*.json
+```
+
+**Salida:**
+
+```
+json_llm/
+ └─ 04_estado/
+    ├─ socios/
+    │   ├─ SOCIO_xxx_ESTADO.json
+    └─ resumen.json
+```
+
+📌 Esto es lo que **ve Franco / ABM**.
+
+---
+
+# 🧪 ORDEN RECOMENDADO PARA PROBAR CON PDFs REALES
+
+Si estás ahora en los bioquímicos:
+
+1️⃣ Corré OCR sobre 2–3 PDFs reales
+2️⃣ `abm_01_evidencia_gui.py`
+3️⃣ `abm_02_clasificador_gui.py` (con Ollama activo)
+4️⃣ `abm_03_aportes_vencimientos_gui.py`
+5️⃣ `abm_04_estado_alertas_gui.py`
+
+👉 y abrí:
+
+* `SOCIO_xxx_ESTADO.json`
+* `resumen.json`
+
+Eso ya es **demo institucional**, no técnica.
+
+---
+
+# 🧠 Tip importante (por lo del pendrive)
+
+Si algún script **no encuentra rutas**, acordate:
+
+* todo lo nuestro usa rutas **relativas a la carpeta raíz**
+* mientras ejecutes los `.py` desde ahí, **no importa el disco**
+
+Si querés, después armamos:
+
+* un `.bat` o `.ps1` con el orden automático
+* o una mini “pantalla principal” que ejecute todo en secuencia
+
+Pero por ahora, con esto ya podés probar tranquilo con los PDFs reales.
+Si algo raro aparece en un documento real, **eso es oro para mejorar el sistema**.

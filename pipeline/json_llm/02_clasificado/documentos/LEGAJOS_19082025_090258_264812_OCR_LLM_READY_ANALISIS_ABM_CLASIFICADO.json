@@ -1,0 +1,92 @@
+{
+  "schema": "abm_doc_clasificado_v1",
+  "fecha_proceso_utc": "2026-02-22T21:28:00Z",
+  "socio_uid": "27-33570809-7",
+  "document_id": "00077dd1886aaba4",
+  "input": {
+    "analysis_json": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\01_evidencia\\LEGAJOS_19082025_090258_264812_OCR_LLM_READY_ANALISIS_ABM.json",
+    "txt_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\00_ocr\\LEGAJOS_19082025_090258_264812_OCR_LLM_READY.txt"
+  },
+  "campos_aportados": {
+    "dni": "19082025",
+    "cuil_cuit": "27-33570809-7",
+    "matricula": "1569",
+    "nombre_completo": "AREZO MARCELA BEATRIZ",
+    "direccion": "colon 430",
+    "localidad": "maipú"
+  },
+  "evidencia_resumen": {
+    "dni_candidatos": [
+      "19082025",
+      "33570809",
+      "33570809",
+      "33570809"
+    ],
+    "dni_mrz": [
+      "33570809"
+    ],
+    "cuit_candidatos": [
+      "00064449202",
+      "27-33570809-7",
+      "00000631962",
+      "27335708097",
+      "27-33570809-7",
+      "27-33570809-7",
+      "27335708097"
+    ],
+    "matricula_candidatos": [
+      "1569",
+      "29",
+      "1569"
+    ],
+    "keywords": {
+      "dni": true,
+      "osep": false,
+      "pami": false,
+      "seguro": true,
+      "mala_praxis": true
+    }
+  },
+  "clasificacion": {
+    "tipos": [
+      {
+        "tipo": "dni",
+        "confianza": "alta",
+        "score": 5
+      },
+      {
+        "tipo": "afip_arca",
+        "confianza": "alta",
+        "score": 4
+      },
+      {
+        "tipo": "ingresos_brutos_atm",
+        "confianza": "alta",
+        "score": 4
+      }
+    ],
+    "heuristica_scores": {
+      "dni": 5,
+      "afip_arca": 4,
+      "ingresos_brutos_atm": 4,
+      "titulo_habilitante": 2,
+      "matricula_profesional": 2,
+      "sss_prestador": 3,
+      "seguro_mala_praxis": 4,
+      "habilitacion_laboratorio": 2,
+      "designacion_director_tecnico": 0,
+      "adhesion_abm": 0,
+      "adhesion_osep": 0,
+      "adhesion_pami": 0,
+      "aceptacion_pago_convenios": 0,
+      "cuenta_bancaria": 0,
+      "otros": 0
+    },
+    "llm": {
+      "usado": false,
+      "model": null,
+      "error": null
+    }
+  },
+  "snippets": "DOCUMENTO: LEGAJOS_19082025_090258_264812.pdf\nDOCUMENT_ID: 00077dd1886aaba4\nAARGENTINA-MERCDSUH\nDOCUMENTO NACIONAL DE IDENTIDAD\nAPELLIDOIS:\nMARCELA BEATRIZ\nNUMERO DE DOCUMENTO\nSEXO:\nFRMA DEL DECFCADO\nFECHA DEVENCIMIENTO\nNO VALIDO PARAVOTAR\nL000\nIDARG33570809<9<<<<<<<<<<<<<<<\n8802118F2608086ARG<<<<<<<<<<<4\nSalud y Deportes\nTITULO\nBIOQUIMICO\nMATRÍCULA\n1569\nAREZO, MARCELA BEATRIZ\nDOCUMENTO\n33570809\n11/02/1988\nMATRICULACIÓN\n29/06/2017\nVENCIMIENTO\n11/02/2099\nESTADO MATRÍCULA\nHABILITADA\nRESOL. N° 1298/17\nUNIVERSIDAD\nUNIVERSIDAD JUAN AGUSTIN MAZA,\nFACULTAD DE CIENCIAS DE LA NUTRICION\nESPECIALIDAD\nMENDOZA. REPÚBLICAARGENTINA\nFACUltad DE FARmaCIa y BIoQuÍmica\nMarcela Beatriz Arezo\nPor cuanto\ndocumento nacional de identidad n° 33.570.809, nacida en Mendoza, Lepública Argentina, el día 11 de febrero de 1988, completó los\nestudios correspondientes a la carrera de Bioquímica.\nPor tanto\nde acuerdo con lo que establece la reglamentación vigente, el Bector de la Elniversidad y la Decana de la Bacultad\nle otorgan el presente diploma de\nBioquímica\nEspedido en Hondoza, a 15 dias del mes de diciombre do 2017\nque ha sido registrada en nuestros archivos.\nCertifico que la firra de Daniel Miranda guarca similitud con la\nDIRECCIÓN NACIONAL DE GESTIÓN UNIVERSITARIA\nHTTP: //www.fedpat.com.ar\nRESPONSABILIDAD CIVIL\nPRODUCTO: RC PROF.SALUD COLECTIVAS ESPECIALES\nPOLIZA: 3399828\nCERTIFICADO: 4640\nAERZO MARCELA BEATRIZ\nMATRICULA:\nVIGENCIA DESDE:\n27/10/2024\nAnual\nVIGENCIA HASTA:\n27/10/2025\nDESCRIPCION DEL OBJETO DEL SEGURO\nTIPO DE MATRICULA\nOtras\nNRO. MATRICULA\nPROFESION-ESPECIALIDAD\nPRODUCTOR:\nTEXTO DE COBERTURA APLICABLE A TODOS LOS CERTIFICADOS.\nLA RESPONSABILIDAD CIVIL DERIVADA DE LESIONES Y/O MUERTE DE TERCERAS PERSONAS PROVOCADAS INVOLUNTARIAMENTE Y DERIVADAS DIRECTAMENTE DEL EJERCICIO DE LA\nACTIVIDAD PROFESIONAL DE LOS PROFESIONALES QUE SE INDICAN EN CADA ITEM.\nLIMITE MAXIMO DE INDEMNIZACION POR TODOS LOS ACONTECIMIENOS: Contrariamente a lo indicado en el tercer párrafo de la Cláusula 3º de Condiciones Generales (CG-RCO1) el"
+}

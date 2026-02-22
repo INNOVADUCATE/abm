@@ -1,0 +1,32 @@
+DOCUMENTO: LEGAJOS_12112025_125422_310502.pdf
+DOCUMENT_ID: c1f21df98018e928
+FECHA_PROCESO: 2026-02-22T21:24:53Z
+FUENTE: PaddleOCR(lang='es')
+============================================================
+
+--- PÁGINA 1 ---
+ATM
+CONSTANCIA DE INSCRIPCION
+CUIT
+Apellido y Nombre / Denominación de la Entidad
+20-32355042-6
+FERNANDEZ MUÑOZ JUAN MANUEL
+Domicilio
+ALBARRACIN 999
+Localidad - Departamento - Provincia
+005 (5501) GODOY CRUZ - GODOY CRUZ - PROVINCIA DE MENDOZA
+Inscripciones
+Actividades
+Fecha Inicio
+00000928629 CONTRIBUYENTE LOCAL
+SERVICIOS DE PRÁCTICAS DE DIAGNÓSTICO EN
+863110
+LABORATORIOS
+01/10/2022
+Fecha de Emisión: 06/03/2025
+La presente constancia vence el: 06/09/2025
+Verificador
+10794185616
+El receptor de la presente constancia deberá validarla en la página de la Dirección General de Rentas
+(http://www.atm.mendoza.gov.ar)
+

@@ -1,0 +1,2363 @@
+[17:24:02] [INFO] [pipeline] Procesando ACTA RATIFICACION DOMICILIO.pdf
+[17:24:02] [INFO] [pipeline] 1 páginas renderizadas
+[17:24:02] [INFO] [pipeline] OCR página 1/1
+[17:24:02] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:24:04] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:24:08] [INFO] [pipeline] OCR página 1 OK (chars=1060)
+[17:24:08] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\ACTA RATIFICACION DOMICILIO_OCR_LLM_READY.txt
+[17:24:08] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\ACTA RATIFICACION DOMICILIO_OCR_LLM_READY_RAW.json
+[17:24:08] [INFO] [pipeline] Procesamiento completado en 6.07s
+[17:24:08] [INFO] [pipeline] Procesando ADENDA SANCOR.pdf
+[17:24:08] [INFO] [pipeline] 1 páginas renderizadas
+[17:24:08] [INFO] [pipeline] OCR página 1/1
+[17:24:08] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:24:10] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:24:13] [INFO] [pipeline] OCR página 1 OK (chars=492)
+[17:24:13] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\ADENDA SANCOR_OCR_LLM_READY.txt
+[17:24:13] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\ADENDA SANCOR_OCR_LLM_READY_RAW.json
+[17:24:13] [INFO] [pipeline] Procesamiento completado en 4.87s
+[17:24:13] [INFO] [pipeline] Procesando Adhesion al debito ANA FONTANA.pdf
+[17:24:13] [INFO] [pipeline] 2 páginas renderizadas
+[17:24:13] [INFO] [pipeline] OCR página 1/2
+[17:24:13] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:24:15] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:24:19] [INFO] [pipeline] OCR página 1 OK (chars=793)
+[17:24:19] [INFO] [pipeline] OCR página 2/2
+[17:24:21] [INFO] [pipeline] OCR página 2 OK (chars=271)
+[17:24:21] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\Adhesion al debito ANA FONTANA_OCR_LLM_READY.txt
+[17:24:21] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\Adhesion al debito ANA FONTANA_OCR_LLM_READY_RAW.json
+[17:24:21] [INFO] [pipeline] Procesamiento completado en 8.27s
+[17:24:21] [INFO] [pipeline] Procesando AMPK NUEVA SEDE.pdf
+[17:24:22] [INFO] [pipeline] 9 páginas renderizadas
+[17:24:22] [INFO] [pipeline] OCR página 1/9
+[17:24:22] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:24:24] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:24:28] [INFO] [pipeline] OCR página 1 OK (chars=674)
+[17:24:28] [INFO] [pipeline] OCR página 2/9
+[17:24:31] [INFO] [pipeline] OCR página 2 OK (chars=536)
+[17:24:31] [INFO] [pipeline] OCR página 3/9
+[17:24:35] [INFO] [pipeline] OCR página 3 OK (chars=731)
+[17:24:35] [INFO] [pipeline] OCR página 4/9
+[17:24:41] [INFO] [pipeline] OCR página 4 OK (chars=4286)
+[17:24:41] [INFO] [pipeline] OCR página 5/9
+[17:24:45] [INFO] [pipeline] OCR página 5 OK (chars=767)
+[17:24:45] [INFO] [pipeline] OCR página 6/9
+[17:24:49] [INFO] [pipeline] OCR página 6 OK (chars=1378)
+[17:24:49] [INFO] [pipeline] OCR página 7/9
+[17:24:52] [INFO] [pipeline] OCR página 7 OK (chars=111)
+[17:24:52] [INFO] [pipeline] OCR página 8/9
+[17:24:56] [INFO] [pipeline] OCR página 8 OK (chars=1829)
+[17:24:56] [INFO] [pipeline] OCR página 9/9
+[17:24:59] [INFO] [pipeline] OCR página 9 OK (chars=684)
+[17:24:59] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\AMPK NUEVA SEDE_OCR_LLM_READY.txt
+[17:24:59] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\AMPK NUEVA SEDE_OCR_LLM_READY_RAW.json
+[17:24:59] [INFO] [pipeline] Procesamiento completado en 38.03s
+[17:24:59] [INFO] [pipeline] Procesando ANA MARIA CAROLINA MARIN.pdf
+[17:25:01] [INFO] [pipeline] 11 páginas renderizadas
+[17:25:01] [INFO] [pipeline] OCR página 1/11
+[17:25:01] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:25:02] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:25:05] [INFO] [pipeline] OCR página 1 OK (chars=683)
+[17:25:05] [INFO] [pipeline] OCR página 2/11
+[17:25:08] [INFO] [pipeline] OCR página 2 OK (chars=668)
+[17:25:08] [INFO] [pipeline] OCR página 3/11
+[17:25:11] [INFO] [pipeline] OCR página 3 OK (chars=483)
+[17:25:11] [INFO] [pipeline] OCR página 4/11
+[17:25:15] [INFO] [pipeline] OCR página 4 OK (chars=428)
+[17:25:15] [INFO] [pipeline] OCR página 5/11
+[17:25:19] [INFO] [pipeline] OCR página 5 OK (chars=668)
+[17:25:19] [INFO] [pipeline] OCR página 6/11
+[17:25:25] [INFO] [pipeline] OCR página 6 OK (chars=4114)
+[17:25:25] [INFO] [pipeline] OCR página 7/11
+[17:25:29] [INFO] [pipeline] OCR página 7 OK (chars=741)
+[17:25:29] [INFO] [pipeline] OCR página 8/11
+[17:25:32] [INFO] [pipeline] OCR página 8 OK (chars=620)
+[17:25:32] [INFO] [pipeline] OCR página 9/11
+[17:25:36] [INFO] [pipeline] OCR página 9 OK (chars=1251)
+[17:25:36] [INFO] [pipeline] OCR página 10/11
+[17:25:41] [INFO] [pipeline] OCR página 10 OK (chars=1252)
+[17:25:41] [INFO] [pipeline] OCR página 11/11
+[17:25:45] [INFO] [pipeline] OCR página 11 OK (chars=1055)
+[17:25:45] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\ANA MARIA CAROLINA MARIN_OCR_LLM_READY.txt
+[17:25:45] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\ANA MARIA CAROLINA MARIN_OCR_LLM_READY_RAW.json
+[17:25:45] [INFO] [pipeline] Procesamiento completado en 45.87s
+[17:25:45] [INFO] [pipeline] Procesando ARAMBURO JUAN MANUEL.pdf
+[17:25:46] [INFO] [pipeline] 6 páginas renderizadas
+[17:25:46] [INFO] [pipeline] OCR página 1/6
+[17:25:46] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:25:47] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:25:51] [INFO] [pipeline] OCR página 1 OK (chars=576)
+[17:25:51] [INFO] [pipeline] OCR página 2/6
+[17:25:54] [INFO] [pipeline] OCR página 2 OK (chars=579)
+[17:25:54] [INFO] [pipeline] OCR página 3/6
+[17:26:01] [INFO] [pipeline] OCR página 3 OK (chars=4273)
+[17:26:01] [INFO] [pipeline] OCR página 4/6
+[17:26:04] [INFO] [pipeline] OCR página 4 OK (chars=793)
+[17:26:04] [INFO] [pipeline] OCR página 5/6
+[17:26:09] [INFO] [pipeline] OCR página 5 OK (chars=1335)
+[17:26:09] [INFO] [pipeline] OCR página 6/6
+[17:26:13] [INFO] [pipeline] OCR página 6 OK (chars=990)
+[17:26:13] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\ARAMBURO JUAN MANUEL_OCR_LLM_READY.txt
+[17:26:13] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\ARAMBURO JUAN MANUEL_OCR_LLM_READY_RAW.json
+[17:26:13] [INFO] [pipeline] Procesamiento completado en 27.95s
+[17:26:13] [INFO] [pipeline] Procesando AREZO MARCELA OSEP.pdf
+[17:26:15] [INFO] [pipeline] 12 páginas renderizadas
+[17:26:15] [INFO] [pipeline] OCR página 1/12
+[17:26:15] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:26:16] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:26:19] [INFO] [pipeline] OCR página 1 OK (chars=351)
+[17:26:19] [INFO] [pipeline] OCR página 2/12
+[17:26:22] [INFO] [pipeline] OCR página 2 OK (chars=204)
+[17:26:22] [INFO] [pipeline] OCR página 3/12
+[17:26:25] [INFO] [pipeline] OCR página 3 OK (chars=743)
+[17:26:25] [INFO] [pipeline] OCR página 4/12
+[17:26:28] [INFO] [pipeline] OCR página 4 OK (chars=304)
+[17:26:28] [INFO] [pipeline] OCR página 5/12
+[17:26:31] [INFO] [pipeline] OCR página 5 OK (chars=378)
+[17:26:31] [INFO] [pipeline] OCR página 6/12
+[17:26:36] [INFO] [pipeline] OCR página 6 OK (chars=2117)
+[17:26:36] [INFO] [pipeline] OCR página 7/12
+[17:26:40] [INFO] [pipeline] OCR página 7 OK (chars=766)
+[17:26:40] [INFO] [pipeline] OCR página 8/12
+[17:26:45] [INFO] [pipeline] OCR página 8 OK (chars=2737)
+[17:26:45] [INFO] [pipeline] OCR página 9/12
+[17:26:49] [INFO] [pipeline] OCR página 9 OK (chars=755)
+[17:26:49] [INFO] [pipeline] OCR página 10/12
+[17:26:53] [INFO] [pipeline] OCR página 10 OK (chars=1197)
+[17:26:53] [INFO] [pipeline] OCR página 11/12
+[17:26:58] [INFO] [pipeline] OCR página 11 OK (chars=1109)
+[17:26:58] [INFO] [pipeline] OCR página 12/12
+[17:27:02] [INFO] [pipeline] OCR página 12 OK (chars=1043)
+[17:27:02] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\AREZO MARCELA OSEP_OCR_LLM_READY.txt
+[17:27:02] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\AREZO MARCELA OSEP_OCR_LLM_READY_RAW.json
+[17:27:02] [INFO] [pipeline] Procesamiento completado en 48.74s
+[17:27:02] [INFO] [pipeline] Procesando AREZO MARCELA.pdf
+[17:27:04] [INFO] [pipeline] 16 páginas renderizadas
+[17:27:04] [INFO] [pipeline] OCR página 1/16
+[17:27:04] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:27:05] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:27:08] [INFO] [pipeline] OCR página 1 OK (chars=357)
+[17:27:08] [INFO] [pipeline] OCR página 2/16
+[17:27:11] [INFO] [pipeline] OCR página 2 OK (chars=200)
+[17:27:11] [INFO] [pipeline] OCR página 3/16
+[17:27:14] [INFO] [pipeline] OCR página 3 OK (chars=384)
+[17:27:14] [INFO] [pipeline] OCR página 4/16
+[17:27:16] [ERROR] [pipeline] Error en página 4: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:27:16] [INFO] [pipeline] OCR página 5/16
+[17:27:20] [INFO] [pipeline] OCR página 5 OK (chars=766)
+[17:27:20] [INFO] [pipeline] OCR página 6/16
+[17:27:22] [INFO] [pipeline] OCR página 6 OK (chars=306)
+[17:27:22] [INFO] [pipeline] OCR página 7/16
+[17:27:29] [INFO] [pipeline] OCR página 7 OK (chars=3825)
+[17:27:29] [INFO] [pipeline] OCR página 8/16
+[17:27:31] [ERROR] [pipeline] Error en página 8: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:27:31] [INFO] [pipeline] OCR página 9/16
+[17:27:35] [INFO] [pipeline] OCR página 9 OK (chars=770)
+[17:27:35] [INFO] [pipeline] OCR página 10/16
+[17:27:37] [ERROR] [pipeline] Error en página 10: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:27:37] [INFO] [pipeline] OCR página 11/16
+[17:27:40] [INFO] [pipeline] OCR página 11 OK (chars=762)
+[17:27:40] [INFO] [pipeline] OCR página 12/16
+[17:27:43] [ERROR] [pipeline] Error en página 12: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:27:43] [INFO] [pipeline] OCR página 13/16
+[17:27:48] [INFO] [pipeline] OCR página 13 OK (chars=2082)
+[17:27:48] [INFO] [pipeline] OCR página 14/16
+[17:27:50] [ERROR] [pipeline] Error en página 14: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:27:50] [INFO] [pipeline] OCR página 15/16
+[17:27:54] [INFO] [pipeline] OCR página 15 OK (chars=1140)
+[17:27:54] [INFO] [pipeline] OCR página 16/16
+[17:27:56] [ERROR] [pipeline] Error en página 16: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:27:56] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\AREZO MARCELA_OCR_LLM_READY.txt
+[17:27:56] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\AREZO MARCELA_OCR_LLM_READY_RAW.json
+[17:27:56] [INFO] [pipeline] Procesamiento completado en 54.02s
+[17:27:56] [INFO] [pipeline] Procesando bajas proveeduria inventario.pdf
+[17:27:56] [INFO] [pipeline] 1 páginas renderizadas
+[17:27:56] [INFO] [pipeline] OCR página 1/1
+[17:27:56] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:27:58] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:28:03] [INFO] [pipeline] OCR página 1 OK (chars=1390)
+[17:28:03] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\bajas proveeduria inventario_OCR_LLM_READY.txt
+[17:28:03] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\bajas proveeduria inventario_OCR_LLM_READY_RAW.json
+[17:28:03] [INFO] [pipeline] Procesamiento completado en 7.23s
+[17:28:04] [INFO] [pipeline] Procesando Bono de sueldo.pdf
+[17:28:04] [INFO] [pipeline] 1 páginas renderizadas
+[17:28:04] [INFO] [pipeline] OCR página 1/1
+[17:28:04] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:28:05] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:28:09] [INFO] [pipeline] OCR página 1 OK (chars=1198)
+[17:28:09] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\Bono de sueldo_OCR_LLM_READY.txt
+[17:28:09] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\Bono de sueldo_OCR_LLM_READY_RAW.json
+[17:28:09] [INFO] [pipeline] Procesamiento completado en 5.50s
+[17:28:09] [INFO] [pipeline] Procesando BRIZUELA MARIA Y PECERE C.pdf
+[17:28:10] [INFO] [pipeline] 9 páginas renderizadas
+[17:28:10] [INFO] [pipeline] OCR página 1/9
+[17:28:10] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:28:12] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:28:15] [INFO] [pipeline] OCR página 1 OK (chars=645)
+[17:28:15] [INFO] [pipeline] OCR página 2/9
+[17:28:19] [INFO] [pipeline] OCR página 2 OK (chars=586)
+[17:28:19] [INFO] [pipeline] OCR página 3/9
+[17:28:21] [ERROR] [pipeline] Error en página 3: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:28:21] [INFO] [pipeline] OCR página 4/9
+[17:28:27] [INFO] [pipeline] OCR página 4 OK (chars=2917)
+[17:28:27] [INFO] [pipeline] OCR página 5/9
+[17:28:30] [INFO] [pipeline] OCR página 5 OK (chars=722)
+[17:28:30] [INFO] [pipeline] OCR página 6/9
+[17:28:37] [INFO] [pipeline] OCR página 6 OK (chars=2060)
+[17:28:37] [INFO] [pipeline] OCR página 7/9
+[17:28:44] [INFO] [pipeline] OCR página 7 OK (chars=1457)
+[17:28:44] [INFO] [pipeline] OCR página 8/9
+[17:28:48] [INFO] [pipeline] OCR página 8 OK (chars=1725)
+[17:28:48] [INFO] [pipeline] OCR página 9/9
+[17:28:52] [INFO] [pipeline] OCR página 9 OK (chars=645)
+[17:28:52] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\BRIZUELA MARIA Y PECERE C_OCR_LLM_READY.txt
+[17:28:52] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\BRIZUELA MARIA Y PECERE C_OCR_LLM_READY_RAW.json
+[17:28:52] [INFO] [pipeline] Procesamiento completado en 42.50s
+[17:28:52] [INFO] [pipeline] Procesando CARTA DOC OSSEG.pdf
+[17:28:52] [INFO] [pipeline] 2 páginas renderizadas
+[17:28:52] [INFO] [pipeline] OCR página 1/2
+[17:28:52] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:28:53] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:28:57] [INFO] [pipeline] OCR página 1 OK (chars=1135)
+[17:28:57] [INFO] [pipeline] OCR página 2/2
+[17:29:00] [INFO] [pipeline] OCR página 2 OK (chars=112)
+[17:29:00] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\CARTA DOC OSSEG_OCR_LLM_READY.txt
+[17:29:00] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\CARTA DOC OSSEG_OCR_LLM_READY_RAW.json
+[17:29:00] [INFO] [pipeline] Procesamiento completado en 7.96s
+[17:29:00] [INFO] [pipeline] Procesando dni di milta monaco1364.pdf
+[17:29:00] [INFO] [pipeline] 2 páginas renderizadas
+[17:29:00] [INFO] [pipeline] OCR página 1/2
+[17:29:00] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:29:01] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:29:04] [INFO] [pipeline] OCR página 1 OK (chars=494)
+[17:29:04] [INFO] [pipeline] OCR página 2/2
+[17:29:07] [INFO] [pipeline] OCR página 2 OK (chars=241)
+[17:29:07] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\dni di milta monaco1364_OCR_LLM_READY.txt
+[17:29:07] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\dni di milta monaco1364_OCR_LLM_READY_RAW.json
+[17:29:07] [INFO] [pipeline] Procesamiento completado en 7.55s
+[17:29:07] [INFO] [pipeline] Procesando DNI DRA BRIZUELA.pdf
+[17:29:07] [INFO] [pipeline] 1 páginas renderizadas
+[17:29:07] [INFO] [pipeline] OCR página 1/1
+[17:29:07] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:29:09] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:29:12] [INFO] [pipeline] OCR página 1 OK (chars=622)
+[17:29:12] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\DNI DRA BRIZUELA_OCR_LLM_READY.txt
+[17:29:12] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\DNI DRA BRIZUELA_OCR_LLM_READY_RAW.json
+[17:29:12] [INFO] [pipeline] Procesamiento completado en 4.99s
+[17:29:12] [INFO] [pipeline] Procesando DNI MILAN.pdf
+[17:29:12] [INFO] [pipeline] 1 páginas renderizadas
+[17:29:12] [INFO] [pipeline] OCR página 1/1
+[17:29:12] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:29:14] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:29:18] [INFO] [pipeline] OCR página 1 OK (chars=806)
+[17:29:18] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\DNI MILAN_OCR_LLM_READY.txt
+[17:29:18] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\DNI MILAN_OCR_LLM_READY_RAW.json
+[17:29:18] [INFO] [pipeline] Procesamiento completado en 5.37s
+[17:29:18] [INFO] [pipeline] Procesando ESCUDERO ASAN ANTONELLA OSEP.pdf
+[17:29:19] [INFO] [pipeline] 15 páginas renderizadas
+[17:29:19] [INFO] [pipeline] OCR página 1/15
+[17:29:19] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:29:21] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:29:24] [INFO] [pipeline] OCR página 1 OK (chars=498)
+[17:29:24] [INFO] [pipeline] OCR página 2/15
+[17:29:27] [INFO] [pipeline] OCR página 2 OK (chars=299)
+[17:29:27] [INFO] [pipeline] OCR página 3/15
+[17:29:30] [INFO] [pipeline] OCR página 3 OK (chars=663)
+[17:29:30] [INFO] [pipeline] OCR página 4/15
+[17:29:32] [INFO] [pipeline] OCR página 4 OK (chars=193)
+[17:29:32] [INFO] [pipeline] OCR página 5/15
+[17:29:36] [INFO] [pipeline] OCR página 5 OK (chars=652)
+[17:29:36] [INFO] [pipeline] OCR página 6/15
+[17:29:38] [INFO] [pipeline] OCR página 6 OK (chars=385)
+[17:29:38] [INFO] [pipeline] OCR página 7/15
+[17:29:42] [INFO] [pipeline] OCR página 7 OK (chars=877)
+[17:29:42] [INFO] [pipeline] OCR página 8/15
+[17:29:45] [INFO] [pipeline] OCR página 8 OK (chars=623)
+[17:29:45] [INFO] [pipeline] OCR página 9/15
+[17:29:51] [INFO] [pipeline] OCR página 9 OK (chars=2930)
+[17:29:51] [INFO] [pipeline] OCR página 10/15
+[17:29:56] [INFO] [pipeline] OCR página 10 OK (chars=1439)
+[17:29:56] [INFO] [pipeline] OCR página 11/15
+[17:29:59] [INFO] [pipeline] OCR página 11 OK (chars=834)
+[17:29:59] [INFO] [pipeline] OCR página 12/15
+[17:30:02] [INFO] [pipeline] OCR página 12 OK (chars=541)
+[17:30:02] [INFO] [pipeline] OCR página 13/15
+[17:30:06] [INFO] [pipeline] OCR página 13 OK (chars=1169)
+[17:30:06] [INFO] [pipeline] OCR página 14/15
+[17:30:11] [INFO] [pipeline] OCR página 14 OK (chars=1147)
+[17:30:11] [INFO] [pipeline] OCR página 15/15
+[17:30:15] [INFO] [pipeline] OCR página 15 OK (chars=1067)
+[17:30:15] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\ESCUDERO ASAN ANTONELLA OSEP_OCR_LLM_READY.txt
+[17:30:15] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\ESCUDERO ASAN ANTONELLA OSEP_OCR_LLM_READY_RAW.json
+[17:30:15] [INFO] [pipeline] Procesamiento completado en 57.38s
+[17:30:15] [INFO] [pipeline] Procesando ESCUDERO ASAN ANTONELLA.pdf
+[17:30:16] [INFO] [pipeline] 13 páginas renderizadas
+[17:30:16] [INFO] [pipeline] OCR página 1/13
+[17:30:16] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:30:18] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:30:21] [INFO] [pipeline] OCR página 1 OK (chars=511)
+[17:30:21] [INFO] [pipeline] OCR página 2/13
+[17:30:24] [INFO] [pipeline] OCR página 2 OK (chars=289)
+[17:30:24] [INFO] [pipeline] OCR página 3/13
+[17:30:28] [INFO] [pipeline] OCR página 3 OK (chars=666)
+[17:30:28] [INFO] [pipeline] OCR página 4/13
+[17:30:30] [INFO] [pipeline] OCR página 4 OK (chars=207)
+[17:30:30] [INFO] [pipeline] OCR página 5/13
+[17:30:34] [INFO] [pipeline] OCR página 5 OK (chars=647)
+[17:30:34] [INFO] [pipeline] OCR página 6/13
+[17:30:37] [INFO] [pipeline] OCR página 6 OK (chars=387)
+[17:30:37] [INFO] [pipeline] OCR página 7/13
+[17:30:40] [INFO] [pipeline] OCR página 7 OK (chars=877)
+[17:30:40] [INFO] [pipeline] OCR página 8/13
+[17:30:44] [INFO] [pipeline] OCR página 8 OK (chars=623)
+[17:30:44] [INFO] [pipeline] OCR página 9/13
+[17:30:49] [INFO] [pipeline] OCR página 9 OK (chars=2911)
+[17:30:49] [INFO] [pipeline] OCR página 10/13
+[17:30:54] [INFO] [pipeline] OCR página 10 OK (chars=1416)
+[17:30:54] [INFO] [pipeline] OCR página 11/13
+[17:30:58] [INFO] [pipeline] OCR página 11 OK (chars=834)
+[17:30:58] [INFO] [pipeline] OCR página 12/13
+[17:31:01] [INFO] [pipeline] OCR página 12 OK (chars=541)
+[17:31:01] [INFO] [pipeline] OCR página 13/13
+[17:31:05] [INFO] [pipeline] OCR página 13 OK (chars=1169)
+[17:31:05] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\ESCUDERO ASAN ANTONELLA_OCR_LLM_READY.txt
+[17:31:05] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\ESCUDERO ASAN ANTONELLA_OCR_LLM_READY_RAW.json
+[17:31:05] [INFO] [pipeline] Procesamiento completado en 49.85s
+[17:31:05] [INFO] [pipeline] Procesando EXACTUS SAS.pdf
+[17:31:06] [INFO] [pipeline] 11 páginas renderizadas
+[17:31:06] [INFO] [pipeline] OCR página 1/11
+[17:31:06] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:31:08] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:31:11] [INFO] [pipeline] OCR página 1 OK (chars=761)
+[17:31:11] [INFO] [pipeline] OCR página 2/11
+[17:31:15] [INFO] [pipeline] OCR página 2 OK (chars=593)
+[17:31:15] [INFO] [pipeline] OCR página 3/11
+[17:31:18] [INFO] [pipeline] OCR página 3 OK (chars=61)
+[17:31:18] [INFO] [pipeline] OCR página 4/11
+[17:31:21] [INFO] [pipeline] OCR página 4 OK (chars=955)
+[17:31:21] [INFO] [pipeline] OCR página 5/11
+[17:31:25] [INFO] [pipeline] OCR página 5 OK (chars=1029)
+[17:31:25] [INFO] [pipeline] OCR página 6/11
+[17:31:28] [INFO] [pipeline] OCR página 6 OK (chars=854)
+[17:31:28] [INFO] [pipeline] OCR página 7/11
+[17:31:35] [INFO] [pipeline] OCR página 7 OK (chars=4274)
+[17:31:35] [INFO] [pipeline] OCR página 8/11
+[17:31:39] [INFO] [pipeline] OCR página 8 OK (chars=748)
+[17:31:39] [INFO] [pipeline] OCR página 9/11
+[17:31:43] [INFO] [pipeline] OCR página 9 OK (chars=1231)
+[17:31:43] [INFO] [pipeline] OCR página 10/11
+[17:31:46] [INFO] [pipeline] OCR página 10 OK (chars=594)
+[17:31:46] [INFO] [pipeline] OCR página 11/11
+[17:31:50] [INFO] [pipeline] OCR página 11 OK (chars=931)
+[17:31:50] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\EXACTUS SAS_OCR_LLM_READY.txt
+[17:31:50] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\EXACTUS SAS_OCR_LLM_READY_RAW.json
+[17:31:50] [INFO] [pipeline] Procesamiento completado en 44.65s
+[17:31:50] [INFO] [pipeline] Procesando FICHAS DE INSCRIPCION CEMIC.pdf
+[17:32:02] [INFO] [pipeline] 95 páginas renderizadas
+[17:32:02] [INFO] [pipeline] OCR página 1/95
+[17:32:02] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:32:04] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:32:08] [INFO] [pipeline] OCR página 1 OK (chars=1067)
+[17:32:08] [INFO] [pipeline] OCR página 2/95
+[17:32:12] [INFO] [pipeline] OCR página 2 OK (chars=870)
+[17:32:12] [INFO] [pipeline] OCR página 3/95
+[17:32:19] [INFO] [pipeline] OCR página 3 OK (chars=3309)
+[17:32:19] [INFO] [pipeline] OCR página 4/95
+[17:32:25] [INFO] [pipeline] OCR página 4 OK (chars=3256)
+[17:32:25] [INFO] [pipeline] OCR página 5/95
+[17:32:31] [INFO] [pipeline] OCR página 5 OK (chars=3371)
+[17:32:31] [INFO] [pipeline] OCR página 6/95
+[17:32:38] [INFO] [pipeline] OCR página 6 OK (chars=3471)
+[17:32:38] [INFO] [pipeline] OCR página 7/95
+[17:32:45] [INFO] [pipeline] OCR página 7 OK (chars=3341)
+[17:32:45] [INFO] [pipeline] OCR página 8/95
+[17:32:47] [ERROR] [pipeline] Error en página 8: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:32:47] [INFO] [pipeline] OCR página 9/95
+[17:32:53] [INFO] [pipeline] OCR página 9 OK (chars=3479)
+[17:32:53] [INFO] [pipeline] OCR página 10/95
+[17:32:59] [INFO] [pipeline] OCR página 10 OK (chars=3387)
+[17:32:59] [INFO] [pipeline] OCR página 11/95
+[17:33:06] [INFO] [pipeline] OCR página 11 OK (chars=3313)
+[17:33:06] [INFO] [pipeline] OCR página 12/95
+[17:33:13] [INFO] [pipeline] OCR página 12 OK (chars=3415)
+[17:33:13] [INFO] [pipeline] OCR página 13/95
+[17:33:19] [INFO] [pipeline] OCR página 13 OK (chars=3407)
+[17:33:19] [INFO] [pipeline] OCR página 14/95
+[17:33:25] [INFO] [pipeline] OCR página 14 OK (chars=3370)
+[17:33:25] [INFO] [pipeline] OCR página 15/95
+[17:33:31] [INFO] [pipeline] OCR página 15 OK (chars=3138)
+[17:33:31] [INFO] [pipeline] OCR página 16/95
+[17:33:38] [INFO] [pipeline] OCR página 16 OK (chars=3386)
+[17:33:38] [INFO] [pipeline] OCR página 17/95
+[17:33:44] [INFO] [pipeline] OCR página 17 OK (chars=3414)
+[17:33:44] [INFO] [pipeline] OCR página 18/95
+[17:33:50] [INFO] [pipeline] OCR página 18 OK (chars=3361)
+[17:33:50] [INFO] [pipeline] OCR página 19/95
+[17:33:56] [INFO] [pipeline] OCR página 19 OK (chars=3057)
+[17:33:56] [INFO] [pipeline] OCR página 20/95
+[17:34:03] [INFO] [pipeline] OCR página 20 OK (chars=3354)
+[17:34:03] [INFO] [pipeline] OCR página 21/95
+[17:34:08] [INFO] [pipeline] OCR página 21 OK (chars=2863)
+[17:34:08] [INFO] [pipeline] OCR página 22/95
+[17:34:15] [INFO] [pipeline] OCR página 22 OK (chars=3330)
+[17:34:15] [INFO] [pipeline] OCR página 23/95
+[17:34:21] [INFO] [pipeline] OCR página 23 OK (chars=3409)
+[17:34:21] [INFO] [pipeline] OCR página 24/95
+[17:34:27] [INFO] [pipeline] OCR página 24 OK (chars=3403)
+[17:34:27] [INFO] [pipeline] OCR página 25/95
+[17:34:33] [INFO] [pipeline] OCR página 25 OK (chars=3021)
+[17:34:33] [INFO] [pipeline] OCR página 26/95
+[17:34:40] [INFO] [pipeline] OCR página 26 OK (chars=3409)
+[17:34:40] [INFO] [pipeline] OCR página 27/95
+[17:34:46] [INFO] [pipeline] OCR página 27 OK (chars=3242)
+[17:34:46] [INFO] [pipeline] OCR página 28/95
+[17:34:52] [INFO] [pipeline] OCR página 28 OK (chars=3306)
+[17:34:52] [INFO] [pipeline] OCR página 29/95
+[17:34:58] [INFO] [pipeline] OCR página 29 OK (chars=3405)
+[17:34:58] [INFO] [pipeline] OCR página 30/95
+[17:35:04] [INFO] [pipeline] OCR página 30 OK (chars=3336)
+[17:35:04] [INFO] [pipeline] OCR página 31/95
+[17:35:07] [INFO] [pipeline] OCR página 31 OK (chars=90)
+[17:35:07] [INFO] [pipeline] OCR página 32/95
+[17:35:13] [INFO] [pipeline] OCR página 32 OK (chars=3406)
+[17:35:13] [INFO] [pipeline] OCR página 33/95
+[17:35:20] [INFO] [pipeline] OCR página 33 OK (chars=3302)
+[17:35:20] [INFO] [pipeline] OCR página 34/95
+[17:35:26] [INFO] [pipeline] OCR página 34 OK (chars=3132)
+[17:35:26] [INFO] [pipeline] OCR página 35/95
+[17:35:33] [INFO] [pipeline] OCR página 35 OK (chars=3390)
+[17:35:33] [INFO] [pipeline] OCR página 36/95
+[17:35:40] [INFO] [pipeline] OCR página 36 OK (chars=3226)
+[17:35:40] [INFO] [pipeline] OCR página 37/95
+[17:35:46] [INFO] [pipeline] OCR página 37 OK (chars=3284)
+[17:35:46] [INFO] [pipeline] OCR página 38/95
+[17:35:53] [INFO] [pipeline] OCR página 38 OK (chars=3367)
+[17:35:53] [INFO] [pipeline] OCR página 39/95
+[17:35:59] [INFO] [pipeline] OCR página 39 OK (chars=3284)
+[17:35:59] [INFO] [pipeline] OCR página 40/95
+[17:36:05] [INFO] [pipeline] OCR página 40 OK (chars=3002)
+[17:36:05] [INFO] [pipeline] OCR página 41/95
+[17:36:12] [INFO] [pipeline] OCR página 41 OK (chars=2899)
+[17:36:12] [INFO] [pipeline] OCR página 42/95
+[17:36:18] [INFO] [pipeline] OCR página 42 OK (chars=3338)
+[17:36:18] [INFO] [pipeline] OCR página 43/95
+[17:36:27] [INFO] [pipeline] OCR página 43 OK (chars=3365)
+[17:36:27] [INFO] [pipeline] OCR página 44/95
+[17:36:34] [INFO] [pipeline] OCR página 44 OK (chars=3424)
+[17:36:34] [INFO] [pipeline] OCR página 45/95
+[17:36:40] [INFO] [pipeline] OCR página 45 OK (chars=3374)
+[17:36:40] [INFO] [pipeline] OCR página 46/95
+[17:36:47] [INFO] [pipeline] OCR página 46 OK (chars=3424)
+[17:36:47] [INFO] [pipeline] OCR página 47/95
+[17:36:53] [INFO] [pipeline] OCR página 47 OK (chars=3357)
+[17:36:53] [INFO] [pipeline] OCR página 48/95
+[17:36:58] [INFO] [pipeline] OCR página 48 OK (chars=2244)
+[17:36:58] [INFO] [pipeline] OCR página 49/95
+[17:37:05] [INFO] [pipeline] OCR página 49 OK (chars=3416)
+[17:37:05] [INFO] [pipeline] OCR página 50/95
+[17:37:11] [INFO] [pipeline] OCR página 50 OK (chars=3314)
+[17:37:11] [INFO] [pipeline] OCR página 51/95
+[17:37:14] [INFO] [pipeline] OCR página 51 OK (chars=35)
+[17:37:14] [INFO] [pipeline] OCR página 52/95
+[17:37:20] [INFO] [pipeline] OCR página 52 OK (chars=3194)
+[17:37:20] [INFO] [pipeline] OCR página 53/95
+[17:37:26] [INFO] [pipeline] OCR página 53 OK (chars=3402)
+[17:37:26] [INFO] [pipeline] OCR página 54/95
+[17:37:33] [INFO] [pipeline] OCR página 54 OK (chars=3185)
+[17:37:33] [INFO] [pipeline] OCR página 55/95
+[17:37:39] [INFO] [pipeline] OCR página 55 OK (chars=3416)
+[17:37:39] [INFO] [pipeline] OCR página 56/95
+[17:37:45] [INFO] [pipeline] OCR página 56 OK (chars=3337)
+[17:37:45] [INFO] [pipeline] OCR página 57/95
+[17:37:52] [INFO] [pipeline] OCR página 57 OK (chars=3330)
+[17:37:52] [INFO] [pipeline] OCR página 58/95
+[17:37:58] [INFO] [pipeline] OCR página 58 OK (chars=2588)
+[17:37:58] [INFO] [pipeline] OCR página 59/95
+[17:38:04] [INFO] [pipeline] OCR página 59 OK (chars=3370)
+[17:38:04] [INFO] [pipeline] OCR página 60/95
+[17:38:11] [INFO] [pipeline] OCR página 60 OK (chars=3456)
+[17:38:11] [INFO] [pipeline] OCR página 61/95
+[17:38:18] [INFO] [pipeline] OCR página 61 OK (chars=2892)
+[17:38:18] [INFO] [pipeline] OCR página 62/95
+[17:38:20] [ERROR] [pipeline] Error en página 62: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:38:20] [INFO] [pipeline] OCR página 63/95
+[17:38:26] [INFO] [pipeline] OCR página 63 OK (chars=3383)
+[17:38:26] [INFO] [pipeline] OCR página 64/95
+[17:38:33] [INFO] [pipeline] OCR página 64 OK (chars=3306)
+[17:38:33] [INFO] [pipeline] OCR página 65/95
+[17:38:40] [INFO] [pipeline] OCR página 65 OK (chars=3318)
+[17:38:40] [INFO] [pipeline] OCR página 66/95
+[17:38:47] [INFO] [pipeline] OCR página 66 OK (chars=3452)
+[17:38:47] [INFO] [pipeline] OCR página 67/95
+[17:38:53] [INFO] [pipeline] OCR página 67 OK (chars=3386)
+[17:38:53] [INFO] [pipeline] OCR página 68/95
+[17:39:00] [INFO] [pipeline] OCR página 68 OK (chars=3424)
+[17:39:00] [INFO] [pipeline] OCR página 69/95
+[17:39:03] [INFO] [pipeline] OCR página 69 OK (chars=63)
+[17:39:03] [INFO] [pipeline] OCR página 70/95
+[17:39:11] [INFO] [pipeline] OCR página 70 OK (chars=3408)
+[17:39:11] [INFO] [pipeline] OCR página 71/95
+[17:39:18] [INFO] [pipeline] OCR página 71 OK (chars=3311)
+[17:39:18] [INFO] [pipeline] OCR página 72/95
+[17:39:24] [INFO] [pipeline] OCR página 72 OK (chars=3345)
+[17:39:24] [INFO] [pipeline] OCR página 73/95
+[17:39:30] [INFO] [pipeline] OCR página 73 OK (chars=3353)
+[17:39:30] [INFO] [pipeline] OCR página 74/95
+[17:39:37] [INFO] [pipeline] OCR página 74 OK (chars=3241)
+[17:39:37] [INFO] [pipeline] OCR página 75/95
+[17:39:43] [INFO] [pipeline] OCR página 75 OK (chars=3026)
+[17:39:43] [INFO] [pipeline] OCR página 76/95
+[17:39:49] [INFO] [pipeline] OCR página 76 OK (chars=3347)
+[17:39:49] [INFO] [pipeline] OCR página 77/95
+[17:39:55] [INFO] [pipeline] OCR página 77 OK (chars=3220)
+[17:39:55] [INFO] [pipeline] OCR página 78/95
+[17:39:58] [INFO] [pipeline] OCR página 78 OK (chars=1)
+[17:39:58] [INFO] [pipeline] OCR página 79/95
+[17:40:04] [INFO] [pipeline] OCR página 79 OK (chars=3328)
+[17:40:04] [INFO] [pipeline] OCR página 80/95
+[17:40:11] [INFO] [pipeline] OCR página 80 OK (chars=3333)
+[17:40:11] [INFO] [pipeline] OCR página 81/95
+[17:40:18] [INFO] [pipeline] OCR página 81 OK (chars=3363)
+[17:40:18] [INFO] [pipeline] OCR página 82/95
+[17:40:24] [INFO] [pipeline] OCR página 82 OK (chars=3474)
+[17:40:24] [INFO] [pipeline] OCR página 83/95
+[17:40:30] [INFO] [pipeline] OCR página 83 OK (chars=2814)
+[17:40:30] [INFO] [pipeline] OCR página 84/95
+[17:40:37] [INFO] [pipeline] OCR página 84 OK (chars=3304)
+[17:40:37] [INFO] [pipeline] OCR página 85/95
+[17:40:43] [INFO] [pipeline] OCR página 85 OK (chars=3237)
+[17:40:43] [INFO] [pipeline] OCR página 86/95
+[17:40:49] [INFO] [pipeline] OCR página 86 OK (chars=3363)
+[17:40:49] [INFO] [pipeline] OCR página 87/95
+[17:40:56] [INFO] [pipeline] OCR página 87 OK (chars=3386)
+[17:40:56] [INFO] [pipeline] OCR página 88/95
+[17:41:02] [INFO] [pipeline] OCR página 88 OK (chars=3217)
+[17:41:02] [INFO] [pipeline] OCR página 89/95
+[17:41:08] [INFO] [pipeline] OCR página 89 OK (chars=3375)
+[17:41:08] [INFO] [pipeline] OCR página 90/95
+[17:41:14] [INFO] [pipeline] OCR página 90 OK (chars=3336)
+[17:41:14] [INFO] [pipeline] OCR página 91/95
+[17:41:17] [ERROR] [pipeline] Error en página 91: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:41:17] [INFO] [pipeline] OCR página 92/95
+[17:41:23] [INFO] [pipeline] OCR página 92 OK (chars=3112)
+[17:41:23] [INFO] [pipeline] OCR página 93/95
+[17:41:29] [INFO] [pipeline] OCR página 93 OK (chars=3417)
+[17:41:29] [INFO] [pipeline] OCR página 94/95
+[17:41:36] [INFO] [pipeline] OCR página 94 OK (chars=3382)
+[17:41:36] [INFO] [pipeline] OCR página 95/95
+[17:41:43] [INFO] [pipeline] OCR página 95 OK (chars=3370)
+[17:41:43] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\FICHAS DE INSCRIPCION CEMIC_OCR_LLM_READY.txt
+[17:41:43] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\FICHAS DE INSCRIPCION CEMIC_OCR_LLM_READY_RAW.json
+[17:41:43] [INFO] [pipeline] Procesamiento completado en 593.31s
+[17:41:43] [INFO] [pipeline] Procesando FONTAN CRISTIAN.pdf
+[17:41:44] [INFO] [pipeline] 13 páginas renderizadas
+[17:41:44] [INFO] [pipeline] OCR página 1/13
+[17:41:44] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:41:46] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:41:50] [INFO] [pipeline] OCR página 1 OK (chars=788)
+[17:41:50] [INFO] [pipeline] OCR página 2/13
+[17:41:53] [INFO] [pipeline] OCR página 2 OK (chars=566)
+[17:41:53] [INFO] [pipeline] OCR página 3/13
+[17:41:56] [INFO] [pipeline] OCR página 3 OK (chars=474)
+[17:41:56] [INFO] [pipeline] OCR página 4/13
+[17:42:00] [INFO] [pipeline] OCR página 4 OK (chars=885)
+[17:42:00] [INFO] [pipeline] OCR página 5/13
+[17:42:04] [INFO] [pipeline] OCR página 5 OK (chars=260)
+[17:42:04] [INFO] [pipeline] OCR página 6/13
+[17:42:08] [INFO] [pipeline] OCR página 6 OK (chars=1985)
+[17:42:08] [INFO] [pipeline] OCR página 7/13
+[17:42:12] [INFO] [pipeline] OCR página 7 OK (chars=839)
+[17:42:12] [INFO] [pipeline] OCR página 8/13
+[17:42:16] [INFO] [pipeline] OCR página 8 OK (chars=684)
+[17:42:16] [INFO] [pipeline] OCR página 9/13
+[17:42:23] [INFO] [pipeline] OCR página 9 OK (chars=3193)
+[17:42:23] [INFO] [pipeline] OCR página 10/13
+[17:42:28] [INFO] [pipeline] OCR página 10 OK (chars=1528)
+[17:42:28] [INFO] [pipeline] OCR página 11/13
+[17:42:31] [INFO] [pipeline] OCR página 11 OK (chars=280)
+[17:42:31] [INFO] [pipeline] OCR página 12/13
+[17:42:36] [INFO] [pipeline] OCR página 12 OK (chars=1299)
+[17:42:36] [INFO] [pipeline] OCR página 13/13
+[17:42:40] [INFO] [pipeline] OCR página 13 OK (chars=1040)
+[17:42:40] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\FONTAN CRISTIAN_OCR_LLM_READY.txt
+[17:42:40] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\FONTAN CRISTIAN_OCR_LLM_READY_RAW.json
+[17:42:40] [INFO] [pipeline] Procesamiento completado en 56.99s
+[17:42:40] [INFO] [pipeline] Procesando FUSCO MARIELA OSEP.pdf
+[17:42:41] [INFO] [pipeline] 10 páginas renderizadas
+[17:42:41] [INFO] [pipeline] OCR página 1/10
+[17:42:41] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:42:43] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:42:46] [INFO] [pipeline] OCR página 1 OK (chars=557)
+[17:42:46] [INFO] [pipeline] OCR página 2/10
+[17:42:50] [INFO] [pipeline] OCR página 2 OK (chars=561)
+[17:42:50] [INFO] [pipeline] OCR página 3/10
+[17:42:53] [INFO] [pipeline] OCR página 3 OK (chars=220)
+[17:42:53] [INFO] [pipeline] OCR página 4/10
+[17:42:56] [INFO] [pipeline] OCR página 4 OK (chars=357)
+[17:42:56] [INFO] [pipeline] OCR página 5/10
+[17:43:02] [INFO] [pipeline] OCR página 5 OK (chars=4279)
+[17:43:02] [INFO] [pipeline] OCR página 6/10
+[17:43:05] [INFO] [pipeline] OCR página 6 OK (chars=754)
+[17:43:05] [INFO] [pipeline] OCR página 7/10
+[17:43:09] [INFO] [pipeline] OCR página 7 OK (chars=1474)
+[17:43:09] [INFO] [pipeline] OCR página 8/10
+[17:43:13] [INFO] [pipeline] OCR página 8 OK (chars=559)
+[17:43:13] [INFO] [pipeline] OCR página 9/10
+[17:43:18] [INFO] [pipeline] OCR página 9 OK (chars=1503)
+[17:43:18] [INFO] [pipeline] OCR página 10/10
+[17:43:22] [INFO] [pipeline] OCR página 10 OK (chars=1070)
+[17:43:22] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\FUSCO MARIELA OSEP_OCR_LLM_READY.txt
+[17:43:22] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\FUSCO MARIELA OSEP_OCR_LLM_READY_RAW.json
+[17:43:22] [INFO] [pipeline] Procesamiento completado en 41.76s
+[17:43:22] [INFO] [pipeline] Procesando FUSCO MARIELA.pdf
+[17:43:23] [INFO] [pipeline] 8 páginas renderizadas
+[17:43:23] [INFO] [pipeline] OCR página 1/8
+[17:43:23] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:43:24] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:43:27] [INFO] [pipeline] OCR página 1 OK (chars=614)
+[17:43:27] [INFO] [pipeline] OCR página 2/8
+[17:43:31] [INFO] [pipeline] OCR página 2 OK (chars=578)
+[17:43:31] [INFO] [pipeline] OCR página 3/8
+[17:43:34] [INFO] [pipeline] OCR página 3 OK (chars=211)
+[17:43:34] [INFO] [pipeline] OCR página 4/8
+[17:43:37] [INFO] [pipeline] OCR página 4 OK (chars=356)
+[17:43:37] [INFO] [pipeline] OCR página 5/8
+[17:43:43] [INFO] [pipeline] OCR página 5 OK (chars=3805)
+[17:43:43] [INFO] [pipeline] OCR página 6/8
+[17:43:47] [INFO] [pipeline] OCR página 6 OK (chars=755)
+[17:43:47] [INFO] [pipeline] OCR página 7/8
+[17:43:51] [INFO] [pipeline] OCR página 7 OK (chars=1460)
+[17:43:51] [INFO] [pipeline] OCR página 8/8
+[17:43:54] [INFO] [pipeline] OCR página 8 OK (chars=708)
+[17:43:54] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\FUSCO MARIELA_OCR_LLM_READY.txt
+[17:43:54] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\FUSCO MARIELA_OCR_LLM_READY_RAW.json
+[17:43:54] [INFO] [pipeline] Procesamiento completado en 32.22s
+[17:43:54] [INFO] [pipeline] Procesando GERENCIA_04082025_132753_258883.pdf
+[17:43:54] [INFO] [pipeline] 1 páginas renderizadas
+[17:43:54] [INFO] [pipeline] OCR página 1/1
+[17:43:54] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:43:56] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:44:00] [INFO] [pipeline] OCR página 1 OK (chars=2012)
+[17:44:00] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\GERENCIA_04082025_132753_258883_OCR_LLM_READY.txt
+[17:44:00] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\GERENCIA_04082025_132753_258883_OCR_LLM_READY_RAW.json
+[17:44:00] [INFO] [pipeline] Procesamiento completado en 6.21s
+[17:44:00] [INFO] [pipeline] Procesando GERENCIA_04082025_145410_259241.pdf
+[17:44:02] [INFO] [pipeline] 19 páginas renderizadas
+[17:44:02] [INFO] [pipeline] OCR página 1/19
+[17:44:02] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:44:03] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:44:08] [INFO] [pipeline] OCR página 1 OK (chars=2032)
+[17:44:08] [INFO] [pipeline] OCR página 2/19
+[17:44:12] [INFO] [pipeline] OCR página 2 OK (chars=1084)
+[17:44:12] [INFO] [pipeline] OCR página 3/19
+[17:44:14] [INFO] [pipeline] OCR página 3 OK (chars=326)
+[17:44:14] [INFO] [pipeline] OCR página 4/19
+[17:44:18] [INFO] [pipeline] OCR página 4 OK (chars=744)
+[17:44:18] [INFO] [pipeline] OCR página 5/19
+[17:44:21] [INFO] [pipeline] OCR página 5 OK (chars=137)
+[17:44:21] [INFO] [pipeline] OCR página 6/19
+[17:44:26] [INFO] [pipeline] OCR página 6 OK (chars=3464)
+[17:44:26] [INFO] [pipeline] OCR página 7/19
+[17:44:32] [INFO] [pipeline] OCR página 7 OK (chars=3630)
+[17:44:32] [INFO] [pipeline] OCR página 8/19
+[17:44:35] [INFO] [pipeline] OCR página 8 OK (chars=655)
+[17:44:35] [INFO] [pipeline] OCR página 9/19
+[17:44:40] [INFO] [pipeline] OCR página 9 OK (chars=1750)
+[17:44:40] [INFO] [pipeline] OCR página 10/19
+[17:44:43] [INFO] [pipeline] OCR página 10 OK (chars=70)
+[17:44:43] [INFO] [pipeline] OCR página 11/19
+[17:44:48] [INFO] [pipeline] OCR página 11 OK (chars=1819)
+[17:44:48] [INFO] [pipeline] OCR página 12/19
+[17:44:52] [INFO] [pipeline] OCR página 12 OK (chars=1434)
+[17:44:52] [INFO] [pipeline] OCR página 13/19
+[17:44:58] [INFO] [pipeline] OCR página 13 OK (chars=2470)
+[17:44:58] [INFO] [pipeline] OCR página 14/19
+[17:45:04] [INFO] [pipeline] OCR página 14 OK (chars=2025)
+[17:45:04] [INFO] [pipeline] OCR página 15/19
+[17:45:08] [INFO] [pipeline] OCR página 15 OK (chars=1469)
+[17:45:08] [INFO] [pipeline] OCR página 16/19
+[17:45:11] [INFO] [pipeline] OCR página 16 OK (chars=184)
+[17:45:11] [INFO] [pipeline] OCR página 17/19
+[17:45:14] [INFO] [pipeline] OCR página 17 OK (chars=290)
+[17:45:14] [INFO] [pipeline] OCR página 18/19
+[17:45:17] [INFO] [pipeline] OCR página 18 OK (chars=575)
+[17:45:17] [INFO] [pipeline] OCR página 19/19
+[17:45:20] [INFO] [pipeline] OCR página 19 OK (chars=585)
+[17:45:20] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\GERENCIA_04082025_145410_259241_OCR_LLM_READY.txt
+[17:45:20] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\GERENCIA_04082025_145410_259241_OCR_LLM_READY_RAW.json
+[17:45:20] [INFO] [pipeline] Procesamiento completado en 79.71s
+[17:45:20] [INFO] [pipeline] Procesando GERENCIA_04082025_153809_259275.pdf
+[17:45:28] [INFO] [pipeline] 82 páginas renderizadas
+[17:45:28] [INFO] [pipeline] OCR página 1/82
+[17:45:28] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:45:29] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:45:34] [INFO] [pipeline] OCR página 1 OK (chars=2081)
+[17:45:34] [INFO] [pipeline] OCR página 2/82
+[17:45:37] [INFO] [pipeline] OCR página 2 OK (chars=682)
+[17:45:37] [INFO] [pipeline] OCR página 3/82
+[17:45:44] [INFO] [pipeline] OCR página 3 OK (chars=2445)
+[17:45:44] [INFO] [pipeline] OCR página 4/82
+[17:45:49] [INFO] [pipeline] OCR página 4 OK (chars=2104)
+[17:45:49] [INFO] [pipeline] OCR página 5/82
+[17:45:53] [INFO] [pipeline] OCR página 5 OK (chars=869)
+[17:45:53] [INFO] [pipeline] OCR página 6/82
+[17:45:55] [ERROR] [pipeline] Error en página 6: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:45:55] [INFO] [pipeline] OCR página 7/82
+[17:46:00] [INFO] [pipeline] OCR página 7 OK (chars=1718)
+[17:46:00] [INFO] [pipeline] OCR página 8/82
+[17:46:02] [ERROR] [pipeline] Error en página 8: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:46:02] [INFO] [pipeline] OCR página 9/82
+[17:46:05] [INFO] [pipeline] OCR página 9 OK (chars=800)
+[17:46:05] [INFO] [pipeline] OCR página 10/82
+[17:46:08] [ERROR] [pipeline] Error en página 10: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:46:08] [INFO] [pipeline] OCR página 11/82
+[17:46:15] [INFO] [pipeline] OCR página 11 OK (chars=1664)
+[17:46:15] [INFO] [pipeline] OCR página 12/82
+[17:46:17] [ERROR] [pipeline] Error en página 12: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:46:17] [INFO] [pipeline] OCR página 13/82
+[17:46:21] [INFO] [pipeline] OCR página 13 OK (chars=1064)
+[17:46:21] [INFO] [pipeline] OCR página 14/82
+[17:46:26] [INFO] [pipeline] OCR página 14 OK (chars=1808)
+[17:46:26] [INFO] [pipeline] OCR página 15/82
+[17:46:28] [ERROR] [pipeline] Error en página 15: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:46:28] [INFO] [pipeline] OCR página 16/82
+[17:46:31] [INFO] [pipeline] OCR página 16 OK (chars=206)
+[17:46:31] [INFO] [pipeline] OCR página 17/82
+[17:46:33] [ERROR] [pipeline] Error en página 17: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:46:33] [INFO] [pipeline] OCR página 18/82
+[17:46:36] [INFO] [pipeline] OCR página 18 OK (chars=638)
+[17:46:36] [INFO] [pipeline] OCR página 19/82
+[17:46:39] [ERROR] [pipeline] Error en página 19: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:46:39] [INFO] [pipeline] OCR página 20/82
+[17:46:44] [INFO] [pipeline] OCR página 20 OK (chars=436)
+[17:46:44] [INFO] [pipeline] OCR página 21/82
+[17:46:46] [ERROR] [pipeline] Error en página 21: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:46:46] [INFO] [pipeline] OCR página 22/82
+[17:46:50] [INFO] [pipeline] OCR página 22 OK (chars=480)
+[17:46:50] [INFO] [pipeline] OCR página 23/82
+[17:46:52] [ERROR] [pipeline] Error en página 23: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:46:52] [INFO] [pipeline] OCR página 24/82
+[17:46:55] [INFO] [pipeline] OCR página 24 OK (chars=467)
+[17:46:55] [INFO] [pipeline] OCR página 25/82
+[17:46:57] [INFO] [pipeline] OCR página 25 OK (chars=1)
+[17:46:57] [INFO] [pipeline] OCR página 26/82
+[17:47:02] [INFO] [pipeline] OCR página 26 OK (chars=2605)
+[17:47:02] [INFO] [pipeline] OCR página 27/82
+[17:47:05] [ERROR] [pipeline] Error en página 27: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:47:05] [INFO] [pipeline] OCR página 28/82
+[17:47:09] [INFO] [pipeline] OCR página 28 OK (chars=2544)
+[17:47:09] [INFO] [pipeline] OCR página 29/82
+[17:47:11] [ERROR] [pipeline] Error en página 29: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:47:11] [INFO] [pipeline] OCR página 30/82
+[17:47:16] [INFO] [pipeline] OCR página 30 OK (chars=2871)
+[17:47:16] [INFO] [pipeline] OCR página 31/82
+[17:47:19] [ERROR] [pipeline] Error en página 31: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:47:19] [INFO] [pipeline] OCR página 32/82
+[17:47:24] [INFO] [pipeline] OCR página 32 OK (chars=2742)
+[17:47:24] [INFO] [pipeline] OCR página 33/82
+[17:47:26] [ERROR] [pipeline] Error en página 33: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:47:26] [INFO] [pipeline] OCR página 34/82
+[17:47:30] [INFO] [pipeline] OCR página 34 OK (chars=2660)
+[17:47:30] [INFO] [pipeline] OCR página 35/82
+[17:47:33] [ERROR] [pipeline] Error en página 35: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:47:33] [INFO] [pipeline] OCR página 36/82
+[17:47:37] [INFO] [pipeline] OCR página 36 OK (chars=2778)
+[17:47:37] [INFO] [pipeline] OCR página 37/82
+[17:47:40] [ERROR] [pipeline] Error en página 37: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:47:40] [INFO] [pipeline] OCR página 38/82
+[17:47:45] [INFO] [pipeline] OCR página 38 OK (chars=2681)
+[17:47:45] [INFO] [pipeline] OCR página 39/82
+[17:47:47] [ERROR] [pipeline] Error en página 39: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:47:47] [INFO] [pipeline] OCR página 40/82
+[17:47:52] [INFO] [pipeline] OCR página 40 OK (chars=2710)
+[17:47:52] [INFO] [pipeline] OCR página 41/82
+[17:47:55] [ERROR] [pipeline] Error en página 41: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:47:55] [INFO] [pipeline] OCR página 42/82
+[17:47:59] [INFO] [pipeline] OCR página 42 OK (chars=2685)
+[17:47:59] [INFO] [pipeline] OCR página 43/82
+[17:48:02] [INFO] [pipeline] OCR página 43 OK (chars=4)
+[17:48:02] [INFO] [pipeline] OCR página 44/82
+[17:48:07] [INFO] [pipeline] OCR página 44 OK (chars=2428)
+[17:48:07] [INFO] [pipeline] OCR página 45/82
+[17:48:09] [INFO] [pipeline] OCR página 45 OK (chars=1)
+[17:48:09] [INFO] [pipeline] OCR página 46/82
+[17:48:14] [INFO] [pipeline] OCR página 46 OK (chars=2345)
+[17:48:14] [INFO] [pipeline] OCR página 47/82
+[17:48:16] [ERROR] [pipeline] Error en página 47: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:48:16] [INFO] [pipeline] OCR página 48/82
+[17:48:21] [INFO] [pipeline] OCR página 48 OK (chars=2443)
+[17:48:21] [INFO] [pipeline] OCR página 49/82
+[17:48:23] [ERROR] [pipeline] Error en página 49: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:48:23] [INFO] [pipeline] OCR página 50/82
+[17:48:28] [INFO] [pipeline] OCR página 50 OK (chars=2522)
+[17:48:28] [INFO] [pipeline] OCR página 51/82
+[17:48:30] [INFO] [pipeline] OCR página 51 OK (chars=0)
+[17:48:30] [INFO] [pipeline] OCR página 52/82
+[17:48:35] [INFO] [pipeline] OCR página 52 OK (chars=2444)
+[17:48:35] [INFO] [pipeline] OCR página 53/82
+[17:48:37] [ERROR] [pipeline] Error en página 53: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:48:37] [INFO] [pipeline] OCR página 54/82
+[17:48:42] [INFO] [pipeline] OCR página 54 OK (chars=2631)
+[17:48:42] [INFO] [pipeline] OCR página 55/82
+[17:48:45] [ERROR] [pipeline] Error en página 55: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:48:45] [INFO] [pipeline] OCR página 56/82
+[17:48:50] [INFO] [pipeline] OCR página 56 OK (chars=2678)
+[17:48:50] [INFO] [pipeline] OCR página 57/82
+[17:48:52] [ERROR] [pipeline] Error en página 57: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:48:52] [INFO] [pipeline] OCR página 58/82
+[17:48:56] [INFO] [pipeline] OCR página 58 OK (chars=2654)
+[17:48:56] [INFO] [pipeline] OCR página 59/82
+[17:48:59] [ERROR] [pipeline] Error en página 59: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:48:59] [INFO] [pipeline] OCR página 60/82
+[17:49:03] [INFO] [pipeline] OCR página 60 OK (chars=2515)
+[17:49:03] [INFO] [pipeline] OCR página 61/82
+[17:49:05] [ERROR] [pipeline] Error en página 61: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:49:05] [INFO] [pipeline] OCR página 62/82
+[17:49:10] [INFO] [pipeline] OCR página 62 OK (chars=2566)
+[17:49:10] [INFO] [pipeline] OCR página 63/82
+[17:49:13] [ERROR] [pipeline] Error en página 63: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:49:13] [INFO] [pipeline] OCR página 64/82
+[17:49:16] [INFO] [pipeline] OCR página 64 OK (chars=981)
+[17:49:16] [INFO] [pipeline] OCR página 65/82
+[17:49:21] [INFO] [pipeline] OCR página 65 OK (chars=1584)
+[17:49:21] [INFO] [pipeline] OCR página 66/82
+[17:49:24] [INFO] [pipeline] OCR página 66 OK (chars=248)
+[17:49:24] [INFO] [pipeline] OCR página 67/82
+[17:49:26] [ERROR] [pipeline] Error en página 67: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:49:26] [INFO] [pipeline] OCR página 68/82
+[17:49:31] [INFO] [pipeline] OCR página 68 OK (chars=2115)
+[17:49:31] [INFO] [pipeline] OCR página 69/82
+[17:49:34] [INFO] [pipeline] OCR página 69 OK (chars=709)
+[17:49:34] [INFO] [pipeline] OCR página 70/82
+[17:49:38] [INFO] [pipeline] OCR página 70 OK (chars=933)
+[17:49:38] [INFO] [pipeline] OCR página 71/82
+[17:49:41] [INFO] [pipeline] OCR página 71 OK (chars=86)
+[17:49:41] [INFO] [pipeline] OCR página 72/82
+[17:49:43] [ERROR] [pipeline] Error en página 72: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:49:43] [INFO] [pipeline] OCR página 73/82
+[17:49:48] [INFO] [pipeline] OCR página 73 OK (chars=2773)
+[17:49:48] [INFO] [pipeline] OCR página 74/82
+[17:49:51] [ERROR] [pipeline] Error en página 74: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:49:51] [INFO] [pipeline] OCR página 75/82
+[17:49:56] [INFO] [pipeline] OCR página 75 OK (chars=2869)
+[17:49:56] [INFO] [pipeline] OCR página 76/82
+[17:49:58] [ERROR] [pipeline] Error en página 76: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:49:58] [INFO] [pipeline] OCR página 77/82
+[17:50:02] [INFO] [pipeline] OCR página 77 OK (chars=1353)
+[17:50:02] [INFO] [pipeline] OCR página 78/82
+[17:50:05] [ERROR] [pipeline] Error en página 78: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:50:05] [INFO] [pipeline] OCR página 79/82
+[17:50:08] [INFO] [pipeline] OCR página 79 OK (chars=616)
+[17:50:08] [INFO] [pipeline] OCR página 80/82
+[17:50:10] [ERROR] [pipeline] Error en página 80: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:50:10] [INFO] [pipeline] OCR página 81/82
+[17:50:14] [INFO] [pipeline] OCR página 81 OK (chars=509)
+[17:50:14] [INFO] [pipeline] OCR página 82/82
+[17:50:16] [ERROR] [pipeline] Error en página 82: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:50:16] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\GERENCIA_04082025_153809_259275_OCR_LLM_READY.txt
+[17:50:16] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\GERENCIA_04082025_153809_259275_OCR_LLM_READY_RAW.json
+[17:50:16] [INFO] [pipeline] Procesamiento completado en 295.62s
+[17:50:16] [INFO] [pipeline] Procesando GERENCIA_05082025_100458_259369.pdf
+[17:50:16] [INFO] [pipeline] 1 páginas renderizadas
+[17:50:16] [INFO] [pipeline] OCR página 1/1
+[17:50:16] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:50:18] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:50:21] [INFO] [pipeline] OCR página 1 OK (chars=512)
+[17:50:21] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\GERENCIA_05082025_100458_259369_OCR_LLM_READY.txt
+[17:50:21] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\GERENCIA_05082025_100458_259369_OCR_LLM_READY_RAW.json
+[17:50:21] [INFO] [pipeline] Procesamiento completado en 5.02s
+[17:50:21] [INFO] [pipeline] Procesando GERENCIA_05082025_100511_259371.pdf
+[17:50:21] [INFO] [pipeline] 1 páginas renderizadas
+[17:50:21] [INFO] [pipeline] OCR página 1/1
+[17:50:21] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:50:23] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:50:26] [INFO] [pipeline] OCR página 1 OK (chars=516)
+[17:50:26] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\GERENCIA_05082025_100511_259371_OCR_LLM_READY.txt
+[17:50:26] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\GERENCIA_05082025_100511_259371_OCR_LLM_READY_RAW.json
+[17:50:26] [INFO] [pipeline] Procesamiento completado en 4.98s
+[17:50:26] [INFO] [pipeline] Procesando GERENCIA_05082025_100537_259373.pdf
+[17:50:26] [INFO] [pipeline] 2 páginas renderizadas
+[17:50:26] [INFO] [pipeline] OCR página 1/2
+[17:50:26] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:50:28] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:50:32] [INFO] [pipeline] OCR página 1 OK (chars=1099)
+[17:50:32] [INFO] [pipeline] OCR página 2/2
+[17:50:36] [INFO] [pipeline] OCR página 2 OK (chars=818)
+[17:50:36] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\GERENCIA_05082025_100537_259373_OCR_LLM_READY.txt
+[17:50:36] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\GERENCIA_05082025_100537_259373_OCR_LLM_READY_RAW.json
+[17:50:36] [INFO] [pipeline] Procesamiento completado en 9.56s
+[17:50:36] [INFO] [pipeline] Procesando GERENCIA_05082025_100602_259377.pdf
+[17:50:36] [INFO] [pipeline] 4 páginas renderizadas
+[17:50:36] [INFO] [pipeline] OCR página 1/4
+[17:50:36] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:50:37] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:50:42] [INFO] [pipeline] OCR página 1 OK (chars=1107)
+[17:50:42] [INFO] [pipeline] OCR página 2/4
+[17:50:45] [INFO] [pipeline] OCR página 2 OK (chars=922)
+[17:50:45] [INFO] [pipeline] OCR página 3/4
+[17:50:49] [INFO] [pipeline] OCR página 3 OK (chars=855)
+[17:50:49] [INFO] [pipeline] OCR página 4/4
+[17:50:52] [INFO] [pipeline] OCR página 4 OK (chars=86)
+[17:50:52] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\GERENCIA_05082025_100602_259377_OCR_LLM_READY.txt
+[17:50:52] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\GERENCIA_05082025_100602_259377_OCR_LLM_READY_RAW.json
+[17:50:52] [INFO] [pipeline] Procesamiento completado en 16.18s
+[17:50:52] [INFO] [pipeline] Procesando habilitacion 1364.pdf
+[17:50:52] [INFO] [pipeline] 1 páginas renderizadas
+[17:50:52] [INFO] [pipeline] OCR página 1/1
+[17:50:52] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:50:53] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:50:57] [INFO] [pipeline] OCR página 1 OK (chars=1387)
+[17:50:57] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\habilitacion 1364_OCR_LLM_READY.txt
+[17:50:57] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\habilitacion 1364_OCR_LLM_READY_RAW.json
+[17:50:57] [INFO] [pipeline] Procesamiento completado en 5.46s
+[17:50:57] [INFO] [pipeline] Procesando Informe de Auditoria Bioq Freixas.pdf
+[17:50:57] [INFO] [pipeline] 1 páginas renderizadas
+[17:50:57] [INFO] [pipeline] OCR página 1/1
+[17:50:57] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:50:59] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:51:03] [INFO] [pipeline] OCR página 1 OK (chars=1256)
+[17:51:03] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\Informe de Auditoria Bioq Freixas_OCR_LLM_READY.txt
+[17:51:03] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\Informe de Auditoria Bioq Freixas_OCR_LLM_READY_RAW.json
+[17:51:03] [INFO] [pipeline] Procesamiento completado en 5.21s
+[17:51:03] [INFO] [pipeline] Procesando LEGAJOS_01092025_104850_271045.pdf
+[17:51:08] [INFO] [pipeline] 42 páginas renderizadas
+[17:51:08] [INFO] [pipeline] OCR página 1/42
+[17:51:08] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:51:10] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:51:13] [INFO] [pipeline] OCR página 1 OK (chars=111)
+[17:51:13] [INFO] [pipeline] OCR página 2/42
+[17:51:15] [ERROR] [pipeline] Error en página 2: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:51:15] [INFO] [pipeline] OCR página 3/42
+[17:51:18] [INFO] [pipeline] OCR página 3 OK (chars=656)
+[17:51:18] [INFO] [pipeline] OCR página 4/42
+[17:51:21] [INFO] [pipeline] OCR página 4 OK (chars=861)
+[17:51:21] [INFO] [pipeline] OCR página 5/42
+[17:51:25] [INFO] [pipeline] OCR página 5 OK (chars=1423)
+[17:51:25] [INFO] [pipeline] OCR página 6/42
+[17:51:29] [INFO] [pipeline] OCR página 6 OK (chars=1040)
+[17:51:29] [INFO] [pipeline] OCR página 7/42
+[17:51:33] [INFO] [pipeline] OCR página 7 OK (chars=2129)
+[17:51:33] [INFO] [pipeline] OCR página 8/42
+[17:51:36] [INFO] [pipeline] OCR página 8 OK (chars=349)
+[17:51:36] [INFO] [pipeline] OCR página 9/42
+[17:51:40] [INFO] [pipeline] OCR página 9 OK (chars=1132)
+[17:51:40] [INFO] [pipeline] OCR página 10/42
+[17:51:45] [INFO] [pipeline] OCR página 10 OK (chars=2032)
+[17:51:45] [INFO] [pipeline] OCR página 11/42
+[17:51:49] [INFO] [pipeline] OCR página 11 OK (chars=1124)
+[17:51:49] [INFO] [pipeline] OCR página 12/42
+[17:51:53] [INFO] [pipeline] OCR página 12 OK (chars=1572)
+[17:51:53] [INFO] [pipeline] OCR página 13/42
+[17:51:55] [INFO] [pipeline] OCR página 13 OK (chars=1)
+[17:51:55] [INFO] [pipeline] OCR página 14/42
+[17:51:59] [INFO] [pipeline] OCR página 14 OK (chars=2204)
+[17:51:59] [INFO] [pipeline] OCR página 15/42
+[17:52:01] [ERROR] [pipeline] Error en página 15: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:52:01] [INFO] [pipeline] OCR página 16/42
+[17:52:07] [INFO] [pipeline] OCR página 16 OK (chars=1990)
+[17:52:07] [INFO] [pipeline] OCR página 17/42
+[17:52:10] [ERROR] [pipeline] Error en página 17: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[17:52:10] [INFO] [pipeline] OCR página 18/42
+[17:52:14] [INFO] [pipeline] OCR página 18 OK (chars=1090)
+[17:52:14] [INFO] [pipeline] OCR página 19/42
+[17:52:16] [INFO] [pipeline] OCR página 19 OK (chars=1)
+[17:52:16] [INFO] [pipeline] OCR página 20/42
+[17:52:21] [INFO] [pipeline] OCR página 20 OK (chars=2012)
+[17:52:21] [INFO] [pipeline] OCR página 21/42
+[17:52:26] [INFO] [pipeline] OCR página 21 OK (chars=2210)
+[17:52:26] [INFO] [pipeline] OCR página 22/42
+[17:52:31] [INFO] [pipeline] OCR página 22 OK (chars=2146)
+[17:52:31] [INFO] [pipeline] OCR página 23/42
+[17:52:34] [INFO] [pipeline] OCR página 23 OK (chars=259)
+[17:52:34] [INFO] [pipeline] OCR página 24/42
+[17:52:37] [INFO] [pipeline] OCR página 24 OK (chars=433)
+[17:52:37] [INFO] [pipeline] OCR página 25/42
+[17:52:42] [INFO] [pipeline] OCR página 25 OK (chars=2346)
+[17:52:42] [INFO] [pipeline] OCR página 26/42
+[17:52:48] [INFO] [pipeline] OCR página 26 OK (chars=3196)
+[17:52:48] [INFO] [pipeline] OCR página 27/42
+[17:52:52] [INFO] [pipeline] OCR página 27 OK (chars=1363)
+[17:52:52] [INFO] [pipeline] OCR página 28/42
+[17:52:56] [INFO] [pipeline] OCR página 28 OK (chars=522)
+[17:52:56] [INFO] [pipeline] OCR página 29/42
+[17:53:01] [INFO] [pipeline] OCR página 29 OK (chars=2293)
+[17:53:01] [INFO] [pipeline] OCR página 30/42
+[17:53:07] [INFO] [pipeline] OCR página 30 OK (chars=3132)
+[17:53:07] [INFO] [pipeline] OCR página 31/42
+[17:53:12] [INFO] [pipeline] OCR página 31 OK (chars=2806)
+[17:53:12] [INFO] [pipeline] OCR página 32/42
+[17:53:14] [INFO] [pipeline] OCR página 32 OK (chars=1)
+[17:53:14] [INFO] [pipeline] OCR página 33/42
+[17:53:17] [INFO] [pipeline] OCR página 33 OK (chars=41)
+[17:53:17] [INFO] [pipeline] OCR página 34/42
+[17:53:21] [INFO] [pipeline] OCR página 34 OK (chars=1854)
+[17:53:21] [INFO] [pipeline] OCR página 35/42
+[17:53:25] [INFO] [pipeline] OCR página 35 OK (chars=1771)
+[17:53:25] [INFO] [pipeline] OCR página 36/42
+[17:53:30] [INFO] [pipeline] OCR página 36 OK (chars=2129)
+[17:53:30] [INFO] [pipeline] OCR página 37/42
+[17:53:34] [INFO] [pipeline] OCR página 37 OK (chars=1758)
+[17:53:34] [INFO] [pipeline] OCR página 38/42
+[17:53:38] [INFO] [pipeline] OCR página 38 OK (chars=1668)
+[17:53:38] [INFO] [pipeline] OCR página 39/42
+[17:53:42] [INFO] [pipeline] OCR página 39 OK (chars=1806)
+[17:53:42] [INFO] [pipeline] OCR página 40/42
+[17:53:47] [INFO] [pipeline] OCR página 40 OK (chars=2495)
+[17:53:47] [INFO] [pipeline] OCR página 41/42
+[17:53:51] [INFO] [pipeline] OCR página 41 OK (chars=956)
+[17:53:51] [INFO] [pipeline] OCR página 42/42
+[17:53:54] [INFO] [pipeline] OCR página 42 OK (chars=405)
+[17:53:54] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_01092025_104850_271045_OCR_LLM_READY.txt
+[17:53:54] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_01092025_104850_271045_OCR_LLM_READY_RAW.json
+[17:53:54] [INFO] [pipeline] Procesamiento completado en 171.85s
+[17:53:54] [INFO] [pipeline] Procesando LEGAJOS_02012026_123801_336341.pdf
+[17:53:55] [INFO] [pipeline] 2 páginas renderizadas
+[17:53:55] [INFO] [pipeline] OCR página 1/2
+[17:53:55] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:53:56] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:54:01] [INFO] [pipeline] OCR página 1 OK (chars=2372)
+[17:54:01] [INFO] [pipeline] OCR página 2/2
+[17:54:05] [INFO] [pipeline] OCR página 2 OK (chars=1263)
+[17:54:05] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_02012026_123801_336341_OCR_LLM_READY.txt
+[17:54:05] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_02012026_123801_336341_OCR_LLM_READY_RAW.json
+[17:54:05] [INFO] [pipeline] Procesamiento completado en 10.15s
+[17:54:05] [INFO] [pipeline] Procesando LEGAJOS_02122025_082905_320563.pdf
+[17:54:05] [INFO] [pipeline] 2 páginas renderizadas
+[17:54:05] [INFO] [pipeline] OCR página 1/2
+[17:54:05] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:54:06] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:54:11] [INFO] [pipeline] OCR página 1 OK (chars=1464)
+[17:54:11] [INFO] [pipeline] OCR página 2/2
+[17:54:14] [INFO] [pipeline] OCR página 2 OK (chars=154)
+[17:54:14] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_02122025_082905_320563_OCR_LLM_READY.txt
+[17:54:14] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_02122025_082905_320563_OCR_LLM_READY_RAW.json
+[17:54:14] [INFO] [pipeline] Procesamiento completado en 8.84s
+[17:54:14] [INFO] [pipeline] Procesando LEGAJOS_02122025_092353_320565.pdf
+[17:54:20] [INFO] [pipeline] 57 páginas renderizadas
+[17:54:20] [INFO] [pipeline] OCR página 1/57
+[17:54:20] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:54:22] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:54:26] [INFO] [pipeline] OCR página 1 OK (chars=1740)
+[17:54:26] [INFO] [pipeline] OCR página 2/57
+[17:54:31] [INFO] [pipeline] OCR página 2 OK (chars=2916)
+[17:54:31] [INFO] [pipeline] OCR página 3/57
+[17:54:36] [INFO] [pipeline] OCR página 3 OK (chars=1271)
+[17:54:36] [INFO] [pipeline] OCR página 4/57
+[17:54:39] [INFO] [pipeline] OCR página 4 OK (chars=908)
+[17:54:39] [INFO] [pipeline] OCR página 5/57
+[17:54:42] [INFO] [pipeline] OCR página 5 OK (chars=730)
+[17:54:42] [INFO] [pipeline] OCR página 6/57
+[17:54:47] [INFO] [pipeline] OCR página 6 OK (chars=1710)
+[17:54:47] [INFO] [pipeline] OCR página 7/57
+[17:54:52] [INFO] [pipeline] OCR página 7 OK (chars=2012)
+[17:54:52] [INFO] [pipeline] OCR página 8/57
+[17:54:57] [INFO] [pipeline] OCR página 8 OK (chars=1204)
+[17:54:57] [INFO] [pipeline] OCR página 9/57
+[17:55:02] [INFO] [pipeline] OCR página 9 OK (chars=2055)
+[17:55:02] [INFO] [pipeline] OCR página 10/57
+[17:55:08] [INFO] [pipeline] OCR página 10 OK (chars=1959)
+[17:55:08] [INFO] [pipeline] OCR página 11/57
+[17:55:11] [INFO] [pipeline] OCR página 11 OK (chars=711)
+[17:55:11] [INFO] [pipeline] OCR página 12/57
+[17:55:16] [INFO] [pipeline] OCR página 12 OK (chars=2984)
+[17:55:16] [INFO] [pipeline] OCR página 13/57
+[17:55:22] [INFO] [pipeline] OCR página 13 OK (chars=2934)
+[17:55:22] [INFO] [pipeline] OCR página 14/57
+[17:55:25] [INFO] [pipeline] OCR página 14 OK (chars=390)
+[17:55:25] [INFO] [pipeline] OCR página 15/57
+[17:55:29] [INFO] [pipeline] OCR página 15 OK (chars=477)
+[17:55:29] [INFO] [pipeline] OCR página 16/57
+[17:55:34] [INFO] [pipeline] OCR página 16 OK (chars=2402)
+[17:55:34] [INFO] [pipeline] OCR página 17/57
+[17:55:40] [INFO] [pipeline] OCR página 17 OK (chars=3488)
+[17:55:40] [INFO] [pipeline] OCR página 18/57
+[17:55:46] [INFO] [pipeline] OCR página 18 OK (chars=4001)
+[17:55:46] [INFO] [pipeline] OCR página 19/57
+[17:55:52] [INFO] [pipeline] OCR página 19 OK (chars=3596)
+[17:55:52] [INFO] [pipeline] OCR página 20/57
+[17:55:58] [INFO] [pipeline] OCR página 20 OK (chars=3383)
+[17:55:58] [INFO] [pipeline] OCR página 21/57
+[17:56:03] [INFO] [pipeline] OCR página 21 OK (chars=3096)
+[17:56:03] [INFO] [pipeline] OCR página 22/57
+[17:56:08] [INFO] [pipeline] OCR página 22 OK (chars=2436)
+[17:56:08] [INFO] [pipeline] OCR página 23/57
+[17:56:12] [INFO] [pipeline] OCR página 23 OK (chars=1543)
+[17:56:12] [INFO] [pipeline] OCR página 24/57
+[17:56:17] [INFO] [pipeline] OCR página 24 OK (chars=3020)
+[17:56:17] [INFO] [pipeline] OCR página 25/57
+[17:56:22] [INFO] [pipeline] OCR página 25 OK (chars=2783)
+[17:56:22] [INFO] [pipeline] OCR página 26/57
+[17:56:26] [INFO] [pipeline] OCR página 26 OK (chars=2113)
+[17:56:26] [INFO] [pipeline] OCR página 27/57
+[17:56:31] [INFO] [pipeline] OCR página 27 OK (chars=1441)
+[17:56:31] [INFO] [pipeline] OCR página 28/57
+[17:56:35] [INFO] [pipeline] OCR página 28 OK (chars=1185)
+[17:56:35] [INFO] [pipeline] OCR página 29/57
+[17:56:39] [INFO] [pipeline] OCR página 29 OK (chars=1087)
+[17:56:39] [INFO] [pipeline] OCR página 30/57
+[17:56:44] [INFO] [pipeline] OCR página 30 OK (chars=2552)
+[17:56:44] [INFO] [pipeline] OCR página 31/57
+[17:56:50] [INFO] [pipeline] OCR página 31 OK (chars=2752)
+[17:56:50] [INFO] [pipeline] OCR página 32/57
+[17:56:53] [INFO] [pipeline] OCR página 32 OK (chars=489)
+[17:56:53] [INFO] [pipeline] OCR página 33/57
+[17:56:57] [INFO] [pipeline] OCR página 33 OK (chars=1489)
+[17:56:57] [INFO] [pipeline] OCR página 34/57
+[17:57:03] [INFO] [pipeline] OCR página 34 OK (chars=3641)
+[17:57:03] [INFO] [pipeline] OCR página 35/57
+[17:57:09] [INFO] [pipeline] OCR página 35 OK (chars=3781)
+[17:57:09] [INFO] [pipeline] OCR página 36/57
+[17:57:14] [INFO] [pipeline] OCR página 36 OK (chars=3258)
+[17:57:14] [INFO] [pipeline] OCR página 37/57
+[17:57:19] [INFO] [pipeline] OCR página 37 OK (chars=3215)
+[17:57:19] [INFO] [pipeline] OCR página 38/57
+[17:57:25] [INFO] [pipeline] OCR página 38 OK (chars=3849)
+[17:57:25] [INFO] [pipeline] OCR página 39/57
+[17:57:30] [INFO] [pipeline] OCR página 39 OK (chars=3538)
+[17:57:30] [INFO] [pipeline] OCR página 40/57
+[17:57:36] [INFO] [pipeline] OCR página 40 OK (chars=3319)
+[17:57:36] [INFO] [pipeline] OCR página 41/57
+[17:57:41] [INFO] [pipeline] OCR página 41 OK (chars=3343)
+[17:57:41] [INFO] [pipeline] OCR página 42/57
+[17:57:47] [INFO] [pipeline] OCR página 42 OK (chars=3944)
+[17:57:47] [INFO] [pipeline] OCR página 43/57
+[17:57:53] [INFO] [pipeline] OCR página 43 OK (chars=3754)
+[17:57:53] [INFO] [pipeline] OCR página 44/57
+[17:57:57] [INFO] [pipeline] OCR página 44 OK (chars=1495)
+[17:57:57] [INFO] [pipeline] OCR página 45/57
+[17:58:02] [INFO] [pipeline] OCR página 45 OK (chars=2391)
+[17:58:02] [INFO] [pipeline] OCR página 46/57
+[17:58:09] [INFO] [pipeline] OCR página 46 OK (chars=2573)
+[17:58:09] [INFO] [pipeline] OCR página 47/57
+[17:58:16] [INFO] [pipeline] OCR página 47 OK (chars=2325)
+[17:58:16] [INFO] [pipeline] OCR página 48/57
+[17:58:22] [INFO] [pipeline] OCR página 48 OK (chars=2744)
+[17:58:22] [INFO] [pipeline] OCR página 49/57
+[17:58:29] [INFO] [pipeline] OCR página 49 OK (chars=2563)
+[17:58:29] [INFO] [pipeline] OCR página 50/57
+[17:58:35] [INFO] [pipeline] OCR página 50 OK (chars=2612)
+[17:58:35] [INFO] [pipeline] OCR página 51/57
+[17:58:41] [INFO] [pipeline] OCR página 51 OK (chars=2544)
+[17:58:41] [INFO] [pipeline] OCR página 52/57
+[17:58:47] [INFO] [pipeline] OCR página 52 OK (chars=2526)
+[17:58:47] [INFO] [pipeline] OCR página 53/57
+[17:58:53] [INFO] [pipeline] OCR página 53 OK (chars=2249)
+[17:58:53] [INFO] [pipeline] OCR página 54/57
+[17:58:58] [INFO] [pipeline] OCR página 54 OK (chars=1720)
+[17:58:58] [INFO] [pipeline] OCR página 55/57
+[17:59:02] [INFO] [pipeline] OCR página 55 OK (chars=1992)
+[17:59:02] [INFO] [pipeline] OCR página 56/57
+[17:59:07] [INFO] [pipeline] OCR página 56 OK (chars=2452)
+[17:59:07] [INFO] [pipeline] OCR página 57/57
+[17:59:11] [INFO] [pipeline] OCR página 57 OK (chars=1915)
+[17:59:11] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_02122025_092353_320565_OCR_LLM_READY.txt
+[17:59:11] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_02122025_092353_320565_OCR_LLM_READY_RAW.json
+[17:59:11] [INFO] [pipeline] Procesamiento completado en 297.84s
+[17:59:12] [INFO] [pipeline] Procesando LEGAJOS_04042025_080848_195834.pdf
+[17:59:13] [INFO] [pipeline] 12 páginas renderizadas
+[17:59:13] [INFO] [pipeline] OCR página 1/12
+[17:59:13] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:59:14] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:59:18] [INFO] [pipeline] OCR página 1 OK (chars=715)
+[17:59:18] [INFO] [pipeline] OCR página 2/12
+[17:59:21] [INFO] [pipeline] OCR página 2 OK (chars=697)
+[17:59:21] [INFO] [pipeline] OCR página 3/12
+[17:59:24] [INFO] [pipeline] OCR página 3 OK (chars=439)
+[17:59:24] [INFO] [pipeline] OCR página 4/12
+[17:59:28] [INFO] [pipeline] OCR página 4 OK (chars=823)
+[17:59:28] [INFO] [pipeline] OCR página 5/12
+[17:59:32] [INFO] [pipeline] OCR página 5 OK (chars=2022)
+[17:59:32] [INFO] [pipeline] OCR página 6/12
+[17:59:38] [INFO] [pipeline] OCR página 6 OK (chars=3244)
+[17:59:38] [INFO] [pipeline] OCR página 7/12
+[17:59:42] [INFO] [pipeline] OCR página 7 OK (chars=698)
+[17:59:42] [INFO] [pipeline] OCR página 8/12
+[17:59:46] [INFO] [pipeline] OCR página 8 OK (chars=1357)
+[17:59:46] [INFO] [pipeline] OCR página 9/12
+[17:59:50] [INFO] [pipeline] OCR página 9 OK (chars=779)
+[17:59:50] [INFO] [pipeline] OCR página 10/12
+[17:59:57] [INFO] [pipeline] OCR página 10 OK (chars=3756)
+[17:59:57] [INFO] [pipeline] OCR página 11/12
+[18:00:02] [INFO] [pipeline] OCR página 11 OK (chars=2006)
+[18:00:02] [INFO] [pipeline] OCR página 12/12
+[18:00:06] [INFO] [pipeline] OCR página 12 OK (chars=2148)
+[18:00:06] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_04042025_080848_195834_OCR_LLM_READY.txt
+[18:00:06] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_04042025_080848_195834_OCR_LLM_READY_RAW.json
+[18:00:06] [INFO] [pipeline] Procesamiento completado en 55.00s
+[18:00:07] [INFO] [pipeline] Procesando LEGAJOS_04082025_132741_258881.pdf
+[18:00:07] [INFO] [pipeline] 1 páginas renderizadas
+[18:00:07] [INFO] [pipeline] OCR página 1/1
+[18:00:07] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:00:08] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:00:13] [INFO] [pipeline] OCR página 1 OK (chars=2013)
+[18:00:13] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_04082025_132741_258881_OCR_LLM_READY.txt
+[18:00:13] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_04082025_132741_258881_OCR_LLM_READY_RAW.json
+[18:00:13] [INFO] [pipeline] Procesamiento completado en 6.14s
+[18:00:13] [INFO] [pipeline] Procesando LEGAJOS_05082025_100444_259367.pdf
+[18:00:13] [INFO] [pipeline] 1 páginas renderizadas
+[18:00:13] [INFO] [pipeline] OCR página 1/1
+[18:00:13] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:00:14] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:00:18] [INFO] [pipeline] OCR página 1 OK (chars=647)
+[18:00:18] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_05082025_100444_259367_OCR_LLM_READY.txt
+[18:00:18] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_05082025_100444_259367_OCR_LLM_READY_RAW.json
+[18:00:18] [INFO] [pipeline] Procesamiento completado en 4.93s
+[18:00:18] [INFO] [pipeline] Procesando LEGAJOS_05082025_100616_259385.pdf
+[18:00:18] [INFO] [pipeline] 4 páginas renderizadas
+[18:00:18] [INFO] [pipeline] OCR página 1/4
+[18:00:18] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:00:19] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:00:24] [INFO] [pipeline] OCR página 1 OK (chars=1106)
+[18:00:24] [INFO] [pipeline] OCR página 2/4
+[18:00:27] [INFO] [pipeline] OCR página 2 OK (chars=916)
+[18:00:27] [INFO] [pipeline] OCR página 3/4
+[18:00:31] [INFO] [pipeline] OCR página 3 OK (chars=858)
+[18:00:31] [INFO] [pipeline] OCR página 4/4
+[18:00:33] [INFO] [pipeline] OCR página 4 OK (chars=86)
+[18:00:33] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_05082025_100616_259385_OCR_LLM_READY.txt
+[18:00:33] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_05082025_100616_259385_OCR_LLM_READY_RAW.json
+[18:00:33] [INFO] [pipeline] Procesamiento completado en 15.74s
+[18:00:33] [INFO] [pipeline] Procesando LEGAJOS_05082025_100637_259393.pdf
+[18:00:34] [INFO] [pipeline] 2 páginas renderizadas
+[18:00:34] [INFO] [pipeline] OCR página 1/2
+[18:00:34] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:00:35] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:00:39] [INFO] [pipeline] OCR página 1 OK (chars=1100)
+[18:00:39] [INFO] [pipeline] OCR página 2/2
+[18:00:43] [INFO] [pipeline] OCR página 2 OK (chars=809)
+[18:00:43] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_05082025_100637_259393_OCR_LLM_READY.txt
+[18:00:43] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_05082025_100637_259393_OCR_LLM_READY_RAW.json
+[18:00:43] [INFO] [pipeline] Procesamiento completado en 9.29s
+[18:00:43] [INFO] [pipeline] Procesando LEGAJOS_05082025_102133_259397.pdf
+[18:00:43] [INFO] [pipeline] 1 páginas renderizadas
+[18:00:43] [INFO] [pipeline] OCR página 1/1
+[18:00:43] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:00:44] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:00:49] [INFO] [pipeline] OCR página 1 OK (chars=1239)
+[18:00:49] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_05082025_102133_259397_OCR_LLM_READY.txt
+[18:00:49] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_05082025_102133_259397_OCR_LLM_READY_RAW.json
+[18:00:49] [INFO] [pipeline] Procesamiento completado en 6.27s
+[18:00:49] [INFO] [pipeline] Procesando LEGAJOS_05082025_102141_259399.pdf
+[18:00:49] [INFO] [pipeline] 1 páginas renderizadas
+[18:00:49] [INFO] [pipeline] OCR página 1/1
+[18:00:49] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:00:51] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:00:54] [INFO] [pipeline] OCR página 1 OK (chars=862)
+[18:00:54] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_05082025_102141_259399_OCR_LLM_READY.txt
+[18:00:54] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_05082025_102141_259399_OCR_LLM_READY_RAW.json
+[18:00:54] [INFO] [pipeline] Procesamiento completado en 4.86s
+[18:00:54] [INFO] [pipeline] Procesando LEGAJOS_05082025_114708_259401.pdf
+[18:00:54] [INFO] [pipeline] 1 páginas renderizadas
+[18:00:54] [INFO] [pipeline] OCR página 1/1
+[18:00:54] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:00:55] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:00:59] [INFO] [pipeline] OCR página 1 OK (chars=862)
+[18:00:59] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_05082025_114708_259401_OCR_LLM_READY.txt
+[18:00:59] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_05082025_114708_259401_OCR_LLM_READY_RAW.json
+[18:00:59] [INFO] [pipeline] Procesamiento completado en 4.84s
+[18:00:59] [INFO] [pipeline] Procesando LEGAJOS_05082025_145042_259403.pdf
+[18:00:59] [INFO] [pipeline] 1 páginas renderizadas
+[18:00:59] [INFO] [pipeline] OCR página 1/1
+[18:00:59] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:01:00] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:01:04] [INFO] [pipeline] OCR página 1 OK (chars=266)
+[18:01:04] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_05082025_145042_259403_OCR_LLM_READY.txt
+[18:01:04] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_05082025_145042_259403_OCR_LLM_READY_RAW.json
+[18:01:04] [INFO] [pipeline] Procesamiento completado en 4.82s
+[18:01:04] [INFO] [pipeline] Procesando LEGAJOS_05082025_145050_259405.pdf
+[18:01:04] [INFO] [pipeline] 1 páginas renderizadas
+[18:01:04] [INFO] [pipeline] OCR página 1/1
+[18:01:04] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:01:05] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:01:09] [INFO] [pipeline] OCR página 1 OK (chars=483)
+[18:01:09] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_05082025_145050_259405_OCR_LLM_READY.txt
+[18:01:09] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_05082025_145050_259405_OCR_LLM_READY_RAW.json
+[18:01:09] [INFO] [pipeline] Procesamiento completado en 5.07s
+[18:01:09] [INFO] [pipeline] Procesando LEGAJOS_05122025_100214_323471.pdf
+[18:01:09] [INFO] [pipeline] 2 páginas renderizadas
+[18:01:09] [INFO] [pipeline] OCR página 1/2
+[18:01:09] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:01:10] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:01:16] [INFO] [pipeline] OCR página 1 OK (chars=1400)
+[18:01:16] [INFO] [pipeline] OCR página 2/2
+[18:01:20] [INFO] [pipeline] OCR página 2 OK (chars=1018)
+[18:01:20] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_05122025_100214_323471_OCR_LLM_READY.txt
+[18:01:20] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_05122025_100214_323471_OCR_LLM_READY_RAW.json
+[18:01:20] [INFO] [pipeline] Procesamiento completado en 10.84s
+[18:01:20] [INFO] [pipeline] Procesando LEGAJOS_06012026_085922_339772.pdf
+[18:01:21] [INFO] [pipeline] 13 páginas renderizadas
+[18:01:21] [INFO] [pipeline] OCR página 1/13
+[18:01:21] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:01:22] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:01:26] [INFO] [pipeline] OCR página 1 OK (chars=772)
+[18:01:26] [INFO] [pipeline] OCR página 2/13
+[18:01:29] [INFO] [pipeline] OCR página 2 OK (chars=570)
+[18:01:29] [INFO] [pipeline] OCR página 3/13
+[18:01:32] [INFO] [pipeline] OCR página 3 OK (chars=438)
+[18:01:32] [INFO] [pipeline] OCR página 4/13
+[18:01:36] [INFO] [pipeline] OCR página 4 OK (chars=874)
+[18:01:36] [INFO] [pipeline] OCR página 5/13
+[18:01:39] [INFO] [pipeline] OCR página 5 OK (chars=253)
+[18:01:39] [INFO] [pipeline] OCR página 6/13
+[18:01:43] [INFO] [pipeline] OCR página 6 OK (chars=1871)
+[18:01:43] [INFO] [pipeline] OCR página 7/13
+[18:01:48] [INFO] [pipeline] OCR página 7 OK (chars=1836)
+[18:01:48] [INFO] [pipeline] OCR página 8/13
+[18:01:51] [INFO] [pipeline] OCR página 8 OK (chars=618)
+[18:01:51] [INFO] [pipeline] OCR página 9/13
+[18:01:58] [INFO] [pipeline] OCR página 9 OK (chars=3203)
+[18:01:58] [INFO] [pipeline] OCR página 10/13
+[18:02:03] [INFO] [pipeline] OCR página 10 OK (chars=1924)
+[18:02:03] [INFO] [pipeline] OCR página 11/13
+[18:02:06] [INFO] [pipeline] OCR página 11 OK (chars=298)
+[18:02:06] [INFO] [pipeline] OCR página 12/13
+[18:02:11] [INFO] [pipeline] OCR página 12 OK (chars=1300)
+[18:02:11] [INFO] [pipeline] OCR página 13/13
+[18:02:15] [INFO] [pipeline] OCR página 13 OK (chars=1038)
+[18:02:15] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_06012026_085922_339772_OCR_LLM_READY.txt
+[18:02:15] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_06012026_085922_339772_OCR_LLM_READY_RAW.json
+[18:02:15] [INFO] [pipeline] Procesamiento completado en 55.31s
+[18:02:15] [INFO] [pipeline] Procesando LEGAJOS_06082025_154029_259513.pdf
+[18:02:15] [INFO] [pipeline] 1 páginas renderizadas
+[18:02:15] [INFO] [pipeline] OCR página 1/1
+[18:02:15] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:02:17] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:02:20] [INFO] [pipeline] OCR página 1 OK (chars=1165)
+[18:02:20] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_06082025_154029_259513_OCR_LLM_READY.txt
+[18:02:20] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_06082025_154029_259513_OCR_LLM_READY_RAW.json
+[18:02:20] [INFO] [pipeline] Procesamiento completado en 5.24s
+[18:02:20] [INFO] [pipeline] Procesando LEGAJOS_06082025_154042_259515.pdf
+[18:02:20] [INFO] [pipeline] 1 páginas renderizadas
+[18:02:20] [INFO] [pipeline] OCR página 1/1
+[18:02:20] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:02:22] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:02:25] [INFO] [pipeline] OCR página 1 OK (chars=995)
+[18:02:25] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_06082025_154042_259515_OCR_LLM_READY.txt
+[18:02:25] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_06082025_154042_259515_OCR_LLM_READY_RAW.json
+[18:02:25] [INFO] [pipeline] Procesamiento completado en 5.14s
+[18:02:26] [INFO] [pipeline] Procesando LEGAJOS_06082025_154110_259517.pdf
+[18:02:26] [INFO] [pipeline] 2 páginas renderizadas
+[18:02:26] [INFO] [pipeline] OCR página 1/2
+[18:02:26] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:02:28] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:02:35] [INFO] [pipeline] OCR página 1 OK (chars=2476)
+[18:02:35] [INFO] [pipeline] OCR página 2/2
+[18:02:40] [INFO] [pipeline] OCR página 2 OK (chars=1573)
+[18:02:40] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_06082025_154110_259517_OCR_LLM_READY.txt
+[18:02:40] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_06082025_154110_259517_OCR_LLM_READY_RAW.json
+[18:02:40] [INFO] [pipeline] Procesamiento completado en 14.66s
+[18:02:40] [INFO] [pipeline] Procesando LEGAJOS_06082025_154125_259519.pdf
+[18:02:40] [INFO] [pipeline] 1 páginas renderizadas
+[18:02:40] [INFO] [pipeline] OCR página 1/1
+[18:02:40] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:02:42] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:02:46] [INFO] [pipeline] OCR página 1 OK (chars=1939)
+[18:02:46] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_06082025_154125_259519_OCR_LLM_READY.txt
+[18:02:46] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_06082025_154125_259519_OCR_LLM_READY_RAW.json
+[18:02:46] [INFO] [pipeline] Procesamiento completado en 6.21s
+[18:02:46] [INFO] [pipeline] Procesando LEGAJOS_07042025_121559_196450.pdf
+[18:02:47] [INFO] [pipeline] 8 páginas renderizadas
+[18:02:47] [INFO] [pipeline] OCR página 1/8
+[18:02:47] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:02:49] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:02:53] [INFO] [pipeline] OCR página 1 OK (chars=1804)
+[18:02:53] [INFO] [pipeline] OCR página 2/8
+[18:02:58] [INFO] [pipeline] OCR página 2 OK (chars=1959)
+[18:02:58] [INFO] [pipeline] OCR página 3/8
+[18:03:03] [INFO] [pipeline] OCR página 3 OK (chars=2012)
+[18:03:03] [INFO] [pipeline] OCR página 4/8
+[18:03:07] [INFO] [pipeline] OCR página 4 OK (chars=1939)
+[18:03:07] [INFO] [pipeline] OCR página 5/8
+[18:03:12] [INFO] [pipeline] OCR página 5 OK (chars=2034)
+[18:03:12] [INFO] [pipeline] OCR página 6/8
+[18:03:17] [INFO] [pipeline] OCR página 6 OK (chars=2055)
+[18:03:17] [INFO] [pipeline] OCR página 7/8
+[18:03:20] [INFO] [pipeline] OCR página 7 OK (chars=508)
+[18:03:20] [INFO] [pipeline] OCR página 8/8
+[18:03:24] [INFO] [pipeline] OCR página 8 OK (chars=1298)
+[18:03:24] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_07042025_121559_196450_OCR_LLM_READY.txt
+[18:03:24] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_07042025_121559_196450_OCR_LLM_READY_RAW.json
+[18:03:24] [INFO] [pipeline] Procesamiento completado en 37.86s
+[18:03:24] [INFO] [pipeline] Procesando LEGAJOS_07082025_090904_259521.pdf
+[18:03:24] [INFO] [pipeline] 1 páginas renderizadas
+[18:03:24] [INFO] [pipeline] OCR página 1/1
+[18:03:24] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:03:26] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:03:30] [INFO] [pipeline] OCR página 1 OK (chars=1100)
+[18:03:30] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_07082025_090904_259521_OCR_LLM_READY.txt
+[18:03:30] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_07082025_090904_259521_OCR_LLM_READY_RAW.json
+[18:03:30] [INFO] [pipeline] Procesamiento completado en 5.70s
+[18:03:30] [INFO] [pipeline] Procesando LEGAJOS_07102025_124536_291480.pdf
+[18:03:30] [INFO] [pipeline] 1 páginas renderizadas
+[18:03:30] [INFO] [pipeline] OCR página 1/1
+[18:03:30] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:03:32] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:03:37] [INFO] [pipeline] OCR página 1 OK (chars=180)
+[18:03:37] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_07102025_124536_291480_OCR_LLM_READY.txt
+[18:03:37] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_07102025_124536_291480_OCR_LLM_READY_RAW.json
+[18:03:37] [INFO] [pipeline] Procesamiento completado en 6.84s
+[18:03:37] [INFO] [pipeline] Procesando LEGAJOS_07102025_124552_291482.pdf
+[18:03:37] [INFO] [pipeline] 1 páginas renderizadas
+[18:03:37] [INFO] [pipeline] OCR página 1/1
+[18:03:37] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:03:39] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:03:43] [INFO] [pipeline] OCR página 1 OK (chars=1581)
+[18:03:43] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_07102025_124552_291482_OCR_LLM_READY.txt
+[18:03:43] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_07102025_124552_291482_OCR_LLM_READY_RAW.json
+[18:03:43] [INFO] [pipeline] Procesamiento completado en 5.89s
+[18:03:43] [INFO] [pipeline] Procesando LEGAJOS_07102025_131914_291484.pdf
+[18:03:43] [INFO] [pipeline] 4 páginas renderizadas
+[18:03:43] [INFO] [pipeline] OCR página 1/4
+[18:03:43] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:03:45] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:03:49] [INFO] [pipeline] OCR página 1 OK (chars=1622)
+[18:03:49] [INFO] [pipeline] OCR página 2/4
+[18:04:02] [INFO] [pipeline] OCR página 2 OK (chars=3715)
+[18:04:02] [INFO] [pipeline] OCR página 3/4
+[18:04:05] [INFO] [pipeline] OCR página 3 OK (chars=871)
+[18:04:05] [INFO] [pipeline] OCR página 4/4
+[18:04:10] [INFO] [pipeline] OCR página 4 OK (chars=1394)
+[18:04:10] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_07102025_131914_291484_OCR_LLM_READY.txt
+[18:04:10] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_07102025_131914_291484_OCR_LLM_READY_RAW.json
+[18:04:10] [INFO] [pipeline] Procesamiento completado en 27.02s
+[18:04:10] [INFO] [pipeline] Procesando LEGAJOS_08072025_101606_241654.pdf
+[18:04:10] [INFO] [pipeline] 2 páginas renderizadas
+[18:04:10] [INFO] [pipeline] OCR página 1/2
+[18:04:10] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:04:12] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:04:15] [INFO] [pipeline] OCR página 1 OK (chars=221)
+[18:04:15] [INFO] [pipeline] OCR página 2/2
+[18:04:17] [ERROR] [pipeline] Error en página 2: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[18:04:17] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_08072025_101606_241654_OCR_LLM_READY.txt
+[18:04:17] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_08072025_101606_241654_OCR_LLM_READY_RAW.json
+[18:04:17] [INFO] [pipeline] Procesamiento completado en 7.14s
+[18:04:17] [INFO] [pipeline] Procesando LEGAJOS_08092025_131101_275829.pdf
+[18:04:17] [INFO] [pipeline] 2 páginas renderizadas
+[18:04:17] [INFO] [pipeline] OCR página 1/2
+[18:04:17] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:04:19] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:04:26] [INFO] [pipeline] OCR página 1 OK (chars=3668)
+[18:04:26] [INFO] [pipeline] OCR página 2/2
+[18:04:29] [INFO] [pipeline] OCR página 2 OK (chars=115)
+[18:04:29] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_08092025_131101_275829_OCR_LLM_READY.txt
+[18:04:29] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_08092025_131101_275829_OCR_LLM_READY_RAW.json
+[18:04:29] [INFO] [pipeline] Procesamiento completado en 11.65s
+[18:04:29] [INFO] [pipeline] Procesando LEGAJOS_09092025_133309_275841.pdf
+[18:04:29] [INFO] [pipeline] 1 páginas renderizadas
+[18:04:29] [INFO] [pipeline] OCR página 1/1
+[18:04:29] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:04:30] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:04:36] [INFO] [pipeline] OCR página 1 OK (chars=1370)
+[18:04:36] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_09092025_133309_275841_OCR_LLM_READY.txt
+[18:04:36] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_09092025_133309_275841_OCR_LLM_READY_RAW.json
+[18:04:36] [INFO] [pipeline] Procesamiento completado en 6.73s
+[18:04:36] [INFO] [pipeline] Procesando LEGAJOS_10112025_131835_307363.pdf
+[18:04:36] [INFO] [pipeline] 1 páginas renderizadas
+[18:04:36] [INFO] [pipeline] OCR página 1/1
+[18:04:36] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:04:37] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:04:41] [INFO] [pipeline] OCR página 1 OK (chars=1162)
+[18:04:41] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_10112025_131835_307363_OCR_LLM_READY.txt
+[18:04:41] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_10112025_131835_307363_OCR_LLM_READY_RAW.json
+[18:04:41] [INFO] [pipeline] Procesamiento completado en 5.83s
+[18:04:41] [INFO] [pipeline] Procesando LEGAJOS_10112025_132053_307365.pdf
+[18:04:42] [INFO] [pipeline] 1 páginas renderizadas
+[18:04:42] [INFO] [pipeline] OCR página 1/1
+[18:04:42] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:04:43] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:04:47] [INFO] [pipeline] OCR página 1 OK (chars=1163)
+[18:04:47] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_10112025_132053_307365_OCR_LLM_READY.txt
+[18:04:47] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_10112025_132053_307365_OCR_LLM_READY_RAW.json
+[18:04:47] [INFO] [pipeline] Procesamiento completado en 5.77s
+[18:04:47] [INFO] [pipeline] Procesando LEGAJOS_11112025_144109_308191.pdf
+[18:04:48] [INFO] [pipeline] 7 páginas renderizadas
+[18:04:48] [INFO] [pipeline] OCR página 1/7
+[18:04:48] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:04:49] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:04:55] [INFO] [pipeline] OCR página 1 OK (chars=2535)
+[18:04:55] [INFO] [pipeline] OCR página 2/7
+[18:04:59] [INFO] [pipeline] OCR página 2 OK (chars=2444)
+[18:04:59] [INFO] [pipeline] OCR página 3/7
+[18:05:05] [INFO] [pipeline] OCR página 3 OK (chars=2508)
+[18:05:05] [INFO] [pipeline] OCR página 4/7
+[18:05:09] [INFO] [pipeline] OCR página 4 OK (chars=2059)
+[18:05:09] [INFO] [pipeline] OCR página 5/7
+[18:05:14] [INFO] [pipeline] OCR página 5 OK (chars=2236)
+[18:05:14] [INFO] [pipeline] OCR página 6/7
+[18:05:17] [INFO] [pipeline] OCR página 6 OK (chars=404)
+[18:05:17] [INFO] [pipeline] OCR página 7/7
+[18:05:20] [INFO] [pipeline] OCR página 7 OK (chars=927)
+[18:05:20] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_11112025_144109_308191_OCR_LLM_READY.txt
+[18:05:20] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_11112025_144109_308191_OCR_LLM_READY_RAW.json
+[18:05:20] [INFO] [pipeline] Procesamiento completado en 33.04s
+[18:05:20] [INFO] [pipeline] Procesando LEGAJOS_11122025_085219_325427.pdf
+[18:05:23] [INFO] [pipeline] 16 páginas renderizadas
+[18:05:23] [INFO] [pipeline] OCR página 1/16
+[18:05:23] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:05:24] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:05:33] [INFO] [pipeline] OCR página 1 OK (chars=3271)
+[18:05:33] [INFO] [pipeline] OCR página 2/16
+[18:05:42] [INFO] [pipeline] OCR página 2 OK (chars=3322)
+[18:05:42] [INFO] [pipeline] OCR página 3/16
+[18:05:51] [INFO] [pipeline] OCR página 3 OK (chars=3421)
+[18:05:51] [INFO] [pipeline] OCR página 4/16
+[18:06:00] [INFO] [pipeline] OCR página 4 OK (chars=3213)
+[18:06:00] [INFO] [pipeline] OCR página 5/16
+[18:06:08] [INFO] [pipeline] OCR página 5 OK (chars=3271)
+[18:06:08] [INFO] [pipeline] OCR página 6/16
+[18:06:17] [INFO] [pipeline] OCR página 6 OK (chars=3331)
+[18:06:17] [INFO] [pipeline] OCR página 7/16
+[18:06:25] [INFO] [pipeline] OCR página 7 OK (chars=3294)
+[18:06:25] [INFO] [pipeline] OCR página 8/16
+[18:06:34] [INFO] [pipeline] OCR página 8 OK (chars=3287)
+[18:06:34] [INFO] [pipeline] OCR página 9/16
+[18:06:43] [INFO] [pipeline] OCR página 9 OK (chars=3394)
+[18:06:43] [INFO] [pipeline] OCR página 10/16
+[18:06:52] [INFO] [pipeline] OCR página 10 OK (chars=3410)
+[18:06:52] [INFO] [pipeline] OCR página 11/16
+[18:07:00] [INFO] [pipeline] OCR página 11 OK (chars=3397)
+[18:07:00] [INFO] [pipeline] OCR página 12/16
+[18:07:09] [INFO] [pipeline] OCR página 12 OK (chars=3303)
+[18:07:09] [INFO] [pipeline] OCR página 13/16
+[18:07:18] [INFO] [pipeline] OCR página 13 OK (chars=3442)
+[18:07:18] [INFO] [pipeline] OCR página 14/16
+[18:07:27] [INFO] [pipeline] OCR página 14 OK (chars=3402)
+[18:07:27] [INFO] [pipeline] OCR página 15/16
+[18:07:36] [INFO] [pipeline] OCR página 15 OK (chars=3424)
+[18:07:36] [INFO] [pipeline] OCR página 16/16
+[18:07:41] [INFO] [pipeline] OCR página 16 OK (chars=884)
+[18:07:41] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_11122025_085219_325427_OCR_LLM_READY.txt
+[18:07:41] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_11122025_085219_325427_OCR_LLM_READY_RAW.json
+[18:07:41] [INFO] [pipeline] Procesamiento completado en 140.28s
+[18:07:41] [INFO] [pipeline] Procesando LEGAJOS_11122025_085313_325459.pdf
+[18:07:43] [INFO] [pipeline] 15 páginas renderizadas
+[18:07:43] [INFO] [pipeline] OCR página 1/15
+[18:07:43] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:07:45] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:07:53] [INFO] [pipeline] OCR página 1 OK (chars=2832)
+[18:07:53] [INFO] [pipeline] OCR página 2/15
+[18:08:02] [INFO] [pipeline] OCR página 2 OK (chars=3173)
+[18:08:02] [INFO] [pipeline] OCR página 3/15
+[18:08:12] [INFO] [pipeline] OCR página 3 OK (chars=3356)
+[18:08:12] [INFO] [pipeline] OCR página 4/15
+[18:08:22] [INFO] [pipeline] OCR página 4 OK (chars=3464)
+[18:08:22] [INFO] [pipeline] OCR página 5/15
+[18:08:32] [INFO] [pipeline] OCR página 5 OK (chars=3427)
+[18:08:32] [INFO] [pipeline] OCR página 6/15
+[18:08:41] [INFO] [pipeline] OCR página 6 OK (chars=3469)
+[18:08:41] [INFO] [pipeline] OCR página 7/15
+[18:08:51] [INFO] [pipeline] OCR página 7 OK (chars=3356)
+[18:08:51] [INFO] [pipeline] OCR página 8/15
+[18:09:01] [INFO] [pipeline] OCR página 8 OK (chars=3383)
+[18:09:01] [INFO] [pipeline] OCR página 9/15
+[18:09:11] [INFO] [pipeline] OCR página 9 OK (chars=3582)
+[18:09:11] [INFO] [pipeline] OCR página 10/15
+[18:09:21] [INFO] [pipeline] OCR página 10 OK (chars=3430)
+[18:09:21] [INFO] [pipeline] OCR página 11/15
+[18:09:31] [INFO] [pipeline] OCR página 11 OK (chars=3444)
+[18:09:31] [INFO] [pipeline] OCR página 12/15
+[18:09:41] [INFO] [pipeline] OCR página 12 OK (chars=3700)
+[18:09:41] [INFO] [pipeline] OCR página 13/15
+[18:09:51] [INFO] [pipeline] OCR página 13 OK (chars=3350)
+[18:09:51] [INFO] [pipeline] OCR página 14/15
+[18:10:01] [INFO] [pipeline] OCR página 14 OK (chars=3567)
+[18:10:01] [INFO] [pipeline] OCR página 15/15
+[18:10:07] [INFO] [pipeline] OCR página 15 OK (chars=1828)
+[18:10:07] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_11122025_085313_325459_OCR_LLM_READY.txt
+[18:10:07] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_11122025_085313_325459_OCR_LLM_READY_RAW.json
+[18:10:07] [INFO] [pipeline] Procesamiento completado en 146.38s
+[18:10:07] [INFO] [pipeline] Procesando LEGAJOS_11122025_085511_325489.pdf
+[18:10:10] [INFO] [pipeline] 23 páginas renderizadas
+[18:10:10] [INFO] [pipeline] OCR página 1/23
+[18:10:10] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:10:12] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:10:19] [INFO] [pipeline] OCR página 1 OK (chars=2319)
+[18:10:19] [INFO] [pipeline] OCR página 2/23
+[18:10:25] [INFO] [pipeline] OCR página 2 OK (chars=2304)
+[18:10:25] [INFO] [pipeline] OCR página 3/23
+[18:10:31] [INFO] [pipeline] OCR página 3 OK (chars=2303)
+[18:10:31] [INFO] [pipeline] OCR página 4/23
+[18:10:38] [INFO] [pipeline] OCR página 4 OK (chars=2412)
+[18:10:38] [INFO] [pipeline] OCR página 5/23
+[18:10:45] [INFO] [pipeline] OCR página 5 OK (chars=2690)
+[18:10:45] [INFO] [pipeline] OCR página 6/23
+[18:10:52] [INFO] [pipeline] OCR página 6 OK (chars=2346)
+[18:10:52] [INFO] [pipeline] OCR página 7/23
+[18:10:59] [INFO] [pipeline] OCR página 7 OK (chars=2302)
+[18:10:59] [INFO] [pipeline] OCR página 8/23
+[18:11:05] [INFO] [pipeline] OCR página 8 OK (chars=2226)
+[18:11:05] [INFO] [pipeline] OCR página 9/23
+[18:11:12] [INFO] [pipeline] OCR página 9 OK (chars=2325)
+[18:11:12] [INFO] [pipeline] OCR página 10/23
+[18:11:19] [INFO] [pipeline] OCR página 10 OK (chars=2311)
+[18:11:19] [INFO] [pipeline] OCR página 11/23
+[18:11:25] [INFO] [pipeline] OCR página 11 OK (chars=2388)
+[18:11:25] [INFO] [pipeline] OCR página 12/23
+[18:11:32] [INFO] [pipeline] OCR página 12 OK (chars=2268)
+[18:11:32] [INFO] [pipeline] OCR página 13/23
+[18:11:39] [INFO] [pipeline] OCR página 13 OK (chars=2378)
+[18:11:39] [INFO] [pipeline] OCR página 14/23
+[18:11:46] [INFO] [pipeline] OCR página 14 OK (chars=2379)
+[18:11:46] [INFO] [pipeline] OCR página 15/23
+[18:11:52] [INFO] [pipeline] OCR página 15 OK (chars=2419)
+[18:11:52] [INFO] [pipeline] OCR página 16/23
+[18:11:59] [INFO] [pipeline] OCR página 16 OK (chars=2405)
+[18:11:59] [INFO] [pipeline] OCR página 17/23
+[18:12:07] [INFO] [pipeline] OCR página 17 OK (chars=2376)
+[18:12:07] [INFO] [pipeline] OCR página 18/23
+[18:12:14] [INFO] [pipeline] OCR página 18 OK (chars=2307)
+[18:12:14] [INFO] [pipeline] OCR página 19/23
+[18:12:21] [INFO] [pipeline] OCR página 19 OK (chars=2486)
+[18:12:21] [INFO] [pipeline] OCR página 20/23
+[18:12:28] [INFO] [pipeline] OCR página 20 OK (chars=2456)
+[18:12:28] [INFO] [pipeline] OCR página 21/23
+[18:12:35] [INFO] [pipeline] OCR página 21 OK (chars=2343)
+[18:12:35] [INFO] [pipeline] OCR página 22/23
+[18:12:42] [INFO] [pipeline] OCR página 22 OK (chars=2483)
+[18:12:42] [INFO] [pipeline] OCR página 23/23
+[18:12:47] [INFO] [pipeline] OCR página 23 OK (chars=1333)
+[18:12:47] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_11122025_085511_325489_OCR_LLM_READY.txt
+[18:12:47] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_11122025_085511_325489_OCR_LLM_READY_RAW.json
+[18:12:47] [INFO] [pipeline] Procesamiento completado en 159.56s
+[18:12:47] [INFO] [pipeline] Procesando LEGAJOS_11122025_091714_325535.pdf
+[18:12:49] [INFO] [pipeline] 22 páginas renderizadas
+[18:12:49] [INFO] [pipeline] OCR página 1/22
+[18:12:49] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:12:51] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:12:55] [INFO] [pipeline] OCR página 1 OK (chars=1499)
+[18:12:55] [INFO] [pipeline] OCR página 2/22
+[18:12:57] [INFO] [pipeline] OCR página 2 OK (chars=231)
+[18:12:57] [INFO] [pipeline] OCR página 3/22
+[18:13:01] [INFO] [pipeline] OCR página 3 OK (chars=838)
+[18:13:01] [INFO] [pipeline] OCR página 4/22
+[18:13:05] [INFO] [pipeline] OCR página 4 OK (chars=2446)
+[18:13:05] [INFO] [pipeline] OCR página 5/22
+[18:13:11] [INFO] [pipeline] OCR página 5 OK (chars=3011)
+[18:13:11] [INFO] [pipeline] OCR página 6/22
+[18:13:15] [INFO] [pipeline] OCR página 6 OK (chars=1848)
+[18:13:15] [INFO] [pipeline] OCR página 7/22
+[18:13:19] [INFO] [pipeline] OCR página 7 OK (chars=1184)
+[18:13:19] [INFO] [pipeline] OCR página 8/22
+[18:13:24] [INFO] [pipeline] OCR página 8 OK (chars=1632)
+[18:13:24] [INFO] [pipeline] OCR página 9/22
+[18:13:28] [INFO] [pipeline] OCR página 9 OK (chars=1171)
+[18:13:28] [INFO] [pipeline] OCR página 10/22
+[18:13:32] [INFO] [pipeline] OCR página 10 OK (chars=1114)
+[18:13:32] [INFO] [pipeline] OCR página 11/22
+[18:13:36] [INFO] [pipeline] OCR página 11 OK (chars=1575)
+[18:13:36] [INFO] [pipeline] OCR página 12/22
+[18:13:41] [INFO] [pipeline] OCR página 12 OK (chars=2477)
+[18:13:41] [INFO] [pipeline] OCR página 13/22
+[18:13:47] [INFO] [pipeline] OCR página 13 OK (chars=3367)
+[18:13:47] [INFO] [pipeline] OCR página 14/22
+[18:13:52] [INFO] [pipeline] OCR página 14 OK (chars=2768)
+[18:13:52] [INFO] [pipeline] OCR página 15/22
+[18:13:57] [INFO] [pipeline] OCR página 15 OK (chars=2147)
+[18:13:57] [INFO] [pipeline] OCR página 16/22
+[18:14:01] [INFO] [pipeline] OCR página 16 OK (chars=1544)
+[18:14:01] [INFO] [pipeline] OCR página 17/22
+[18:14:06] [INFO] [pipeline] OCR página 17 OK (chars=1331)
+[18:14:06] [INFO] [pipeline] OCR página 18/22
+[18:14:10] [INFO] [pipeline] OCR página 18 OK (chars=1485)
+[18:14:10] [INFO] [pipeline] OCR página 19/22
+[18:14:14] [INFO] [pipeline] OCR página 19 OK (chars=818)
+[18:14:14] [INFO] [pipeline] OCR página 20/22
+[18:14:19] [INFO] [pipeline] OCR página 20 OK (chars=1727)
+[18:14:19] [INFO] [pipeline] OCR página 21/22
+[18:14:23] [INFO] [pipeline] OCR página 21 OK (chars=994)
+[18:14:23] [INFO] [pipeline] OCR página 22/22
+[18:14:29] [INFO] [pipeline] OCR página 22 OK (chars=2255)
+[18:14:29] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_11122025_091714_325535_OCR_LLM_READY.txt
+[18:14:29] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_11122025_091714_325535_OCR_LLM_READY_RAW.json
+[18:14:29] [INFO] [pipeline] Procesamiento completado en 102.20s
+[18:14:29] [INFO] [pipeline] Procesando LEGAJOS_11122025_094116_325579.pdf
+[18:14:32] [INFO] [pipeline] 23 páginas renderizadas
+[18:14:32] [INFO] [pipeline] OCR página 1/23
+[18:14:32] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:14:34] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:14:40] [INFO] [pipeline] OCR página 1 OK (chars=2320)
+[18:14:40] [INFO] [pipeline] OCR página 2/23
+[18:14:46] [INFO] [pipeline] OCR página 2 OK (chars=2338)
+[18:14:46] [INFO] [pipeline] OCR página 3/23
+[18:14:53] [INFO] [pipeline] OCR página 3 OK (chars=2338)
+[18:14:53] [INFO] [pipeline] OCR página 4/23
+[18:14:59] [INFO] [pipeline] OCR página 4 OK (chars=2443)
+[18:14:59] [INFO] [pipeline] OCR página 5/23
+[18:15:06] [INFO] [pipeline] OCR página 5 OK (chars=2724)
+[18:15:06] [INFO] [pipeline] OCR página 6/23
+[18:15:13] [INFO] [pipeline] OCR página 6 OK (chars=2380)
+[18:15:13] [INFO] [pipeline] OCR página 7/23
+[18:15:19] [INFO] [pipeline] OCR página 7 OK (chars=2339)
+[18:15:19] [INFO] [pipeline] OCR página 8/23
+[18:15:25] [INFO] [pipeline] OCR página 8 OK (chars=2266)
+[18:15:25] [INFO] [pipeline] OCR página 9/23
+[18:15:32] [INFO] [pipeline] OCR página 9 OK (chars=2365)
+[18:15:32] [INFO] [pipeline] OCR página 10/23
+[18:15:39] [INFO] [pipeline] OCR página 10 OK (chars=2355)
+[18:15:39] [INFO] [pipeline] OCR página 11/23
+[18:15:45] [INFO] [pipeline] OCR página 11 OK (chars=2425)
+[18:15:45] [INFO] [pipeline] OCR página 12/23
+[18:15:52] [INFO] [pipeline] OCR página 12 OK (chars=2267)
+[18:15:52] [INFO] [pipeline] OCR página 13/23
+[18:15:58] [INFO] [pipeline] OCR página 13 OK (chars=2415)
+[18:15:58] [INFO] [pipeline] OCR página 14/23
+[18:16:05] [INFO] [pipeline] OCR página 14 OK (chars=2424)
+[18:16:05] [INFO] [pipeline] OCR página 15/23
+[18:16:11] [INFO] [pipeline] OCR página 15 OK (chars=2447)
+[18:16:11] [INFO] [pipeline] OCR página 16/23
+[18:16:18] [INFO] [pipeline] OCR página 16 OK (chars=2417)
+[18:16:18] [INFO] [pipeline] OCR página 17/23
+[18:16:24] [INFO] [pipeline] OCR página 17 OK (chars=2388)
+[18:16:24] [INFO] [pipeline] OCR página 18/23
+[18:16:31] [INFO] [pipeline] OCR página 18 OK (chars=2340)
+[18:16:31] [INFO] [pipeline] OCR página 19/23
+[18:16:37] [INFO] [pipeline] OCR página 19 OK (chars=2485)
+[18:16:37] [INFO] [pipeline] OCR página 20/23
+[18:16:44] [INFO] [pipeline] OCR página 20 OK (chars=2490)
+[18:16:44] [INFO] [pipeline] OCR página 21/23
+[18:16:51] [INFO] [pipeline] OCR página 21 OK (chars=2378)
+[18:16:51] [INFO] [pipeline] OCR página 22/23
+[18:16:57] [INFO] [pipeline] OCR página 22 OK (chars=2486)
+[18:16:57] [INFO] [pipeline] OCR página 23/23
+[18:17:02] [INFO] [pipeline] OCR página 23 OK (chars=1315)
+[18:17:02] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_11122025_094116_325579_OCR_LLM_READY.txt
+[18:17:02] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_11122025_094116_325579_OCR_LLM_READY_RAW.json
+[18:17:02] [INFO] [pipeline] Procesamiento completado en 153.07s
+[18:17:02] [INFO] [pipeline] Procesando LEGAJOS_11122025_094208_325625.pdf
+[18:17:05] [INFO] [pipeline] 23 páginas renderizadas
+[18:17:05] [INFO] [pipeline] OCR página 1/23
+[18:17:05] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:17:07] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:17:14] [INFO] [pipeline] OCR página 1 OK (chars=2286)
+[18:17:14] [INFO] [pipeline] OCR página 2/23
+[18:17:20] [INFO] [pipeline] OCR página 2 OK (chars=2308)
+[18:17:20] [INFO] [pipeline] OCR página 3/23
+[18:17:26] [INFO] [pipeline] OCR página 3 OK (chars=2336)
+[18:17:26] [INFO] [pipeline] OCR página 4/23
+[18:17:33] [INFO] [pipeline] OCR página 4 OK (chars=2412)
+[18:17:33] [INFO] [pipeline] OCR página 5/23
+[18:17:40] [INFO] [pipeline] OCR página 5 OK (chars=2694)
+[18:17:40] [INFO] [pipeline] OCR página 6/23
+[18:17:47] [INFO] [pipeline] OCR página 6 OK (chars=2357)
+[18:17:47] [INFO] [pipeline] OCR página 7/23
+[18:17:53] [INFO] [pipeline] OCR página 7 OK (chars=2309)
+[18:17:53] [INFO] [pipeline] OCR página 8/23
+[18:18:00] [INFO] [pipeline] OCR página 8 OK (chars=2235)
+[18:18:00] [INFO] [pipeline] OCR página 9/23
+[18:18:06] [INFO] [pipeline] OCR página 9 OK (chars=2332)
+[18:18:06] [INFO] [pipeline] OCR página 10/23
+[18:18:13] [INFO] [pipeline] OCR página 10 OK (chars=2345)
+[18:18:13] [INFO] [pipeline] OCR página 11/23
+[18:18:20] [INFO] [pipeline] OCR página 11 OK (chars=2387)
+[18:18:20] [INFO] [pipeline] OCR página 12/23
+[18:18:26] [INFO] [pipeline] OCR página 12 OK (chars=2235)
+[18:18:26] [INFO] [pipeline] OCR página 13/23
+[18:18:32] [INFO] [pipeline] OCR página 13 OK (chars=2411)
+[18:18:32] [INFO] [pipeline] OCR página 14/23
+[18:18:39] [INFO] [pipeline] OCR página 14 OK (chars=2392)
+[18:18:39] [INFO] [pipeline] OCR página 15/23
+[18:18:46] [INFO] [pipeline] OCR página 15 OK (chars=2447)
+[18:18:46] [INFO] [pipeline] OCR página 16/23
+[18:18:52] [INFO] [pipeline] OCR página 16 OK (chars=2406)
+[18:18:52] [INFO] [pipeline] OCR página 17/23
+[18:18:59] [INFO] [pipeline] OCR página 17 OK (chars=2342)
+[18:18:59] [INFO] [pipeline] OCR página 18/23
+[18:19:06] [INFO] [pipeline] OCR página 18 OK (chars=2342)
+[18:19:06] [INFO] [pipeline] OCR página 19/23
+[18:19:13] [INFO] [pipeline] OCR página 19 OK (chars=2484)
+[18:19:13] [INFO] [pipeline] OCR página 20/23
+[18:19:19] [INFO] [pipeline] OCR página 20 OK (chars=2457)
+[18:19:19] [INFO] [pipeline] OCR página 21/23
+[18:19:26] [INFO] [pipeline] OCR página 21 OK (chars=2377)
+[18:19:26] [INFO] [pipeline] OCR página 22/23
+[18:19:32] [INFO] [pipeline] OCR página 22 OK (chars=2453)
+[18:19:32] [INFO] [pipeline] OCR página 23/23
+[18:19:37] [INFO] [pipeline] OCR página 23 OK (chars=1331)
+[18:19:37] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_11122025_094208_325625_OCR_LLM_READY.txt
+[18:19:37] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_11122025_094208_325625_OCR_LLM_READY_RAW.json
+[18:19:37] [INFO] [pipeline] Procesamiento completado en 154.79s
+[18:19:37] [INFO] [pipeline] Procesando LEGAJOS_11122025_101147_325673.pdf
+[18:19:40] [INFO] [pipeline] 28 páginas renderizadas
+[18:19:40] [INFO] [pipeline] OCR página 1/28
+[18:19:40] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:19:41] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:19:46] [INFO] [pipeline] OCR página 1 OK (chars=1604)
+[18:19:46] [INFO] [pipeline] OCR página 2/28
+[18:19:49] [INFO] [pipeline] OCR página 2 OK (chars=910)
+[18:19:49] [INFO] [pipeline] OCR página 3/28
+[18:19:52] [INFO] [pipeline] OCR página 3 OK (chars=622)
+[18:19:52] [INFO] [pipeline] OCR página 4/28
+[18:19:55] [INFO] [pipeline] OCR página 4 OK (chars=138)
+[18:19:55] [INFO] [pipeline] OCR página 5/28
+[18:19:59] [INFO] [pipeline] OCR página 5 OK (chars=2135)
+[18:19:59] [INFO] [pipeline] OCR página 6/28
+[18:20:05] [INFO] [pipeline] OCR página 6 OK (chars=3235)
+[18:20:05] [INFO] [pipeline] OCR página 7/28
+[18:20:10] [INFO] [pipeline] OCR página 7 OK (chars=2820)
+[18:20:10] [INFO] [pipeline] OCR página 8/28
+[18:20:15] [INFO] [pipeline] OCR página 8 OK (chars=2998)
+[18:20:15] [INFO] [pipeline] OCR página 9/28
+[18:20:20] [INFO] [pipeline] OCR página 9 OK (chars=2520)
+[18:20:20] [INFO] [pipeline] OCR página 10/28
+[18:20:24] [INFO] [pipeline] OCR página 10 OK (chars=2730)
+[18:20:24] [INFO] [pipeline] OCR página 11/28
+[18:20:29] [INFO] [pipeline] OCR página 11 OK (chars=1831)
+[18:20:29] [INFO] [pipeline] OCR página 12/28
+[18:20:33] [INFO] [pipeline] OCR página 12 OK (chars=1489)
+[18:20:33] [INFO] [pipeline] OCR página 13/28
+[18:20:37] [INFO] [pipeline] OCR página 13 OK (chars=1352)
+[18:20:37] [INFO] [pipeline] OCR página 14/28
+[18:20:42] [INFO] [pipeline] OCR página 14 OK (chars=1630)
+[18:20:42] [INFO] [pipeline] OCR página 15/28
+[18:20:46] [INFO] [pipeline] OCR página 15 OK (chars=1082)
+[18:20:46] [INFO] [pipeline] OCR página 16/28
+[18:20:50] [INFO] [pipeline] OCR página 16 OK (chars=3067)
+[18:20:50] [INFO] [pipeline] OCR página 17/28
+[18:20:56] [INFO] [pipeline] OCR página 17 OK (chars=3551)
+[18:20:56] [INFO] [pipeline] OCR página 18/28
+[18:21:01] [INFO] [pipeline] OCR página 18 OK (chars=1730)
+[18:21:01] [INFO] [pipeline] OCR página 19/28
+[18:21:05] [INFO] [pipeline] OCR página 19 OK (chars=1669)
+[18:21:05] [INFO] [pipeline] OCR página 20/28
+[18:21:10] [INFO] [pipeline] OCR página 20 OK (chars=2077)
+[18:21:10] [INFO] [pipeline] OCR página 21/28
+[18:21:14] [INFO] [pipeline] OCR página 21 OK (chars=1995)
+[18:21:14] [INFO] [pipeline] OCR página 22/28
+[18:21:19] [INFO] [pipeline] OCR página 22 OK (chars=1559)
+[18:21:19] [INFO] [pipeline] OCR página 23/28
+[18:21:23] [INFO] [pipeline] OCR página 23 OK (chars=857)
+[18:21:23] [INFO] [pipeline] OCR página 24/28
+[18:21:26] [INFO] [pipeline] OCR página 24 OK (chars=1099)
+[18:21:26] [INFO] [pipeline] OCR página 25/28
+[18:21:32] [INFO] [pipeline] OCR página 25 OK (chars=2323)
+[18:21:32] [INFO] [pipeline] OCR página 26/28
+[18:21:36] [INFO] [pipeline] OCR página 26 OK (chars=807)
+[18:21:36] [INFO] [pipeline] OCR página 27/28
+[18:21:41] [INFO] [pipeline] OCR página 27 OK (chars=2979)
+[18:21:41] [INFO] [pipeline] OCR página 28/28
+[18:21:47] [INFO] [pipeline] OCR página 28 OK (chars=3519)
+[18:21:47] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_11122025_101147_325673_OCR_LLM_READY.txt
+[18:21:47] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_11122025_101147_325673_OCR_LLM_READY_RAW.json
+[18:21:47] [INFO] [pipeline] Procesamiento completado en 129.57s
+[18:21:47] [INFO] [pipeline] Procesando LEGAJOS_11122025_102855_325729.pdf
+[18:21:47] [INFO] [pipeline] 7 páginas renderizadas
+[18:21:47] [INFO] [pipeline] OCR página 1/7
+[18:21:47] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:21:49] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:21:52] [INFO] [pipeline] OCR página 1 OK (chars=138)
+[18:21:52] [INFO] [pipeline] OCR página 2/7
+[18:21:57] [INFO] [pipeline] OCR página 2 OK (chars=2134)
+[18:21:57] [INFO] [pipeline] OCR página 3/7
+[18:22:02] [INFO] [pipeline] OCR página 3 OK (chars=3325)
+[18:22:02] [INFO] [pipeline] OCR página 4/7
+[18:22:07] [INFO] [pipeline] OCR página 4 OK (chars=2814)
+[18:22:07] [INFO] [pipeline] OCR página 5/7
+[18:22:13] [INFO] [pipeline] OCR página 5 OK (chars=2998)
+[18:22:13] [INFO] [pipeline] OCR página 6/7
+[18:22:18] [INFO] [pipeline] OCR página 6 OK (chars=2519)
+[18:22:18] [INFO] [pipeline] OCR página 7/7
+[18:22:22] [INFO] [pipeline] OCR página 7 OK (chars=2738)
+[18:22:22] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_11122025_102855_325729_OCR_LLM_READY.txt
+[18:22:22] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_11122025_102855_325729_OCR_LLM_READY_RAW.json
+[18:22:22] [INFO] [pipeline] Procesamiento completado en 35.68s
+[18:22:22] [INFO] [pipeline] Procesando LEGAJOS_11122025_102922_325743.pdf
+[18:22:25] [INFO] [pipeline] 21 páginas renderizadas
+[18:22:25] [INFO] [pipeline] OCR página 1/21
+[18:22:25] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:22:26] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:22:30] [INFO] [pipeline] OCR página 1 OK (chars=1608)
+[18:22:30] [INFO] [pipeline] OCR página 2/21
+[18:22:34] [INFO] [pipeline] OCR página 2 OK (chars=910)
+[18:22:34] [INFO] [pipeline] OCR página 3/21
+[18:22:37] [INFO] [pipeline] OCR página 3 OK (chars=639)
+[18:22:37] [INFO] [pipeline] OCR página 4/21
+[18:22:42] [INFO] [pipeline] OCR página 4 OK (chars=1859)
+[18:22:42] [INFO] [pipeline] OCR página 5/21
+[18:22:46] [INFO] [pipeline] OCR página 5 OK (chars=1481)
+[18:22:46] [INFO] [pipeline] OCR página 6/21
+[18:22:50] [INFO] [pipeline] OCR página 6 OK (chars=1353)
+[18:22:50] [INFO] [pipeline] OCR página 7/21
+[18:22:55] [INFO] [pipeline] OCR página 7 OK (chars=1629)
+[18:22:55] [INFO] [pipeline] OCR página 8/21
+[18:22:58] [INFO] [pipeline] OCR página 8 OK (chars=1455)
+[18:22:58] [INFO] [pipeline] OCR página 9/21
+[18:23:03] [INFO] [pipeline] OCR página 9 OK (chars=3300)
+[18:23:03] [INFO] [pipeline] OCR página 10/21
+[18:23:09] [INFO] [pipeline] OCR página 10 OK (chars=3554)
+[18:23:09] [INFO] [pipeline] OCR página 11/21
+[18:23:14] [INFO] [pipeline] OCR página 11 OK (chars=1751)
+[18:23:14] [INFO] [pipeline] OCR página 12/21
+[18:23:18] [INFO] [pipeline] OCR página 12 OK (chars=1667)
+[18:23:18] [INFO] [pipeline] OCR página 13/21
+[18:23:23] [INFO] [pipeline] OCR página 13 OK (chars=2219)
+[18:23:23] [INFO] [pipeline] OCR página 14/21
+[18:23:27] [INFO] [pipeline] OCR página 14 OK (chars=1998)
+[18:23:27] [INFO] [pipeline] OCR página 15/21
+[18:23:32] [INFO] [pipeline] OCR página 15 OK (chars=1562)
+[18:23:32] [INFO] [pipeline] OCR página 16/21
+[18:23:36] [INFO] [pipeline] OCR página 16 OK (chars=857)
+[18:23:36] [INFO] [pipeline] OCR página 17/21
+[18:23:39] [INFO] [pipeline] OCR página 17 OK (chars=1099)
+[18:23:39] [INFO] [pipeline] OCR página 18/21
+[18:23:45] [INFO] [pipeline] OCR página 18 OK (chars=2363)
+[18:23:45] [INFO] [pipeline] OCR página 19/21
+[18:23:49] [INFO] [pipeline] OCR página 19 OK (chars=807)
+[18:23:49] [INFO] [pipeline] OCR página 20/21
+[18:23:54] [INFO] [pipeline] OCR página 20 OK (chars=3002)
+[18:23:54] [INFO] [pipeline] OCR página 21/21
+[18:24:00] [INFO] [pipeline] OCR página 21 OK (chars=3519)
+[18:24:00] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_11122025_102922_325743_OCR_LLM_READY.txt
+[18:24:00] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_11122025_102922_325743_OCR_LLM_READY_RAW.json
+[18:24:00] [INFO] [pipeline] Procesamiento completado en 97.11s
+[18:24:00] [INFO] [pipeline] Procesando LEGAJOS_12082025_121601_262828.pdf
+[18:24:00] [INFO] [pipeline] 3 páginas renderizadas
+[18:24:00] [INFO] [pipeline] OCR página 1/3
+[18:24:00] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:24:02] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:24:12] [INFO] [pipeline] OCR página 1 OK (chars=4630)
+[18:24:12] [INFO] [pipeline] OCR página 2/3
+[18:24:12] [ERROR] [pipeline] Error en página 2: [Errno 2] No such file or directory: 'C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\temp_proceso\\LEGAJOS_12082025_121601_262828_p2.png'
+[18:24:12] [INFO] [pipeline] OCR página 3/3
+[18:24:12] [ERROR] [pipeline] Error en página 3: [Errno 2] No such file or directory: 'C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\temp_proceso\\LEGAJOS_12082025_121601_262828_p3.png'
+[18:24:12] [INFO] [pipeline] Procesando LEGAJOS_12082025_130324_262870.pdf
+[18:24:12] [INFO] [pipeline] 1 páginas renderizadas
+[18:24:12] [INFO] [pipeline] OCR página 1/1
+[18:24:12] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:24:14] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:24:21] [INFO] [pipeline] OCR página 1 OK (chars=2037)
+[18:24:21] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_12082025_130324_262870_OCR_LLM_READY.txt
+[18:24:21] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_12082025_130324_262870_OCR_LLM_READY_RAW.json
+[18:24:21] [INFO] [pipeline] Procesamiento completado en 8.35s
+[18:24:21] [INFO] [pipeline] Procesando LEGAJOS_12082025_130550_262872.pdf
+[18:24:21] [INFO] [pipeline] 1 páginas renderizadas
+[18:24:21] [INFO] [pipeline] OCR página 1/1
+[18:24:21] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:24:23] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:24:27] [INFO] [pipeline] OCR página 1 OK (chars=2141)
+[18:24:27] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_12082025_130550_262872_OCR_LLM_READY.txt
+[18:24:27] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_12082025_130550_262872_OCR_LLM_READY_RAW.json
+[18:24:27] [INFO] [pipeline] Procesamiento completado en 6.68s
+[18:24:27] [INFO] [pipeline] Procesando LEGAJOS_12112025_125345_310494.pdf
+[18:24:28] [INFO] [pipeline] 1 páginas renderizadas
+[18:24:28] [INFO] [pipeline] OCR página 1/1
+[18:24:28] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:24:29] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:24:33] [INFO] [pipeline] OCR página 1 OK (chars=723)
+[18:24:33] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_12112025_125345_310494_OCR_LLM_READY.txt
+[18:24:33] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_12112025_125345_310494_OCR_LLM_READY_RAW.json
+[18:24:33] [INFO] [pipeline] Procesamiento completado en 5.36s
+[18:24:33] [INFO] [pipeline] Procesando LEGAJOS_12112025_125354_310496.pdf
+[18:24:33] [INFO] [pipeline] 1 páginas renderizadas
+[18:24:33] [INFO] [pipeline] OCR página 1/1
+[18:24:33] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:24:34] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:24:38] [INFO] [pipeline] OCR página 1 OK (chars=721)
+[18:24:38] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_12112025_125354_310496_OCR_LLM_READY.txt
+[18:24:38] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_12112025_125354_310496_OCR_LLM_READY_RAW.json
+[18:24:38] [INFO] [pipeline] Procesamiento completado en 5.03s
+[18:24:38] [INFO] [pipeline] Procesando LEGAJOS_12112025_125403_310498.pdf
+[18:24:38] [INFO] [pipeline] 1 páginas renderizadas
+[18:24:38] [INFO] [pipeline] OCR página 1/1
+[18:24:38] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:24:40] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:24:43] [INFO] [pipeline] OCR página 1 OK (chars=858)
+[18:24:43] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_12112025_125403_310498_OCR_LLM_READY.txt
+[18:24:43] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_12112025_125403_310498_OCR_LLM_READY_RAW.json
+[18:24:43] [INFO] [pipeline] Procesamiento completado en 5.27s
+[18:24:43] [INFO] [pipeline] Procesando LEGAJOS_12112025_125412_310500.pdf
+[18:24:43] [INFO] [pipeline] 1 páginas renderizadas
+[18:24:43] [INFO] [pipeline] OCR página 1/1
+[18:24:43] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:24:45] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:24:48] [INFO] [pipeline] OCR página 1 OK (chars=707)
+[18:24:48] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_12112025_125412_310500_OCR_LLM_READY.txt
+[18:24:48] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_12112025_125412_310500_OCR_LLM_READY_RAW.json
+[18:24:48] [INFO] [pipeline] Procesamiento completado en 4.67s
+[18:24:48] [INFO] [pipeline] Procesando LEGAJOS_12112025_125422_310502.pdf
+[18:24:48] [INFO] [pipeline] 1 páginas renderizadas
+[18:24:48] [INFO] [pipeline] OCR página 1/1
+[18:24:48] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:24:50] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:24:53] [INFO] [pipeline] OCR página 1 OK (chars=617)
+[18:24:53] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_12112025_125422_310502_OCR_LLM_READY.txt
+[18:24:53] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_12112025_125422_310502_OCR_LLM_READY_RAW.json
+[18:24:53] [INFO] [pipeline] Procesamiento completado en 4.78s
+[18:24:53] [INFO] [pipeline] Procesando LEGAJOS_12112025_125434_310504.pdf
+[18:24:53] [INFO] [pipeline] 1 páginas renderizadas
+[18:24:53] [INFO] [pipeline] OCR página 1/1
+[18:24:53] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:24:54] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:24:58] [INFO] [pipeline] OCR página 1 OK (chars=721)
+[18:24:58] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_12112025_125434_310504_OCR_LLM_READY.txt
+[18:24:58] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_12112025_125434_310504_OCR_LLM_READY_RAW.json
+[18:24:58] [INFO] [pipeline] Procesamiento completado en 5.18s
+[18:24:58] [INFO] [pipeline] Procesando LEGAJOS_13052025_151933_209855.pdf
+[18:24:58] [INFO] [pipeline] 2 páginas renderizadas
+[18:24:58] [INFO] [pipeline] OCR página 1/2
+[18:24:58] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:25:00] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:25:04] [INFO] [pipeline] OCR página 1 OK (chars=906)
+[18:25:04] [INFO] [pipeline] OCR página 2/2
+[18:25:06] [INFO] [pipeline] OCR página 2 OK (chars=227)
+[18:25:06] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_13052025_151933_209855_OCR_LLM_READY.txt
+[18:25:06] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_13052025_151933_209855_OCR_LLM_READY_RAW.json
+[18:25:06] [INFO] [pipeline] Procesamiento completado en 8.42s
+[18:25:06] [INFO] [pipeline] Procesando LEGAJOS_18082025_141453_264764.pdf
+[18:25:07] [INFO] [pipeline] 8 páginas renderizadas
+[18:25:07] [INFO] [pipeline] OCR página 1/8
+[18:25:07] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:25:09] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:25:13] [INFO] [pipeline] OCR página 1 OK (chars=1805)
+[18:25:13] [INFO] [pipeline] OCR página 2/8
+[18:25:17] [INFO] [pipeline] OCR página 2 OK (chars=1801)
+[18:25:17] [INFO] [pipeline] OCR página 3/8
+[18:25:22] [INFO] [pipeline] OCR página 3 OK (chars=1684)
+[18:25:22] [INFO] [pipeline] OCR página 4/8
+[18:25:26] [INFO] [pipeline] OCR página 4 OK (chars=1822)
+[18:25:26] [INFO] [pipeline] OCR página 5/8
+[18:25:30] [INFO] [pipeline] OCR página 5 OK (chars=1815)
+[18:25:30] [INFO] [pipeline] OCR página 6/8
+[18:25:35] [INFO] [pipeline] OCR página 6 OK (chars=1699)
+[18:25:35] [INFO] [pipeline] OCR página 7/8
+[18:25:39] [INFO] [pipeline] OCR página 7 OK (chars=1917)
+[18:25:39] [INFO] [pipeline] OCR página 8/8
+[18:25:43] [INFO] [pipeline] OCR página 8 OK (chars=1284)
+[18:25:43] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_18082025_141453_264764_OCR_LLM_READY.txt
+[18:25:43] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_18082025_141453_264764_OCR_LLM_READY_RAW.json
+[18:25:43] [INFO] [pipeline] Procesamiento completado en 36.44s
+[18:25:43] [INFO] [pipeline] Procesando LEGAJOS_18082025_141516_264780.pdf
+[18:25:44] [INFO] [pipeline] 8 páginas renderizadas
+[18:25:44] [INFO] [pipeline] OCR página 1/8
+[18:25:44] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:25:45] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:25:50] [INFO] [pipeline] OCR página 1 OK (chars=1821)
+[18:25:50] [INFO] [pipeline] OCR página 2/8
+[18:25:54] [INFO] [pipeline] OCR página 2 OK (chars=1973)
+[18:25:54] [INFO] [pipeline] OCR página 3/8
+[18:25:58] [INFO] [pipeline] OCR página 3 OK (chars=1912)
+[18:25:58] [INFO] [pipeline] OCR página 4/8
+[18:26:02] [INFO] [pipeline] OCR página 4 OK (chars=1811)
+[18:26:02] [INFO] [pipeline] OCR página 5/8
+[18:26:07] [INFO] [pipeline] OCR página 5 OK (chars=1817)
+[18:26:07] [INFO] [pipeline] OCR página 6/8
+[18:26:11] [INFO] [pipeline] OCR página 6 OK (chars=1925)
+[18:26:11] [INFO] [pipeline] OCR página 7/8
+[18:26:15] [INFO] [pipeline] OCR página 7 OK (chars=1321)
+[18:26:15] [INFO] [pipeline] OCR página 8/8
+[18:26:19] [INFO] [pipeline] OCR página 8 OK (chars=1296)
+[18:26:19] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_18082025_141516_264780_OCR_LLM_READY.txt
+[18:26:19] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_18082025_141516_264780_OCR_LLM_READY_RAW.json
+[18:26:19] [INFO] [pipeline] Procesamiento completado en 35.94s
+[18:26:19] [INFO] [pipeline] Procesando LEGAJOS_18092025_091646_280922.pdf
+[18:26:19] [INFO] [pipeline] 1 páginas renderizadas
+[18:26:19] [INFO] [pipeline] OCR página 1/1
+[18:26:19] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:26:20] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:26:24] [INFO] [pipeline] OCR página 1 OK (chars=1222)
+[18:26:24] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_18092025_091646_280922_OCR_LLM_READY.txt
+[18:26:24] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_18092025_091646_280922_OCR_LLM_READY_RAW.json
+[18:26:24] [INFO] [pipeline] Procesamiento completado en 5.34s
+[18:26:24] [INFO] [pipeline] Procesando LEGAJOS_18112025_091039_311506.pdf
+[18:26:25] [INFO] [pipeline] 2 páginas renderizadas
+[18:26:25] [INFO] [pipeline] OCR página 1/2
+[18:26:25] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:26:26] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:26:31] [INFO] [pipeline] OCR página 1 OK (chars=2463)
+[18:26:31] [INFO] [pipeline] OCR página 2/2
+[18:26:36] [INFO] [pipeline] OCR página 2 OK (chars=2013)
+[18:26:36] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_18112025_091039_311506_OCR_LLM_READY.txt
+[18:26:36] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_18112025_091039_311506_OCR_LLM_READY_RAW.json
+[18:26:36] [INFO] [pipeline] Procesamiento completado en 11.38s
+[18:26:36] [INFO] [pipeline] Procesando LEGAJOS_18112025_131258_315256.pdf
+[18:26:36] [INFO] [pipeline] 2 páginas renderizadas
+[18:26:36] [INFO] [pipeline] OCR página 1/2
+[18:26:36] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:26:37] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:26:41] [INFO] [pipeline] OCR página 1 OK (chars=912)
+[18:26:41] [INFO] [pipeline] OCR página 2/2
+[18:26:44] [INFO] [pipeline] OCR página 2 OK (chars=202)
+[18:26:44] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_18112025_131258_315256_OCR_LLM_READY.txt
+[18:26:44] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_18112025_131258_315256_OCR_LLM_READY_RAW.json
+[18:26:44] [INFO] [pipeline] Procesamiento completado en 8.51s
+[18:26:44] [INFO] [pipeline] Procesando LEGAJOS_19082025_090019_264796.pdf
+[18:26:45] [INFO] [pipeline] 8 páginas renderizadas
+[18:26:45] [INFO] [pipeline] OCR página 1/8
+[18:26:45] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:26:47] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:26:51] [INFO] [pipeline] OCR página 1 OK (chars=1767)
+[18:26:51] [INFO] [pipeline] OCR página 2/8
+[18:26:55] [INFO] [pipeline] OCR página 2 OK (chars=1833)
+[18:26:55] [INFO] [pipeline] OCR página 3/8
+[18:26:59] [INFO] [pipeline] OCR página 3 OK (chars=1780)
+[18:26:59] [INFO] [pipeline] OCR página 4/8
+[18:27:03] [INFO] [pipeline] OCR página 4 OK (chars=1788)
+[18:27:03] [INFO] [pipeline] OCR página 5/8
+[18:27:08] [INFO] [pipeline] OCR página 5 OK (chars=1760)
+[18:27:08] [INFO] [pipeline] OCR página 6/8
+[18:27:13] [INFO] [pipeline] OCR página 6 OK (chars=1705)
+[18:27:13] [INFO] [pipeline] OCR página 7/8
+[18:27:17] [INFO] [pipeline] OCR página 7 OK (chars=1435)
+[18:27:17] [INFO] [pipeline] OCR página 8/8
+[18:27:21] [INFO] [pipeline] OCR página 8 OK (chars=1218)
+[18:27:21] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_19082025_090019_264796_OCR_LLM_READY.txt
+[18:27:21] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_19082025_090019_264796_OCR_LLM_READY_RAW.json
+[18:27:21] [INFO] [pipeline] Procesamiento completado en 36.92s
+[18:27:21] [INFO] [pipeline] Procesando LEGAJOS_19082025_090258_264812.pdf
+[18:27:22] [INFO] [pipeline] 10 páginas renderizadas
+[18:27:22] [INFO] [pipeline] OCR página 1/10
+[18:27:22] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:27:24] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:27:27] [INFO] [pipeline] OCR página 1 OK (chars=353)
+[18:27:27] [INFO] [pipeline] OCR página 2/10
+[18:27:30] [INFO] [pipeline] OCR página 2 OK (chars=161)
+[18:27:30] [INFO] [pipeline] OCR página 3/10
+[18:27:33] [INFO] [pipeline] OCR página 3 OK (chars=385)
+[18:27:33] [INFO] [pipeline] OCR página 4/10
+[18:27:36] [INFO] [pipeline] OCR página 4 OK (chars=761)
+[18:27:36] [INFO] [pipeline] OCR página 5/10
+[18:27:39] [INFO] [pipeline] OCR página 5 OK (chars=266)
+[18:27:39] [INFO] [pipeline] OCR página 6/10
+[18:27:45] [INFO] [pipeline] OCR página 6 OK (chars=3019)
+[18:27:45] [INFO] [pipeline] OCR página 7/10
+[18:27:48] [INFO] [pipeline] OCR página 7 OK (chars=767)
+[18:27:48] [INFO] [pipeline] OCR página 8/10
+[18:27:52] [INFO] [pipeline] OCR página 8 OK (chars=760)
+[18:27:52] [INFO] [pipeline] OCR página 9/10
+[18:27:57] [INFO] [pipeline] OCR página 9 OK (chars=1976)
+[18:27:57] [INFO] [pipeline] OCR página 10/10
+[18:28:00] [INFO] [pipeline] OCR página 10 OK (chars=1119)
+[18:28:00] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_19082025_090258_264812_OCR_LLM_READY.txt
+[18:28:00] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_19082025_090258_264812_OCR_LLM_READY_RAW.json
+[18:28:00] [INFO] [pipeline] Procesamiento completado en 39.03s
+[18:28:00] [INFO] [pipeline] Procesando LEGAJOS_19082025_121746_265854.pdf
+[18:28:01] [INFO] [pipeline] 8 páginas renderizadas
+[18:28:01] [INFO] [pipeline] OCR página 1/8
+[18:28:01] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:28:03] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:28:07] [INFO] [pipeline] OCR página 1 OK (chars=1830)
+[18:28:07] [INFO] [pipeline] OCR página 2/8
+[18:28:11] [INFO] [pipeline] OCR página 2 OK (chars=1976)
+[18:28:11] [INFO] [pipeline] OCR página 3/8
+[18:28:15] [INFO] [pipeline] OCR página 3 OK (chars=1918)
+[18:28:15] [INFO] [pipeline] OCR página 4/8
+[18:28:19] [INFO] [pipeline] OCR página 4 OK (chars=1759)
+[18:28:19] [INFO] [pipeline] OCR página 5/8
+[18:28:23] [INFO] [pipeline] OCR página 5 OK (chars=1750)
+[18:28:23] [INFO] [pipeline] OCR página 6/8
+[18:28:27] [INFO] [pipeline] OCR página 6 OK (chars=1704)
+[18:28:27] [INFO] [pipeline] OCR página 7/8
+[18:28:31] [INFO] [pipeline] OCR página 7 OK (chars=1421)
+[18:28:31] [INFO] [pipeline] OCR página 8/8
+[18:28:34] [INFO] [pipeline] OCR página 8 OK (chars=1283)
+[18:28:34] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_19082025_121746_265854_OCR_LLM_READY.txt
+[18:28:34] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_19082025_121746_265854_OCR_LLM_READY_RAW.json
+[18:28:34] [INFO] [pipeline] Procesamiento completado en 34.11s
+[18:28:34] [INFO] [pipeline] Procesando LEGAJOS_19112025_131317_319029.pdf
+[18:28:35] [INFO] [pipeline] 1 páginas renderizadas
+[18:28:35] [INFO] [pipeline] OCR página 1/1
+[18:28:35] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:28:36] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:28:40] [INFO] [pipeline] OCR página 1 OK (chars=873)
+[18:28:40] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_19112025_131317_319029_OCR_LLM_READY.txt
+[18:28:40] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_19112025_131317_319029_OCR_LLM_READY_RAW.json
+[18:28:40] [INFO] [pipeline] Procesamiento completado en 5.21s
+[18:28:40] [INFO] [pipeline] Procesando LEGAJOS_19122025_131325_335975.pdf
+[18:28:40] [INFO] [pipeline] 1 páginas renderizadas
+[18:28:40] [INFO] [pipeline] OCR página 1/1
+[18:28:40] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:28:41] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:28:44] [INFO] [pipeline] OCR página 1 OK (chars=668)
+[18:28:44] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_19122025_131325_335975_OCR_LLM_READY.txt
+[18:28:44] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_19122025_131325_335975_OCR_LLM_READY_RAW.json
+[18:28:44] [INFO] [pipeline] Procesamiento completado en 4.69s
+[18:28:44] [INFO] [pipeline] Procesando LEGAJOS_20102025_100203_296258.pdf
+[18:28:44] [INFO] [pipeline] 1 páginas renderizadas
+[18:28:44] [INFO] [pipeline] OCR página 1/1
+[18:28:44] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:28:46] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:28:50] [INFO] [pipeline] OCR página 1 OK (chars=1524)
+[18:28:50] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_20102025_100203_296258_OCR_LLM_READY.txt
+[18:28:50] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_20102025_100203_296258_OCR_LLM_READY_RAW.json
+[18:28:50] [INFO] [pipeline] Procesamiento completado en 5.31s
+[18:28:50] [INFO] [pipeline] Procesando LEGAJOS_21102025_084939_296276.pdf
+[18:28:50] [INFO] [pipeline] 2 páginas renderizadas
+[18:28:50] [INFO] [pipeline] OCR página 1/2
+[18:28:50] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:28:51] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:28:57] [INFO] [pipeline] OCR página 1 OK (chars=3064)
+[18:28:57] [INFO] [pipeline] OCR página 2/2
+[18:29:02] [INFO] [pipeline] OCR página 2 OK (chars=1598)
+[18:29:02] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_21102025_084939_296276_OCR_LLM_READY.txt
+[18:29:02] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_21102025_084939_296276_OCR_LLM_READY_RAW.json
+[18:29:02] [INFO] [pipeline] Procesamiento completado en 12.28s
+[18:29:02] [INFO] [pipeline] Procesando LEGAJOS_22042025_140441_204759.pdf
+[18:29:02] [INFO] [pipeline] 1 páginas renderizadas
+[18:29:02] [INFO] [pipeline] OCR página 1/1
+[18:29:02] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:29:04] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:29:08] [INFO] [pipeline] OCR página 1 OK (chars=2271)
+[18:29:08] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_22042025_140441_204759_OCR_LLM_READY.txt
+[18:29:08] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_22042025_140441_204759_OCR_LLM_READY_RAW.json
+[18:29:08] [INFO] [pipeline] Procesamiento completado en 5.91s
+[18:29:08] [INFO] [pipeline] Procesando LEGAJOS_22052025_130452_222837.pdf
+[18:29:14] [INFO] [pipeline] 60 páginas renderizadas
+[18:29:14] [INFO] [pipeline] OCR página 1/60
+[18:29:14] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:29:16] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:29:22] [INFO] [pipeline] OCR página 1 OK (chars=2235)
+[18:29:22] [INFO] [pipeline] OCR página 2/60
+[18:29:28] [INFO] [pipeline] OCR página 2 OK (chars=2545)
+[18:29:28] [INFO] [pipeline] OCR página 3/60
+[18:29:35] [INFO] [pipeline] OCR página 3 OK (chars=2675)
+[18:29:35] [INFO] [pipeline] OCR página 4/60
+[18:29:41] [INFO] [pipeline] OCR página 4 OK (chars=2614)
+[18:29:41] [INFO] [pipeline] OCR página 5/60
+[18:29:47] [INFO] [pipeline] OCR página 5 OK (chars=2571)
+[18:29:47] [INFO] [pipeline] OCR página 6/60
+[18:29:54] [INFO] [pipeline] OCR página 6 OK (chars=2749)
+[18:29:54] [INFO] [pipeline] OCR página 7/60
+[18:30:00] [INFO] [pipeline] OCR página 7 OK (chars=2338)
+[18:30:00] [INFO] [pipeline] OCR página 8/60
+[18:30:07] [INFO] [pipeline] OCR página 8 OK (chars=2585)
+[18:30:07] [INFO] [pipeline] OCR página 9/60
+[18:30:13] [INFO] [pipeline] OCR página 9 OK (chars=2433)
+[18:30:13] [INFO] [pipeline] OCR página 10/60
+[18:30:17] [INFO] [pipeline] OCR página 10 OK (chars=1510)
+[18:30:17] [INFO] [pipeline] OCR página 11/60
+[18:30:22] [INFO] [pipeline] OCR página 11 OK (chars=3817)
+[18:30:22] [INFO] [pipeline] OCR página 12/60
+[18:30:28] [INFO] [pipeline] OCR página 12 OK (chars=3956)
+[18:30:28] [INFO] [pipeline] OCR página 13/60
+[18:30:34] [INFO] [pipeline] OCR página 13 OK (chars=3346)
+[18:30:34] [INFO] [pipeline] OCR página 14/60
+[18:30:39] [INFO] [pipeline] OCR página 14 OK (chars=3617)
+[18:30:39] [INFO] [pipeline] OCR página 15/60
+[18:30:45] [INFO] [pipeline] OCR página 15 OK (chars=3802)
+[18:30:45] [INFO] [pipeline] OCR página 16/60
+[18:30:51] [INFO] [pipeline] OCR página 16 OK (chars=4214)
+[18:30:51] [INFO] [pipeline] OCR página 17/60
+[18:30:57] [INFO] [pipeline] OCR página 17 OK (chars=3517)
+[18:30:57] [INFO] [pipeline] OCR página 18/60
+[18:31:03] [INFO] [pipeline] OCR página 18 OK (chars=3672)
+[18:31:03] [INFO] [pipeline] OCR página 19/60
+[18:31:09] [INFO] [pipeline] OCR página 19 OK (chars=3996)
+[18:31:09] [INFO] [pipeline] OCR página 20/60
+[18:31:14] [INFO] [pipeline] OCR página 20 OK (chars=3590)
+[18:31:14] [INFO] [pipeline] OCR página 21/60
+[18:31:19] [INFO] [pipeline] OCR página 21 OK (chars=1464)
+[18:31:19] [INFO] [pipeline] OCR página 22/60
+[18:31:23] [INFO] [pipeline] OCR página 22 OK (chars=2104)
+[18:31:23] [INFO] [pipeline] OCR página 23/60
+[18:31:28] [INFO] [pipeline] OCR página 23 OK (chars=2784)
+[18:31:28] [INFO] [pipeline] OCR página 24/60
+[18:31:33] [INFO] [pipeline] OCR página 24 OK (chars=3020)
+[18:31:33] [INFO] [pipeline] OCR página 25/60
+[18:31:37] [INFO] [pipeline] OCR página 25 OK (chars=1485)
+[18:31:37] [INFO] [pipeline] OCR página 26/60
+[18:31:42] [INFO] [pipeline] OCR página 26 OK (chars=2428)
+[18:31:42] [INFO] [pipeline] OCR página 27/60
+[18:31:47] [INFO] [pipeline] OCR página 27 OK (chars=3104)
+[18:31:47] [INFO] [pipeline] OCR página 28/60
+[18:31:52] [INFO] [pipeline] OCR página 28 OK (chars=3388)
+[18:31:52] [INFO] [pipeline] OCR página 29/60
+[18:31:58] [INFO] [pipeline] OCR página 29 OK (chars=3599)
+[18:31:58] [INFO] [pipeline] OCR página 30/60
+[18:32:04] [INFO] [pipeline] OCR página 30 OK (chars=4020)
+[18:32:04] [INFO] [pipeline] OCR página 31/60
+[18:32:09] [INFO] [pipeline] OCR página 31 OK (chars=3491)
+[18:32:09] [INFO] [pipeline] OCR página 32/60
+[18:32:15] [INFO] [pipeline] OCR página 32 OK (chars=2384)
+[18:32:15] [INFO] [pipeline] OCR página 33/60
+[18:32:19] [INFO] [pipeline] OCR página 33 OK (chars=677)
+[18:32:19] [INFO] [pipeline] OCR página 34/60
+[18:32:22] [INFO] [pipeline] OCR página 34 OK (chars=531)
+[18:32:22] [INFO] [pipeline] OCR página 35/60
+[18:32:26] [INFO] [pipeline] OCR página 35 OK (chars=2129)
+[18:32:26] [INFO] [pipeline] OCR página 36/60
+[18:32:32] [INFO] [pipeline] OCR página 36 OK (chars=3056)
+[18:32:32] [INFO] [pipeline] OCR página 37/60
+[18:32:37] [INFO] [pipeline] OCR página 37 OK (chars=1779)
+[18:32:37] [INFO] [pipeline] OCR página 38/60
+[18:32:43] [INFO] [pipeline] OCR página 38 OK (chars=2533)
+[18:32:43] [INFO] [pipeline] OCR página 39/60
+[18:32:46] [INFO] [pipeline] OCR página 39 OK (chars=669)
+[18:32:46] [INFO] [pipeline] OCR página 40/60
+[18:32:50] [INFO] [pipeline] OCR página 40 OK (chars=725)
+[18:32:50] [INFO] [pipeline] OCR página 41/60
+[18:32:54] [INFO] [pipeline] OCR página 41 OK (chars=977)
+[18:32:54] [INFO] [pipeline] OCR página 42/60
+[18:32:57] [INFO] [pipeline] OCR página 42 OK (chars=274)
+[18:32:57] [INFO] [pipeline] OCR página 43/60
+[18:33:01] [INFO] [pipeline] OCR página 43 OK (chars=1592)
+[18:33:01] [INFO] [pipeline] OCR página 44/60
+[18:33:07] [INFO] [pipeline] OCR página 44 OK (chars=2586)
+[18:33:07] [INFO] [pipeline] OCR página 45/60
+[18:33:12] [INFO] [pipeline] OCR página 45 OK (chars=1740)
+[18:33:12] [INFO] [pipeline] OCR página 46/60
+[18:33:17] [INFO] [pipeline] OCR página 46 OK (chars=3720)
+[18:33:17] [INFO] [pipeline] OCR página 47/60
+[18:33:23] [INFO] [pipeline] OCR página 47 OK (chars=3526)
+[18:33:23] [INFO] [pipeline] OCR página 48/60
+[18:33:27] [INFO] [pipeline] OCR página 48 OK (chars=792)
+[18:33:27] [INFO] [pipeline] OCR página 49/60
+[18:33:32] [INFO] [pipeline] OCR página 49 OK (chars=2907)
+[18:33:32] [INFO] [pipeline] OCR página 50/60
+[18:33:37] [INFO] [pipeline] OCR página 50 OK (chars=2545)
+[18:33:37] [INFO] [pipeline] OCR página 51/60
+[18:33:41] [INFO] [pipeline] OCR página 51 OK (chars=1405)
+[18:33:41] [INFO] [pipeline] OCR página 52/60
+[18:33:44] [INFO] [pipeline] OCR página 52 OK (chars=760)
+[18:33:44] [INFO] [pipeline] OCR página 53/60
+[18:33:49] [INFO] [pipeline] OCR página 53 OK (chars=2287)
+[18:33:49] [INFO] [pipeline] OCR página 54/60
+[18:33:53] [INFO] [pipeline] OCR página 54 OK (chars=884)
+[18:33:53] [INFO] [pipeline] OCR página 55/60
+[18:33:57] [INFO] [pipeline] OCR página 55 OK (chars=682)
+[18:33:57] [INFO] [pipeline] OCR página 56/60
+[18:33:59] [ERROR] [pipeline] Error en página 56: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[18:33:59] [INFO] [pipeline] OCR página 57/60
+[18:34:04] [INFO] [pipeline] OCR página 57 OK (chars=1184)
+[18:34:04] [INFO] [pipeline] OCR página 58/60
+[18:34:07] [INFO] [pipeline] OCR página 58 OK (chars=494)
+[18:34:07] [INFO] [pipeline] OCR página 59/60
+[18:34:10] [INFO] [pipeline] OCR página 59 OK (chars=789)
+[18:34:10] [INFO] [pipeline] OCR página 60/60
+[18:34:15] [INFO] [pipeline] OCR página 60 OK (chars=1811)
+[18:34:15] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_22052025_130452_222837_OCR_LLM_READY.txt
+[18:34:15] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_22052025_130452_222837_OCR_LLM_READY_RAW.json
+[18:34:15] [INFO] [pipeline] Procesamiento completado en 306.64s
+[18:34:15] [INFO] [pipeline] Procesando LEGAJOS_22092025_125211_286593.pdf
+[18:34:15] [INFO] [pipeline] 2 páginas renderizadas
+[18:34:15] [INFO] [pipeline] OCR página 1/2
+[18:34:15] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:34:17] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:34:22] [INFO] [pipeline] OCR página 1 OK (chars=2479)
+[18:34:22] [INFO] [pipeline] OCR página 2/2
+[18:34:26] [INFO] [pipeline] OCR página 2 OK (chars=998)
+[18:34:26] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_22092025_125211_286593_OCR_LLM_READY.txt
+[18:34:26] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_22092025_125211_286593_OCR_LLM_READY_RAW.json
+[18:34:26] [INFO] [pipeline] Procesamiento completado en 10.95s
+[18:34:26] [INFO] [pipeline] Procesando LEGAJOS_23092025_142926_287337.pdf
+[18:34:26] [INFO] [pipeline] 6 páginas renderizadas
+[18:34:26] [INFO] [pipeline] OCR página 1/6
+[18:34:26] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:34:28] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[18:34:32] [INFO] [pipeline] OCR página 1 OK (chars=591)
+[18:34:32] [INFO] [pipeline] OCR página 2/6
+[18:34:36] [INFO] [pipeline] OCR página 2 OK (chars=1388)
+[18:34:36] [INFO] [pipeline] OCR página 3/6
+[18:34:40] [INFO] [pipeline] OCR página 3 OK (chars=797)
+[18:34:40] [INFO] [pipeline] OCR página 4/6
+[18:34:42] [INFO] [pipeline] OCR página 4 OK (chars=40)
+[18:34:42] [INFO] [pipeline] OCR página 5/6
+[18:34:46] [INFO] [pipeline] OCR página 5 OK (chars=1121)
+[18:34:46] [INFO] [pipeline] OCR página 6/6
+[18:34:49] [INFO] [pipeline] OCR página 6 OK (chars=411)
+[18:34:49] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\LEGAJOS_23092025_142926_287337_OCR_LLM_READY.txt
+[18:34:49] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\LEGAJOS_23092025_142926_287337_OCR_LLM_READY_RAW.json
+[18:34:49] [INFO] [pipeline] Procesamiento completado en 23.66s
+[18:34:49] [INFO] [pipeline] Procesando LEGAJOS_24092025_130640_287349.pdf
+[18:34:50] [INFO] [pipeline] 4 páginas renderizadas
+[18:34:50] [INFO] [pipeline] OCR página 1/4
+[18:34:50] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[18:34:52] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.

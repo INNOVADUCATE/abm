@@ -1,0 +1,63 @@
+{
+  "schema": "abm_doc_clasificado_v1",
+  "fecha_proceso_utc": "2026-02-22T21:24:21Z",
+  "socio_uid": "5f524284ac3f2afb",
+  "document_id": "5f524284ac3f2afb",
+  "input": {
+    "analysis_json": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\01_evidencia\\ACTA RATIFICACION DOMICILIO_OCR_LLM_READY_ANALISIS_ABM.json",
+    "txt_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\00_ocr\\ACTA RATIFICACION DOMICILIO_OCR_LLM_READY.txt"
+  },
+  "campos_aportados": {
+    "dni": null,
+    "cuil_cuit": null,
+    "matricula": null,
+    "nombre_completo": null,
+    "direccion": null,
+    "localidad": "mendoza"
+  },
+  "evidencia_resumen": {
+    "dni_candidatos": [],
+    "dni_mrz": [],
+    "cuit_candidatos": [],
+    "matricula_candidatos": [],
+    "keywords": {
+      "dni": true,
+      "osep": false,
+      "pami": false,
+      "seguro": false,
+      "mala_praxis": false
+    }
+  },
+  "clasificacion": {
+    "tipos": [
+      {
+        "tipo": "titulo_habilitante",
+        "confianza": "media",
+        "score": 2
+      }
+    ],
+    "heuristica_scores": {
+      "dni": 0,
+      "afip_arca": 0,
+      "ingresos_brutos_atm": 0,
+      "titulo_habilitante": 2,
+      "matricula_profesional": 0,
+      "sss_prestador": 0,
+      "seguro_mala_praxis": 0,
+      "habilitacion_laboratorio": 0,
+      "designacion_director_tecnico": 0,
+      "adhesion_abm": 0,
+      "adhesion_osep": 0,
+      "adhesion_pami": 0,
+      "aceptacion_pago_convenios": 0,
+      "cuenta_bancaria": 0,
+      "otros": 0
+    },
+    "llm": {
+      "usado": false,
+      "model": null,
+      "error": null
+    }
+  },
+  "snippets": "DOCUMENTO: ACTA RATIFICACION DOMICILIO.pdf\nDOCUMENT_ID: 5f524284ac3f2afb\nEn la ciudad de Mendoza, a los 23 días del mes de octubre del año 2025, siendo\nlas 19 horas, se reúne la Comisión Directiva de la Asociación Bioquímica de\nMendoza, bajo la presidencia de la Dra. Beatriz Damiani, con la presencia de\nratificar como domicilio social, legal y administrativo de la Asociación\nBioquímica de Mendoza, la sede ubicada en calle Belgrano N°925, de la Ciudad\nde Mendoza, lugar donde se desarrollan las actividades institucionales,\nPRESIDENTE\nAsociación Bioquímica de Mendoza\nS0AA"
+}

@@ -1,0 +1,11 @@
+[22:12:09] [INFO] [pipeline] Procesando ESCUDERO ASAN ANTONELLA OSEP.pdf
+[22:12:11] [INFO] [pipeline] 15 páginas renderizadas
+[22:12:11] [INFO] [pipeline] OCR página 1/15
+[22:12:11] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[22:12:15] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[22:12:20] [INFO] [pipeline] OCR página 1 OK (chars=498)
+[22:12:20] [INFO] [pipeline] OCR página 2/15
+[22:12:24] [INFO] [pipeline] OCR página 2 OK (chars=299)
+[22:12:24] [INFO] [pipeline] OCR página 3/15
+[22:12:29] [INFO] [pipeline] OCR página 3 OK (chars=663)
+[22:12:29] [INFO] [pipeline] OCR página 4/15

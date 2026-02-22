@@ -1,0 +1,48 @@
+{
+  "document_id": "dc0c22855bf09455",
+  "cliente_id": "NOMBRE_LEGAJOS",
+  "campos": {
+    "dni": "19082025",
+    "cuil_cuit": "30-70892867-0",
+    "nombre_completo": "CDORPARMUCCI@CLINICASANTAMARIA.COM.AR, : --, REPRESENTADA EN ESTE",
+    "direccion": null,
+    "localidad": "mendoza",
+    "matricula": "1094",
+    "laboratorio": null,
+    "tipo_persona": "sociedad"
+  },
+  "documentos_detectados_preliminar": {
+    "dni": true,
+    "titulo": false,
+    "matricula_actualizada": true,
+    "constancia_cuit": true,
+    "seguro_mala_praxis": false,
+    "adhesion_pami": true,
+    "adhesion_osep": true
+  },
+  "evidencia": {
+    "dni_candidatos": [
+      "19082025",
+      "20.357.313",
+      "30.924.266",
+      "14.473.836",
+      "22.307.999."
+    ],
+    "dni_mrz": [],
+    "cuit_candidatos": [
+      "30-70892867-0"
+    ],
+    "matricula_candidatos": [
+      "1094"
+    ],
+    "keywords": {
+      "dni": true,
+      "osep": true,
+      "pami": true,
+      "seguro": false,
+      "mala_praxis": false
+    }
+  },
+  "faltantes": [],
+  "txt_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\00_ocr\\LEGAJOS_19082025_090019_264796_OCR_LLM_READY.txt"
+}

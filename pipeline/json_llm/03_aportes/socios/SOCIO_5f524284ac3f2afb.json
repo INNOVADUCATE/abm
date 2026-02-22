@@ -1,0 +1,44 @@
+{
+  "schema": "abm_socio_aportes_v1",
+  "fecha_proceso": "2026-02-22T18:24:21",
+  "socio_uid_safe": "5f524284ac3f2afb",
+  "campos_consolidados": {
+    "localidad": "mendoza"
+  },
+  "aportes_resumen": {
+    "profesion.titulo_habilitante": {
+      "tipo_documento": "titulo_habilitante",
+      "aporte_key": "profesion.titulo_habilitante",
+      "vence": false,
+      "prioridad": "alta",
+      "vigencia": {
+        "desde": null,
+        "hasta": null,
+        "fuente": null,
+        "confianza": null,
+        "evidencia": []
+      }
+    }
+  },
+  "documentos": [
+    {
+      "document_id": "5f524284ac3f2afb",
+      "input_doc_clasificado": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\02_clasificado\\documentos\\ACTA RATIFICACION DOMICILIO_OCR_LLM_READY_ANALISIS_ABM_CLASIFICADO.json",
+      "aportes": [
+        {
+          "tipo_documento": "titulo_habilitante",
+          "aporte_key": "profesion.titulo_habilitante",
+          "vence": false,
+          "prioridad": "alta",
+          "vigencia": {
+            "desde": null,
+            "hasta": null,
+            "fuente": null,
+            "confianza": null,
+            "evidencia": []
+          }
+        }
+      ]
+    }
+  ]
+}

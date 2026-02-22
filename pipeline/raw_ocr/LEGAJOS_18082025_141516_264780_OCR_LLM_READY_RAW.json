@@ -1,0 +1,6038 @@
+{
+  "documento": "LEGAJOS_18082025_141516_264780.pdf",
+  "document_id": "3cafdba1fd4e23ab",
+  "paginas": [
+    {
+      "pagina": 1,
+      "image_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\temp_proceso\\LEGAJOS_18082025_141516_264780_p1.png",
+      "items": [
+        {
+          "bbox": [
+            [
+              877,
+              16
+            ],
+            [
+              1008,
+              13
+            ],
+            [
+              1010,
+              101
+            ],
+            [
+              879,
+              104
+            ]
+          ],
+          "text": "ABM",
+          "score": 0.9183886051177979
+        },
+        {
+          "bbox": [
+            [
+              802,
+              104
+            ],
+            [
+              1081,
+              96
+            ],
+            [
+              1082,
+              126
+            ],
+            [
+              803,
+              135
+            ]
+          ],
+          "text": "ASOCIACION BIOQUIMICA",
+          "score": 0.9969102144241333
+        },
+        {
+          "bbox": [
+            [
+              865,
+              130
+            ],
+            [
+              1016,
+              127
+            ],
+            [
+              1017,
+              155
+            ],
+            [
+              865,
+              158
+            ]
+          ],
+          "text": "DE MENDOZA",
+          "score": 0.9747450947761536
+        },
+        {
+          "bbox": [
+            [
+              296,
+              212
+            ],
+            [
+              797,
+              200
+            ],
+            [
+              797,
+              237
+            ],
+            [
+              297,
+              249
+            ]
+          ],
+          "text": "CONVENIO DE COLABORACIÓN",
+          "score": 0.9950976967811584
+        },
+        {
+          "bbox": [
+            [
+              9,
+              280
+            ],
+            [
+              1079,
+              272
+            ],
+            [
+              1079,
+              306
+            ],
+            [
+              9,
+              313
+            ]
+          ],
+          "text": "En la Localidad de la Ciudad de Mendoza, a los 18 días del mes de agosto del 2025,",
+          "score": 0.9929413199424744
+        },
+        {
+          "bbox": [
+            [
+              8,
+              335
+            ],
+            [
+              1080,
+              330
+            ],
+            [
+              1080,
+              364
+            ],
+            [
+              8,
+              369
+            ]
+          ],
+          "text": "entre ASOCIACIóN BIOQuíMICA DE MENDOZA (ABM) qUien fija domicilio especial físico",
+          "score": 0.9063035845756531
+        },
+        {
+          "bbox": [
+            [
+              6,
+              392
+            ],
+            [
+              1081,
+              387
+            ],
+            [
+              1081,
+              421
+            ],
+            [
+              6,
+              426
+            ]
+          ],
+          "text": "en Av. Belgrano N°925, Ciudad-Capital, Mendoza, República Argentina, y domicilio",
+          "score": 0.9817534685134888
+        },
+        {
+          "bbox": [
+            [
+              4,
+              447
+            ],
+            [
+              1085,
+              441
+            ],
+            [
+              1085,
+              479
+            ],
+            [
+              4,
+              485
+            ]
+          ],
+          "text": "especial electrónico en: gerencia@abm.org.ar /secretaria@abm.org.ar Cuit:30-",
+          "score": 0.9660361409187317
+        },
+        {
+          "bbox": [
+            [
+              6,
+              503
+            ],
+            [
+              1083,
+              500
+            ],
+            [
+              1083,
+              534
+            ],
+            [
+              6,
+              537
+            ]
+          ],
+          "text": "54550865-2, representada en este aCto por la BIOQ. MARíA ELBA BEATRIz DAMIANI, DNI",
+          "score": 0.9386815428733826
+        },
+        {
+          "bbox": [
+            [
+              8,
+              558
+            ],
+            [
+              1084,
+              558
+            ],
+            [
+              1084,
+              591
+            ],
+            [
+              8,
+              591
+            ]
+          ],
+          "text": "N°20.357.313, en sU Calidad de Presidente, y el BIOQ. PABLO ALEJANDRO TORNELLO, DNI",
+          "score": 0.9401726722717285
+        },
+        {
+          "bbox": [
+            [
+              9,
+              614
+            ],
+            [
+              1085,
+              615
+            ],
+            [
+              1085,
+              649
+            ],
+            [
+              9,
+              648
+            ]
+          ],
+          "text": "N°30.924.266, en su calidad de Secretario, ambos integrantes de la Comisión Directiva",
+          "score": 0.9918904900550842
+        },
+        {
+          "bbox": [
+            [
+              9,
+              671
+            ],
+            [
+              1087,
+              673
+            ],
+            [
+              1087,
+              706
+            ],
+            [
+              9,
+              704
+            ]
+          ],
+          "text": "de ABM con facultades legales y estatutarias suficientes para este acto,",
+          "score": 0.9730759859085083
+        },
+        {
+          "bbox": [
+            [
+              10,
+              727
+            ],
+            [
+              1087,
+              730
+            ],
+            [
+              1087,
+              764
+            ],
+            [
+              10,
+              761
+            ]
+          ],
+          "text": "denominándose en lo sucesivo a la Entidad como “LA AsociAción“ o “ABm\", por una",
+          "score": 0.9503782391548157
+        },
+        {
+          "bbox": [
+            [
+              10,
+              784
+            ],
+            [
+              1089,
+              785
+            ],
+            [
+              1089,
+              821
+            ],
+            [
+              10,
+              820
+            ]
+          ],
+          "text": "parte; y HoGAR sAlud sA, quien fija domicilio especial físico en calle Av. San Martín",
+          "score": 0.9685251712799072
+        },
+        {
+          "bbox": [
+            [
+              11,
+              839
+            ],
+            [
+              1090,
+              844
+            ],
+            [
+              1090,
+              878
+            ],
+            [
+              11,
+              873
+            ]
+          ],
+          "text": "N°835, Godoy Cruz, Mendoza, República Argentina, y domicilio especial electrónico en:",
+          "score": 0.9883687496185303
+        },
+        {
+          "bbox": [
+            [
+              9,
+              892
+            ],
+            [
+              1091,
+              898
+            ],
+            [
+              1091,
+              936
+            ],
+            [
+              9,
+              930
+            ]
+          ],
+          "text": "diego.arbona@redbasa.com.ar,Cuit: 33-71011625-9, representada en este acto por el",
+          "score": 0.9769030809402466
+        },
+        {
+          "bbox": [
+            [
+              8,
+              943
+            ],
+            [
+              1093,
+              954
+            ],
+            [
+              1093,
+              994
+            ],
+            [
+              8,
+              983
+            ]
+          ],
+          "text": "Sr. DIEGO AGustíN ARBONA, DNI N° 34.068.289, en sU calidad de Gerente General, en",
+          "score": 0.9732083082199097
+        },
+        {
+          "bbox": [
+            [
+              6,
+              999
+            ],
+            [
+              1091,
+              1011
+            ],
+            [
+              1091,
+              1052
+            ],
+            [
+              6,
+              1040
+            ]
+          ],
+          "text": "lo sucesivo denominada \"LA clínicA\", por la otra parte; reconociéndose",
+          "score": 0.9702335000038147
+        },
+        {
+          "bbox": [
+            [
+              10,
+              1059
+            ],
+            [
+              1091,
+              1074
+            ],
+            [
+              1091,
+              1108
+            ],
+            [
+              10,
+              1093
+            ]
+          ],
+          "text": "recíprocamente los contratantes en el carácter en que intervienen, plena capacidad",
+          "score": 0.999761164188385
+        },
+        {
+          "bbox": [
+            [
+              7,
+              1114
+            ],
+            [
+              1092,
+              1129
+            ],
+            [
+              1092,
+              1166
+            ],
+            [
+              7,
+              1151
+            ]
+          ],
+          "text": "jurídica para celebrar el presente “convenio DE coLABoRAción”, en un todo de",
+          "score": 0.9373701214790344
+        },
+        {
+          "bbox": [
+            [
+              11,
+              1171
+            ],
+            [
+              1092,
+              1190
+            ],
+            [
+              1092,
+              1223
+            ],
+            [
+              10,
+              1204
+            ]
+          ],
+          "text": "acuerdo con las disposiciones legales y estatutarias vigentes, normas indisponibles del",
+          "score": 0.9937990307807922
+        },
+        {
+          "bbox": [
+            [
+              10,
+              1226
+            ],
+            [
+              1092,
+              1247
+            ],
+            [
+              1092,
+              1283
+            ],
+            [
+              9,
+              1261
+            ]
+          ],
+          "text": "Código Civil y Comercial de la Nación referentes a la materia y sujeto primariamente a",
+          "score": 0.9927741885185242
+        },
+        {
+          "bbox": [
+            [
+              9,
+              1282
+            ],
+            [
+              773,
+              1299
+            ],
+            [
+              772,
+              1333
+            ],
+            [
+              8,
+              1316
+            ]
+          ],
+          "text": "las cláusulasyestipulaciones que a continuación se detallan:-",
+          "score": 0.9834681153297424
+        },
+        {
+          "bbox": [
+            [
+              80,
+              1349
+            ],
+            [
+              321,
+              1360
+            ],
+            [
+              319,
+              1387
+            ],
+            [
+              78,
+              1376
+            ]
+          ],
+          "text": "Bioq. RABLQ TORNELLO",
+          "score": 0.9464138746261597
+        },
+        {
+          "bbox": [
+            [
+              434,
+              1340
+            ],
+            [
+              606,
+              1345
+            ],
+            [
+              604,
+              1390
+            ],
+            [
+              433,
+              1385
+            ]
+          ],
+          "text": "Wmi",
+          "score": 0.4892812669277191
+        },
+        {
+          "bbox": [
+            [
+              169,
+              1382
+            ],
+            [
+              258,
+              1387
+            ],
+            [
+              257,
+              1404
+            ],
+            [
+              168,
+              1399
+            ]
+          ],
+          "text": "CREARIO",
+          "score": 0.8428427577018738
+        },
+        {
+          "bbox": [
+            [
+              404,
+              1383
+            ],
+            [
+              650,
+              1395
+            ],
+            [
+              649,
+              1423
+            ],
+            [
+              403,
+              1411
+            ]
+          ],
+          "text": "Bioq. MARÍA BEATRIZ DAMIANI",
+          "score": 0.9700173735618591
+        },
+        {
+          "bbox": [
+            [
+              75,
+              1395
+            ],
+            [
+              322,
+              1408
+            ],
+            [
+              320,
+              1435
+            ],
+            [
+              73,
+              1422
+            ]
+          ],
+          "text": "Asociacion tioquímica de Mendoza",
+          "score": 0.9007887840270996
+        },
+        {
+          "bbox": [
+            [
+              466,
+              1414
+            ],
+            [
+              584,
+              1420
+            ],
+            [
+              583,
+              1440
+            ],
+            [
+              465,
+              1434
+            ]
+          ],
+          "text": "PRESIDENTE",
+          "score": 0.9995182156562805
+        },
+        {
+          "bbox": [
+            [
+              404,
+              1431
+            ],
+            [
+              649,
+              1444
+            ],
+            [
+              648,
+              1465
+            ],
+            [
+              403,
+              1452
+            ]
+          ],
+          "text": "Asociación Bioquímica de Mendoza",
+          "score": 0.9863647222518921
+        },
+        {
+          "bbox": [
+            [
+              34,
+              1462
+            ],
+            [
+              405,
+              1482
+            ],
+            [
+              403,
+              1509
+            ],
+            [
+              33,
+              1489
+            ]
+          ],
+          "text": "Belgrano 925 , Ciudad de Mendoza.",
+          "score": 0.9629236459732056
+        },
+        {
+          "bbox": [
+            [
+              515,
+              1484
+            ],
+            [
+              754,
+              1494
+            ],
+            [
+              753,
+              1521
+            ],
+            [
+              514,
+              1511
+            ]
+          ],
+          "text": "(0261) 4412350/60",
+          "score": 0.9998115301132202
+        },
+        {
+          "bbox": [
+            [
+              823,
+              1498
+            ],
+            [
+              1076,
+              1511
+            ],
+            [
+              1074,
+              1538
+            ],
+            [
+              822,
+              1525
+            ]
+          ],
+          "text": "secretaria@abm.org.ar",
+          "score": 0.9998660087585449
+        },
+        {
+          "bbox": [
+            [
+              419,
+              1536
+            ],
+            [
+              589,
+              1543
+            ],
+            [
+              588,
+              1568
+            ],
+            [
+              418,
+              1561
+            ]
+          ],
+          "text": "www.abm.org.ar",
+          "score": 0.9998977780342102
+        }
+      ]
+    },
+    {
+      "pagina": 2,
+      "image_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\temp_proceso\\LEGAJOS_18082025_141516_264780_p2.png",
+      "items": [
+        {
+          "bbox": [
+            [
+              895,
+              10
+            ],
+            [
+              1023,
+              10
+            ],
+            [
+              1023,
+              98
+            ],
+            [
+              895,
+              98
+            ]
+          ],
+          "text": "ARM",
+          "score": 0.8630452156066895
+        },
+        {
+          "bbox": [
+            [
+              810,
+              96
+            ],
+            [
+              1102,
+              92
+            ],
+            [
+              1103,
+              122
+            ],
+            [
+              811,
+              126
+            ]
+          ],
+          "text": "ASOCIACION BIOQUIMICA",
+          "score": 0.9872403144836426
+        },
+        {
+          "bbox": [
+            [
+              879,
+              122
+            ],
+            [
+              1038,
+              122
+            ],
+            [
+              1038,
+              149
+            ],
+            [
+              879,
+              149
+            ]
+          ],
+          "text": "DE MENDOZA",
+          "score": 0.9775315523147583
+        },
+        {
+          "bbox": [
+            [
+              8,
+              171
+            ],
+            [
+              1106,
+              151
+            ],
+            [
+              1107,
+              189
+            ],
+            [
+              9,
+              208
+            ]
+          ],
+          "text": "CLÁUSULA PRIMERA - OBJETO: “LA ASOCIACIÓN\" a traVés de sU estruCtUra sistematizada",
+          "score": 0.9321585893630981
+        },
+        {
+          "bbox": [
+            [
+              4,
+              230
+            ],
+            [
+              1105,
+              211
+            ],
+            [
+              1106,
+              249
+            ],
+            [
+              5,
+              268
+            ]
+          ],
+          "text": "se compromete a realizar el asesoramiento, contralor, auditoría y gestión de cobro de",
+          "score": 0.9957477450370789
+        },
+        {
+          "bbox": [
+            [
+              2,
+              284
+            ],
+            [
+              1106,
+              270
+            ],
+            [
+              1107,
+              310
+            ],
+            [
+              2,
+              324
+            ]
+          ],
+          "text": "las ordenes bioquímicas de las Obras Sociales y/o Prepagas, que se encuentran",
+          "score": 0.9815115928649902
+        },
+        {
+          "bbox": [
+            [
+              4,
+              342
+            ],
+            [
+              1107,
+              331
+            ],
+            [
+              1108,
+              367
+            ],
+            [
+              4,
+              378
+            ]
+          ],
+          "text": "detalladas en la nómina de prestaciones que se acompaña por separado en el",
+          "score": 0.9840667247772217
+        },
+        {
+          "bbox": [
+            [
+              6,
+              394
+            ],
+            [
+              1104,
+              388
+            ],
+            [
+              1104,
+              427
+            ],
+            [
+              6,
+              433
+            ]
+          ],
+          "text": "\"Anexo l\", el cual es parte integrante de este convenio. Específicamente, se",
+          "score": 0.9796919822692871
+        },
+        {
+          "bbox": [
+            [
+              4,
+              451
+            ],
+            [
+              1104,
+              446
+            ],
+            [
+              1104,
+              486
+            ],
+            [
+              4,
+              491
+            ]
+          ],
+          "text": "compromete a la realización de todas las gestiones administrativas relacionadas con",
+          "score": 0.999624490737915
+        },
+        {
+          "bbox": [
+            [
+              5,
+              508
+            ],
+            [
+              1102,
+              507
+            ],
+            [
+              1102,
+              543
+            ],
+            [
+              5,
+              544
+            ]
+          ],
+          "text": "el cobro de las prácticas de análisis bioquímicos realizadas en el laboratorio o los",
+          "score": 0.9940667152404785
+        },
+        {
+          "bbox": [
+            [
+              3,
+              562
+            ],
+            [
+              920,
+              561
+            ],
+            [
+              921,
+              601
+            ],
+            [
+              3,
+              602
+            ]
+          ],
+          "text": "laboratorios pertenecientes a “La clínica”, de pacientes ambulatorios.-",
+          "score": 0.9790042042732239
+        },
+        {
+          "bbox": [
+            [
+              5,
+              618
+            ],
+            [
+              1100,
+              623
+            ],
+            [
+              1100,
+              659
+            ],
+            [
+              5,
+              654
+            ]
+          ],
+          "text": "CLÁUSULA SEGUNDA - MODALIDAD: \"LA ASOCIACIÓN\"gestiOnará en forma exclUsiVa el",
+          "score": 0.9249131083488464
+        },
+        {
+          "bbox": [
+            [
+              8,
+              679
+            ],
+            [
+              1099,
+              679
+            ],
+            [
+              1099,
+              713
+            ],
+            [
+              8,
+              713
+            ]
+          ],
+          "text": "procesamiento de las órdenes bioquímicas emitidas y autorizadas a “LA clínicA\"",
+          "score": 0.9707765579223633
+        },
+        {
+          "bbox": [
+            [
+              7,
+              735
+            ],
+            [
+              1097,
+              738
+            ],
+            [
+              1097,
+              772
+            ],
+            [
+              7,
+              769
+            ]
+          ],
+          "text": "dentro del marco normativo y reglamentario vigente. Para ello, “LA clínicA\" deberá",
+          "score": 0.9855910539627075
+        },
+        {
+          "bbox": [
+            [
+              4,
+              789
+            ],
+            [
+              1100,
+              794
+            ],
+            [
+              1100,
+              834
+            ],
+            [
+              4,
+              829
+            ]
+          ],
+          "text": "remitir a \"LA AsociAción\" las órdenes bioquímicas de los pacientes ambulatorios con",
+          "score": 0.9872896075248718
+        },
+        {
+          "bbox": [
+            [
+              4,
+              847
+            ],
+            [
+              1099,
+              856
+            ],
+            [
+              1099,
+              893
+            ],
+            [
+              4,
+              884
+            ]
+          ],
+          "text": "la documentación respaldatoria correspondiente, en los plazos y condiciones",
+          "score": 0.9869629144668579
+        },
+        {
+          "bbox": [
+            [
+              5,
+              900
+            ],
+            [
+              1098,
+              911
+            ],
+            [
+              1098,
+              951
+            ],
+            [
+              5,
+              940
+            ]
+          ],
+          "text": "establecidas en el presente convenio y sus anexos. \"LA Asociación\" verificará la",
+          "score": 0.9839221239089966
+        },
+        {
+          "bbox": [
+            [
+              5,
+              955
+            ],
+            [
+              1097,
+              971
+            ],
+            [
+              1097,
+              1008
+            ],
+            [
+              5,
+              992
+            ]
+          ],
+          "text": "correcta confección de las órdenes, auditará los datos y procederá a la presentación",
+          "score": 0.9989733695983887
+        },
+        {
+          "bbox": [
+            [
+              4,
+              1010
+            ],
+            [
+              1097,
+              1030
+            ],
+            [
+              1096,
+              1068
+            ],
+            [
+              3,
+              1048
+            ]
+          ],
+          "text": "y tramitación ante los financiadores del sistema de salud. La gestión de cobro será",
+          "score": 0.9947850704193115
+        },
+        {
+          "bbox": [
+            [
+              7,
+              1066
+            ],
+            [
+              1096,
+              1089
+            ],
+            [
+              1095,
+              1126
+            ],
+            [
+              6,
+              1102
+            ]
+          ],
+          "text": "llevada a cabo por \"LA AsociACión\" en representación de “LA ClínicA”, sin que ello",
+          "score": 0.93746018409729
+        },
+        {
+          "bbox": [
+            [
+              5,
+              1121
+            ],
+            [
+              1098,
+              1145
+            ],
+            [
+              1097,
+              1185
+            ],
+            [
+              4,
+              1161
+            ]
+          ],
+          "text": "implique asunción de responsabilidad sobre la efectiva cancelación de las",
+          "score": 0.9926987886428833
+        },
+        {
+          "bbox": [
+            [
+              6,
+              1178
+            ],
+            [
+              1093,
+              1205
+            ],
+            [
+              1092,
+              1242
+            ],
+            [
+              5,
+              1214
+            ]
+          ],
+          "text": "prestaciones por parte de las Ooss, Prepagas, Institutos de Salud, etcétera. En caso de",
+          "score": 0.9986858367919922
+        },
+        {
+          "bbox": [
+            [
+              7,
+              1233
+            ],
+            [
+              1091,
+              1260
+            ],
+            [
+              1090,
+              1297
+            ],
+            [
+              6,
+              1270
+            ]
+          ],
+          "text": "observaciones o débitos aplicados por los financiadores, \"LA AsociAción\" realizará los",
+          "score": 0.9875944256782532
+        },
+        {
+          "bbox": [
+            [
+              7,
+              1289
+            ],
+            [
+              1089,
+              1322
+            ],
+            [
+              1087,
+              1356
+            ],
+            [
+              6,
+              1322
+            ]
+          ],
+          "text": "reclamos ¢ofrespondientes dentro de los términos y condiciones que tiene estipulados.",
+          "score": 0.9785349369049072
+        },
+        {
+          "bbox": [
+            [
+              43,
+              1350
+            ],
+            [
+              284,
+              1358
+            ],
+            [
+              283,
+              1384
+            ],
+            [
+              42,
+              1377
+            ]
+          ],
+          "text": "Bioq. PABLO TORNELLO",
+          "score": 0.9586862325668335
+        },
+        {
+          "bbox": [
+            [
+              450,
+              1356
+            ],
+            [
+              594,
+              1358
+            ],
+            [
+              594,
+              1393
+            ],
+            [
+              449,
+              1391
+            ]
+          ],
+          "text": "Dm",
+          "score": 0.43248724937438965
+        },
+        {
+          "bbox": [
+            [
+              105,
+              1378
+            ],
+            [
+              225,
+              1382
+            ],
+            [
+              224,
+              1403
+            ],
+            [
+              104,
+              1399
+            ]
+          ],
+          "text": "SECRETARIO",
+          "score": 0.9923925399780273
+        },
+        {
+          "bbox": [
+            [
+              41,
+              1394
+            ],
+            [
+              286,
+              1405
+            ],
+            [
+              285,
+              1428
+            ],
+            [
+              40,
+              1416
+            ]
+          ],
+          "text": "Asociación Bioguímica de Mendoza",
+          "score": 0.9529584646224976
+        },
+        {
+          "bbox": [
+            [
+              386,
+              1388
+            ],
+            [
+              633,
+              1392
+            ],
+            [
+              632,
+              1420
+            ],
+            [
+              386,
+              1416
+            ]
+          ],
+          "text": "Bioq. MARÍA BEATRIZ DAMIANI",
+          "score": 0.9647092223167419
+        },
+        {
+          "bbox": [
+            [
+              451,
+              1417
+            ],
+            [
+              568,
+              1419
+            ],
+            [
+              568,
+              1440
+            ],
+            [
+              451,
+              1437
+            ]
+          ],
+          "text": "PRESIDENTE",
+          "score": 0.9996665716171265
+        },
+        {
+          "bbox": [
+            [
+              386,
+              1434
+            ],
+            [
+              634,
+              1440
+            ],
+            [
+              633,
+              1463
+            ],
+            [
+              386,
+              1457
+            ]
+          ],
+          "text": "Asociación Bioqufmica de Mendoza",
+          "score": 0.9863564372062683
+        },
+        {
+          "bbox": [
+            [
+              35,
+              1457
+            ],
+            [
+              398,
+              1482
+            ],
+            [
+              396,
+              1512
+            ],
+            [
+              33,
+              1487
+            ]
+          ],
+          "text": "Belgrano 925 , Ciudad de Mendoza.",
+          "score": 0.9940671324729919
+        },
+        {
+          "bbox": [
+            [
+              471,
+              1488
+            ],
+            [
+              750,
+              1505
+            ],
+            [
+              749,
+              1532
+            ],
+            [
+              469,
+              1514
+            ]
+          ],
+          "text": "(0261) 4412350/60",
+          "score": 0.9477574825286865
+        },
+        {
+          "bbox": [
+            [
+              784,
+              1508
+            ],
+            [
+              1068,
+              1520
+            ],
+            [
+              1067,
+              1547
+            ],
+            [
+              783,
+              1534
+            ]
+          ],
+          "text": "secretaria@abm.org.ar",
+          "score": 0.9997032880783081
+        },
+        {
+          "bbox": [
+            [
+              412,
+              1538
+            ],
+            [
+              586,
+              1552
+            ],
+            [
+              583,
+              1580
+            ],
+            [
+              410,
+              1566
+            ]
+          ],
+          "text": "www.abm.org.ar",
+          "score": 0.9998955726623535
+        }
+      ]
+    },
+    {
+      "pagina": 3,
+      "image_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\temp_proceso\\LEGAJOS_18082025_141516_264780_p3.png",
+      "items": [
+        {
+          "bbox": [
+            [
+              880,
+              4
+            ],
+            [
+              1007,
+              1
+            ],
+            [
+              1009,
+              90
+            ],
+            [
+              882,
+              93
+            ]
+          ],
+          "text": "ABM",
+          "score": 0.8807013630867004
+        },
+        {
+          "bbox": [
+            [
+              801,
+              89
+            ],
+            [
+              1093,
+              86
+            ],
+            [
+              1093,
+              113
+            ],
+            [
+              801,
+              116
+            ]
+          ],
+          "text": "ASOCIACION BIOQUIMICA",
+          "score": 0.9933654069900513
+        },
+        {
+          "bbox": [
+            [
+              868,
+              115
+            ],
+            [
+              1024,
+              113
+            ],
+            [
+              1025,
+              138
+            ],
+            [
+              868,
+              140
+            ]
+          ],
+          "text": "DE MENDOZA",
+          "score": 0.9795390367507935
+        },
+        {
+          "bbox": [
+            [
+              10,
+              161
+            ],
+            [
+              1098,
+              143
+            ],
+            [
+              1099,
+              182
+            ],
+            [
+              11,
+              201
+            ]
+          ],
+          "text": "CLÁUSULA TERCERA - DURACIÓN: La dUraCión del presente \"CONTRATO DE",
+          "score": 0.9259090423583984
+        },
+        {
+          "bbox": [
+            [
+              11,
+              221
+            ],
+            [
+              1092,
+              204
+            ],
+            [
+              1092,
+              238
+            ],
+            [
+              11,
+              255
+            ]
+          ],
+          "text": "coLABoRAción\" es de un (1) año contado a partir del día de la fecha de ésta",
+          "score": 0.9658607840538025
+        },
+        {
+          "bbox": [
+            [
+              8,
+              277
+            ],
+            [
+              1092,
+              262
+            ],
+            [
+              1092,
+              299
+            ],
+            [
+              8,
+              315
+            ]
+          ],
+          "text": "celebración, el cual a su vencimiento será renovado automáticamente por un periodo",
+          "score": 0.999396562576294
+        },
+        {
+          "bbox": [
+            [
+              8,
+              334
+            ],
+            [
+              1092,
+              320
+            ],
+            [
+              1092,
+              357
+            ],
+            [
+              8,
+              371
+            ]
+          ],
+          "text": "igual, excepto que cualquiera de las partes manifestare a la otra mediante",
+          "score": 0.9764994978904724
+        },
+        {
+          "bbox": [
+            [
+              7,
+              389
+            ],
+            [
+              1093,
+              379
+            ],
+            [
+              1093,
+              416
+            ],
+            [
+              7,
+              426
+            ]
+          ],
+          "text": "comunicación fehaciente al domicilio físico o al domicilio electrónico constituidos en",
+          "score": 0.9953098893165588
+        },
+        {
+          "bbox": [
+            [
+              9,
+              448
+            ],
+            [
+              1091,
+              441
+            ],
+            [
+              1091,
+              475
+            ],
+            [
+              9,
+              482
+            ]
+          ],
+          "text": "este contrato, y con no menos de treinta (30) días de anticipación su voluntad de no",
+          "score": 0.9888066053390503
+        },
+        {
+          "bbox": [
+            [
+              8,
+              504
+            ],
+            [
+              1092,
+              500
+            ],
+            [
+              1092,
+              534
+            ],
+            [
+              8,
+              538
+            ]
+          ],
+          "text": "renovarlo. Producida la notificación, las partes tendrán treinta (30) días para_ el",
+          "score": 0.9628380537033081
+        },
+        {
+          "bbox": [
+            [
+              9,
+              560
+            ],
+            [
+              1090,
+              560
+            ],
+            [
+              1090,
+              593
+            ],
+            [
+              9,
+              593
+            ]
+          ],
+          "text": "cumplimiento de todas las obligaciones recíprocas que pudieran estar pendientes a la",
+          "score": 0.9988765716552734
+        },
+        {
+          "bbox": [
+            [
+              6,
+              613
+            ],
+            [
+              1090,
+              615
+            ],
+            [
+              1090,
+              652
+            ],
+            [
+              6,
+              650
+            ]
+          ],
+          "text": "fecha de resolución. No obstante tanto “LA AsociAción\" como “LA clínicA”, tienen",
+          "score": 0.9556695818901062
+        },
+        {
+          "bbox": [
+            [
+              8,
+              676
+            ],
+            [
+              1087,
+              679
+            ],
+            [
+              1087,
+              708
+            ],
+            [
+              8,
+              705
+            ]
+          ],
+          "text": "la potestad de rescindirlo sin la presente cláusula de preaviso, concretamente cuando",
+          "score": 0.9962802529335022
+        },
+        {
+          "bbox": [
+            [
+              8,
+              733
+            ],
+            [
+              1089,
+              737
+            ],
+            [
+              1089,
+              770
+            ],
+            [
+              8,
+              766
+            ]
+          ],
+          "text": "una de las partes haya incurrido en un incumplimiento grave de las obligaciones",
+          "score": 0.9896864295005798
+        },
+        {
+          "bbox": [
+            [
+              8,
+              792
+            ],
+            [
+              1087,
+              795
+            ],
+            [
+              1087,
+              828
+            ],
+            [
+              8,
+              825
+            ]
+          ],
+          "text": "asumidas a su cargo, en este caso la otra parte que haya cumplido, podrá rescindir sin",
+          "score": 0.999241292476654
+        },
+        {
+          "bbox": [
+            [
+              7,
+              848
+            ],
+            [
+              1087,
+              853
+            ],
+            [
+              1087,
+              887
+            ],
+            [
+              7,
+              882
+            ]
+          ],
+          "text": "preaviso mediante comunicación fehaciente al domicilio físico o al domicilio",
+          "score": 0.9522261619567871
+        },
+        {
+          "bbox": [
+            [
+              10,
+              906
+            ],
+            [
+              319,
+              905
+            ],
+            [
+              319,
+              935
+            ],
+            [
+              10,
+              937
+            ]
+          ],
+          "text": "electrónico constituidos.-",
+          "score": 0.9989045262336731
+        },
+        {
+          "bbox": [
+            [
+              10,
+              958
+            ],
+            [
+              1088,
+              971
+            ],
+            [
+              1088,
+              1005
+            ],
+            [
+              10,
+              992
+            ]
+          ],
+          "text": "CLÁusULA CUARTA - ARANCELEs: Los aranceles de las prestaciones bioquímicas",
+          "score": 0.9063366055488586
+        },
+        {
+          "bbox": [
+            [
+              10,
+              1016
+            ],
+            [
+              1087,
+              1032
+            ],
+            [
+              1087,
+              1065
+            ],
+            [
+              10,
+              1048
+            ]
+          ],
+          "text": "incluidas en las órdenes a procesar de “LA clínicA”, serán los establecidos por los",
+          "score": 0.9623135328292847
+        },
+        {
+          "bbox": [
+            [
+              9,
+              1074
+            ],
+            [
+              1085,
+              1088
+            ],
+            [
+              1085,
+              1122
+            ],
+            [
+              9,
+              1108
+            ]
+          ],
+          "text": "Nomencladores Bioquímicos (NBUs) respectivos pautados por la “LA AsoCIAción”, al",
+          "score": 0.9616254568099976
+        },
+        {
+          "bbox": [
+            [
+              8,
+              1130
+            ],
+            [
+              1084,
+              1148
+            ],
+            [
+              1084,
+              1181
+            ],
+            [
+              8,
+              1162
+            ]
+          ],
+          "text": "momento de cada facturación con el valor de la Unidad Bioquímica (uB) también",
+          "score": 0.9805247187614441
+        },
+        {
+          "bbox": [
+            [
+              7,
+              1185
+            ],
+            [
+              1085,
+              1205
+            ],
+            [
+              1085,
+              1238
+            ],
+            [
+              7,
+              1219
+            ]
+          ],
+          "text": "pactada por la “LA AsociAción\", con los diferentes financiadores del sistema de salud",
+          "score": 0.9854336977005005
+        },
+        {
+          "bbox": [
+            [
+              7,
+              1244
+            ],
+            [
+              1085,
+              1266
+            ],
+            [
+              1085,
+              1299
+            ],
+            [
+              6,
+              1277
+            ]
+          ],
+          "text": "incluidos en el “Anexo l”. A su vez toda actualización periódica del Nomenclador",
+          "score": 0.9846397638320923
+        },
+        {
+          "bbox": [
+            [
+              6,
+              1299
+            ],
+            [
+              1066,
+              1326
+            ],
+            [
+              1065,
+              1363
+            ],
+            [
+              5,
+              1337
+            ]
+          ],
+          "text": "Bioquímico Unificado (NBU), o la incorporación de nuevas prácticas o desafectación",
+          "score": 0.9841378331184387
+        },
+        {
+          "bbox": [
+            [
+              50,
+              1363
+            ],
+            [
+              291,
+              1368
+            ],
+            [
+              291,
+              1393
+            ],
+            [
+              49,
+              1388
+            ]
+          ],
+          "text": "Bioq. PABLO TØRNELLO",
+          "score": 0.9310139417648315
+        },
+        {
+          "bbox": [
+            [
+              451,
+              1373
+            ],
+            [
+              612,
+              1373
+            ],
+            [
+              612,
+              1408
+            ],
+            [
+              451,
+              1408
+            ]
+          ],
+          "text": "nu",
+          "score": 0.9162518978118896
+        },
+        {
+          "bbox": [
+            [
+              113,
+              1390
+            ],
+            [
+              233,
+              1394
+            ],
+            [
+              232,
+              1414
+            ],
+            [
+              112,
+              1409
+            ]
+          ],
+          "text": "SEGRETARIO",
+          "score": 0.8505992889404297
+        },
+        {
+          "bbox": [
+            [
+              48,
+              1406
+            ],
+            [
+              295,
+              1414
+            ],
+            [
+              295,
+              1438
+            ],
+            [
+              47,
+              1430
+            ]
+          ],
+          "text": "Asociación Boquimica de Mendoza",
+          "score": 0.9610652923583984
+        },
+        {
+          "bbox": [
+            [
+              383,
+              1402
+            ],
+            [
+              647,
+              1404
+            ],
+            [
+              647,
+              1431
+            ],
+            [
+              383,
+              1428
+            ]
+          ],
+          "text": "BIOG. MARÍA BEATRIZ DAMIANI",
+          "score": 0.9182469844818115
+        },
+        {
+          "bbox": [
+            [
+              464,
+              1429
+            ],
+            [
+              581,
+              1433
+            ],
+            [
+              581,
+              1454
+            ],
+            [
+              464,
+              1450
+            ]
+          ],
+          "text": "PRESIDENTE",
+          "score": 0.9994929432868958
+        },
+        {
+          "bbox": [
+            [
+              400,
+              1448
+            ],
+            [
+              647,
+              1453
+            ],
+            [
+              646,
+              1476
+            ],
+            [
+              400,
+              1471
+            ]
+          ],
+          "text": "Asociación Bioquímica de Mendoza",
+          "score": 0.9969044923782349
+        },
+        {
+          "bbox": [
+            [
+              35,
+              1471
+            ],
+            [
+              397,
+              1498
+            ],
+            [
+              395,
+              1524
+            ],
+            [
+              33,
+              1497
+            ]
+          ],
+          "text": "Belgrano 925 , Ciudad de Mendoza.",
+          "score": 0.997117817401886
+        },
+        {
+          "bbox": [
+            [
+              514,
+              1504
+            ],
+            [
+              748,
+              1510
+            ],
+            [
+              747,
+              1537
+            ],
+            [
+              513,
+              1530
+            ]
+          ],
+          "text": "(0261) 4412350/60",
+          "score": 0.99462890625
+        },
+        {
+          "bbox": [
+            [
+              818,
+              1514
+            ],
+            [
+              1067,
+              1519
+            ],
+            [
+              1067,
+              1543
+            ],
+            [
+              817,
+              1537
+            ]
+          ],
+          "text": "secretaria@abm.org.ar",
+          "score": 0.9780164361000061
+        },
+        {
+          "bbox": [
+            [
+              412,
+              1553
+            ],
+            [
+              586,
+              1566
+            ],
+            [
+              584,
+              1593
+            ],
+            [
+              410,
+              1580
+            ]
+          ],
+          "text": "www.abm.org.ar",
+          "score": 0.9998645186424255
+        }
+      ]
+    },
+    {
+      "pagina": 4,
+      "image_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\temp_proceso\\LEGAJOS_18082025_141516_264780_p4.png",
+      "items": [
+        {
+          "bbox": [
+            [
+              888,
+              5
+            ],
+            [
+              1010,
+              5
+            ],
+            [
+              1010,
+              85
+            ],
+            [
+              888,
+              85
+            ]
+          ],
+          "text": "ABM",
+          "score": 0.8676891326904297
+        },
+        {
+          "bbox": [
+            [
+              807,
+              86
+            ],
+            [
+              1085,
+              85
+            ],
+            [
+              1085,
+              110
+            ],
+            [
+              807,
+              111
+            ]
+          ],
+          "text": "ASOCIACION BIOQUIMICA",
+          "score": 0.9973519444465637
+        },
+        {
+          "bbox": [
+            [
+              870,
+              111
+            ],
+            [
+              1021,
+              111
+            ],
+            [
+              1021,
+              135
+            ],
+            [
+              870,
+              135
+            ]
+          ],
+          "text": "DE MENDOZA",
+          "score": 0.9762445688247681
+        },
+        {
+          "bbox": [
+            [
+              17,
+              150
+            ],
+            [
+              1092,
+              140
+            ],
+            [
+              1092,
+              178
+            ],
+            [
+              17,
+              188
+            ]
+          ],
+          "text": "de otras, se le trasladará a “LA clínicA\", Como al igual que todas las variaciones",
+          "score": 0.9707967042922974
+        },
+        {
+          "bbox": [
+            [
+              7,
+              210
+            ],
+            [
+              1092,
+              201
+            ],
+            [
+              1092,
+              234
+            ],
+            [
+              7,
+              244
+            ]
+          ],
+          "text": "futuras del valor de la Unidad Bioquímica (UB) que acuerde “LA AsociAción”, por",
+          "score": 0.9779905676841736
+        },
+        {
+          "bbox": [
+            [
+              7,
+              268
+            ],
+            [
+              1091,
+              260
+            ],
+            [
+              1091,
+              294
+            ],
+            [
+              7,
+              302
+            ]
+          ],
+          "text": "motivo de una recomposición de costos, variaciones económicas sobrevinientes o",
+          "score": 0.9910783171653748
+        },
+        {
+          "bbox": [
+            [
+              5,
+              331
+            ],
+            [
+              295,
+              327
+            ],
+            [
+              295,
+              357
+            ],
+            [
+              5,
+              361
+            ]
+          ],
+          "text": "cualquier otra causa.-",
+          "score": 0.9732047915458679
+        },
+        {
+          "bbox": [
+            [
+              3,
+              376
+            ],
+            [
+              1090,
+              374
+            ],
+            [
+              1090,
+              414
+            ],
+            [
+              3,
+              416
+            ]
+          ],
+          "text": "CLÁUSULA QUINTA - coNTRAPRESTAcióN: Para cubrir los costos operacionales de las",
+          "score": 0.9190569519996643
+        },
+        {
+          "bbox": [
+            [
+              2,
+              433
+            ],
+            [
+              1089,
+              430
+            ],
+            [
+              1089,
+              471
+            ],
+            [
+              2,
+              474
+            ]
+          ],
+          "text": "gestiones individualizadas, “LA AsociAción\" retendrá el doce (12%) de la facturación",
+          "score": 0.9869788289070129
+        },
+        {
+          "bbox": [
+            [
+              3,
+              489
+            ],
+            [
+              1090,
+              490
+            ],
+            [
+              1090,
+              531
+            ],
+            [
+              3,
+              530
+            ]
+          ],
+          "text": "mensual correspondiente a “LA clínicA\" por las órdenes bioquímicas que gestione a",
+          "score": 0.9756201505661011
+        },
+        {
+          "bbox": [
+            [
+              6,
+              550
+            ],
+            [
+              1086,
+              554
+            ],
+            [
+              1086,
+              586
+            ],
+            [
+              6,
+              582
+            ]
+          ],
+          "text": "través de sus sistemas. Dicho porcentaje podrá se computado a su vez, como cuota",
+          "score": 0.9980848431587219
+        },
+        {
+          "bbox": [
+            [
+              6,
+              607
+            ],
+            [
+              1086,
+              610
+            ],
+            [
+              1086,
+              644
+            ],
+            [
+              6,
+              641
+            ]
+          ],
+          "text": "social variable del bioquímico/bioquímica asociado/a de la ABM, a designarse, quien",
+          "score": 0.9950566291809082
+        },
+        {
+          "bbox": [
+            [
+              7,
+              666
+            ],
+            [
+              1085,
+              669
+            ],
+            [
+              1085,
+              700
+            ],
+            [
+              7,
+              697
+            ]
+          ],
+          "text": "será a su vez el profesional responsable a cargo por las prestaciones bioquímicas",
+          "score": 0.9855169653892517
+        },
+        {
+          "bbox": [
+            [
+              4,
+              719
+            ],
+            [
+              1086,
+              724
+            ],
+            [
+              1086,
+              760
+            ],
+            [
+              4,
+              755
+            ]
+          ],
+          "text": "realizadas en el laboratorio_ de “LA clínicA”, cuya designación se encuentra",
+          "score": 0.9566547870635986
+        },
+        {
+          "bbox": [
+            [
+              8,
+              782
+            ],
+            [
+              735,
+              780
+            ],
+            [
+              735,
+              811
+            ],
+            [
+              8,
+              813
+            ]
+          ],
+          "text": "individualizada e incluida también en el “Anexo l”. -.......",
+          "score": 0.9335939288139343
+        },
+        {
+          "bbox": [
+            [
+              7,
+              832
+            ],
+            [
+              1088,
+              842
+            ],
+            [
+              1088,
+              880
+            ],
+            [
+              7,
+              870
+            ]
+          ],
+          "text": "CLÁUSULA SEXTA - INCUMPLIMIENTOS DE TERCEROS: En CaSO de faIta de pagO o",
+          "score": 0.9343971610069275
+        },
+        {
+          "bbox": [
+            [
+              7,
+              888
+            ],
+            [
+              1087,
+              900
+            ],
+            [
+              1087,
+              936
+            ],
+            [
+              7,
+              925
+            ]
+          ],
+          "text": "incumplimiento por parte de los financiadores del sistema (Ooss, Prepagas, etc.) o de",
+          "score": 0.9926672577857971
+        },
+        {
+          "bbox": [
+            [
+              6,
+              940
+            ],
+            [
+              1088,
+              954
+            ],
+            [
+              1088,
+              994
+            ],
+            [
+              6,
+              980
+            ]
+          ],
+          "text": "cualquier tercero en los plazos establecidos por “LA Asociación”, por causas no",
+          "score": 0.9675158858299255
+        },
+        {
+          "bbox": [
+            [
+              6,
+              994
+            ],
+            [
+              1087,
+              1011
+            ],
+            [
+              1087,
+              1054
+            ],
+            [
+              5,
+              1036
+            ]
+          ],
+          "text": "atribuibles a ésta. “La clínica\" no se los podrá requerir ni reclamar bajo ningún",
+          "score": 0.975980281829834
+        },
+        {
+          "bbox": [
+            [
+              7,
+              1055
+            ],
+            [
+              1085,
+              1073
+            ],
+            [
+              1085,
+              1109
+            ],
+            [
+              7,
+              1092
+            ]
+          ],
+          "text": "concepto a la Asociación Bioquímica de Mendoza, atento a que la gestión",
+          "score": 0.9625037908554077
+        },
+        {
+          "bbox": [
+            [
+              6,
+              1107
+            ],
+            [
+              1087,
+              1127
+            ],
+            [
+              1087,
+              1170
+            ],
+            [
+              5,
+              1150
+            ]
+          ],
+          "text": "colaborativa desplegada por “LA Asociación\", es realizada por cuenta y orden",
+          "score": 0.9749003052711487
+        },
+        {
+          "bbox": [
+            [
+              8,
+              1174
+            ],
+            [
+              376,
+              1174
+            ],
+            [
+              376,
+              1204
+            ],
+            [
+              8,
+              1204
+            ]
+          ],
+          "text": "exclusiva de “LA CLíNiCA\", --",
+          "score": 0.883497416973114
+        },
+        {
+          "bbox": [
+            [
+              5,
+              1220
+            ],
+            [
+              1088,
+              1250
+            ],
+            [
+              1086,
+              1289
+            ],
+            [
+              4,
+              1260
+            ]
+          ],
+          "text": "CLÁusuLA sÉptiMA - DÉBiTos: Los débitos parciales o totales por cualquier concepto",
+          "score": 0.9350451827049255
+        },
+        {
+          "bbox": [
+            [
+              4,
+              1281
+            ],
+            [
+              1069,
+              1312
+            ],
+            [
+              1068,
+              1349
+            ],
+            [
+              3,
+              1318
+            ]
+          ],
+          "text": "que las Obrgs Sociales, Prepaga, Institutos de Salud, o entes análogos con los mismos",
+          "score": 0.9908801913261414
+        },
+        {
+          "bbox": [
+            [
+              35,
+              1338
+            ],
+            [
+              279,
+              1340
+            ],
+            [
+              279,
+              1367
+            ],
+            [
+              34,
+              1365
+            ]
+          ],
+          "text": "Bioq. PABL TORNELLO",
+          "score": 0.9582403898239136
+        },
+        {
+          "bbox": [
+            [
+              427,
+              1356
+            ],
+            [
+              584,
+              1362
+            ],
+            [
+              583,
+              1397
+            ],
+            [
+              426,
+              1391
+            ]
+          ],
+          "text": ")uunu",
+          "score": 0.6939588189125061
+        },
+        {
+          "bbox": [
+            [
+              98,
+              1366
+            ],
+            [
+              219,
+              1366
+            ],
+            [
+              219,
+              1386
+            ],
+            [
+              98,
+              1386
+            ]
+          ],
+          "text": "SECRETARIO",
+          "score": 0.9863731265068054
+        },
+        {
+          "bbox": [
+            [
+              33,
+              1385
+            ],
+            [
+              282,
+              1390
+            ],
+            [
+              282,
+              1410
+            ],
+            [
+              32,
+              1406
+            ]
+          ],
+          "text": "Asociación Bioguimica de Mendoza",
+          "score": 0.9520360231399536
+        },
+        {
+          "bbox": [
+            [
+              386,
+              1393
+            ],
+            [
+              632,
+              1399
+            ],
+            [
+              631,
+              1426
+            ],
+            [
+              386,
+              1421
+            ]
+          ],
+          "text": "Bioq. MARÍA BEATRIZ DAMIANI",
+          "score": 0.9575639367103577
+        },
+        {
+          "bbox": [
+            [
+              451,
+              1422
+            ],
+            [
+              567,
+              1425
+            ],
+            [
+              566,
+              1446
+            ],
+            [
+              450,
+              1443
+            ]
+          ],
+          "text": "PRESIDENTE",
+          "score": 0.9994187355041504
+        },
+        {
+          "bbox": [
+            [
+              386,
+              1441
+            ],
+            [
+              634,
+              1447
+            ],
+            [
+              633,
+              1470
+            ],
+            [
+              386,
+              1464
+            ]
+          ],
+          "text": "Asociación Bioquímica de Mendoza",
+          "score": 0.9889366030693054
+        },
+        {
+          "bbox": [
+            [
+              33,
+              1458
+            ],
+            [
+              401,
+              1479
+            ],
+            [
+              399,
+              1506
+            ],
+            [
+              32,
+              1484
+            ]
+          ],
+          "text": "Belgrano 925 , Ciudad de Mendoza.",
+          "score": 0.9670419692993164
+        },
+        {
+          "bbox": [
+            [
+              517,
+              1484
+            ],
+            [
+              753,
+              1497
+            ],
+            [
+              752,
+              1527
+            ],
+            [
+              516,
+              1514
+            ]
+          ],
+          "text": "(0261) 4412350/60",
+          "score": 0.9995366334915161
+        },
+        {
+          "bbox": [
+            [
+              417,
+              1535
+            ],
+            [
+              589,
+              1547
+            ],
+            [
+              587,
+              1574
+            ],
+            [
+              415,
+              1562
+            ]
+          ],
+          "text": "www.abm.org.ar",
+          "score": 0.9998615384101868
+        }
+      ]
+    },
+    {
+      "pagina": 5,
+      "image_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\temp_proceso\\LEGAJOS_18082025_141516_264780_p5.png",
+      "items": [
+        {
+          "bbox": [
+            [
+              884,
+              21
+            ],
+            [
+              1009,
+              21
+            ],
+            [
+              1009,
+              110
+            ],
+            [
+              884,
+              110
+            ]
+          ],
+          "text": "ARM",
+          "score": 0.8283071517944336
+        },
+        {
+          "bbox": [
+            [
+              802,
+              112
+            ],
+            [
+              1083,
+              105
+            ],
+            [
+              1083,
+              133
+            ],
+            [
+              803,
+              139
+            ]
+          ],
+          "text": "ASOCIACION BIOQUIMICA",
+          "score": 0.9960779547691345
+        },
+        {
+          "bbox": [
+            [
+              867,
+              136
+            ],
+            [
+              1022,
+              132
+            ],
+            [
+              1023,
+              160
+            ],
+            [
+              868,
+              164
+            ]
+          ],
+          "text": "DE MENDOZA",
+          "score": 0.9804670214653015
+        },
+        {
+          "bbox": [
+            [
+              15,
+              237
+            ],
+            [
+              1088,
+              222
+            ],
+            [
+              1088,
+              258
+            ],
+            [
+              15,
+              272
+            ]
+          ],
+          "text": "fines, aplique a las prestaciones facturadas serán comunicados a “LA clínicA\", para",
+          "score": 0.9838817715644836
+        },
+        {
+          "bbox": [
+            [
+              5,
+              294
+            ],
+            [
+              1089,
+              282
+            ],
+            [
+              1089,
+              315
+            ],
+            [
+              5,
+              327
+            ]
+          ],
+          "text": "su conocimiento. En estos casos la “LA AsociAción\" se compromete a gestionar, si",
+          "score": 0.9748245477676392
+        },
+        {
+          "bbox": [
+            [
+              6,
+              353
+            ],
+            [
+              1087,
+              341
+            ],
+            [
+              1087,
+              371
+            ],
+            [
+              6,
+              383
+            ]
+          ],
+          "text": "correspondiere, todos los reclamos respectivos tendientes a la restitución, devolución o",
+          "score": 0.9877896904945374
+        },
+        {
+          "bbox": [
+            [
+              5,
+              409
+            ],
+            [
+              1088,
+              397
+            ],
+            [
+              1088,
+              427
+            ],
+            [
+              5,
+              438
+            ]
+          ],
+          "text": "reintegro de los montos debitados o rechazados, indebidamente por las Ooss o",
+          "score": 0.9845299124717712
+        },
+        {
+          "bbox": [
+            [
+              6,
+              466
+            ],
+            [
+              549,
+              457
+            ],
+            [
+              550,
+              487
+            ],
+            [
+              6,
+              496
+            ]
+          ],
+          "text": "Prepagas incluidas en el “Anexo l\". --.....-.",
+          "score": 0.9403809309005737
+        },
+        {
+          "bbox": [
+            [
+              5,
+              514
+            ],
+            [
+              1089,
+              508
+            ],
+            [
+              1089,
+              545
+            ],
+            [
+              5,
+              551
+            ]
+          ],
+          "text": "CLÁUSULA OCTAVA - OBLIGACIONES - DEBERES - PROHIBICIONES:\"LA CLÍNICA\", se",
+          "score": 0.967624306678772
+        },
+        {
+          "bbox": [
+            [
+              4,
+              570
+            ],
+            [
+              1089,
+              562
+            ],
+            [
+              1089,
+              603
+            ],
+            [
+              4,
+              610
+            ]
+          ],
+          "text": "compromete a colocar a disposición de la “LA AsociAción\" en el tiempo y la forma",
+          "score": 0.981475830078125
+        },
+        {
+          "bbox": [
+            [
+              7,
+              630
+            ],
+            [
+              1087,
+              624
+            ],
+            [
+              1087,
+              657
+            ],
+            [
+              7,
+              663
+            ]
+          ],
+          "text": "que ésta le señale, todas las órdenes bioquímicas a gestionar con su respectiva",
+          "score": 0.9868188500404358
+        },
+        {
+          "bbox": [
+            [
+              7,
+              687
+            ],
+            [
+              1087,
+              682
+            ],
+            [
+              1087,
+              713
+            ],
+            [
+              7,
+              718
+            ]
+          ],
+          "text": "documentación complementaria, necesaria para la efectivización de la prestación",
+          "score": 0.9966477155685425
+        },
+        {
+          "bbox": [
+            [
+              6,
+              744
+            ],
+            [
+              1089,
+              737
+            ],
+            [
+              1089,
+              771
+            ],
+            [
+              6,
+              778
+            ]
+          ],
+          "text": "colaborativa encomendada. Del mismo modo ser reitera que la “LA AsociAción”, no",
+          "score": 0.9861338138580322
+        },
+        {
+          "bbox": [
+            [
+              5,
+              800
+            ],
+            [
+              1090,
+              797
+            ],
+            [
+              1090,
+              831
+            ],
+            [
+              5,
+              834
+            ]
+          ],
+          "text": "será responsable por los débitos en facturas, descuentos y/o rechazos efectuados o",
+          "score": 0.994711697101593
+        },
+        {
+          "bbox": [
+            [
+              5,
+              853
+            ],
+            [
+              1092,
+              854
+            ],
+            [
+              1092,
+              891
+            ],
+            [
+              5,
+              890
+            ]
+          ],
+          "text": "realizados por las Obras Sociales y Prepagas, en razón de las ordenes bioquímicas",
+          "score": 0.9858289361000061
+        },
+        {
+          "bbox": [
+            [
+              3,
+              901
+            ],
+            [
+              1095,
+              906
+            ],
+            [
+              1095,
+              950
+            ],
+            [
+              3,
+              945
+            ]
+          ],
+          "text": "pertenecientes a “LA ClínicA\". Por otra parte “LA ClínicA\" se compromete a designar",
+          "score": 0.9510050415992737
+        },
+        {
+          "bbox": [
+            [
+              7,
+              961
+            ],
+            [
+              1093,
+              967
+            ],
+            [
+              1093,
+              1005
+            ],
+            [
+              7,
+              999
+            ]
+          ],
+          "text": "un bioquímico/a, quien será el profesional referente y único responsable a cargo de las",
+          "score": 0.9949219822883606
+        },
+        {
+          "bbox": [
+            [
+              6,
+              1016
+            ],
+            [
+              1092,
+              1027
+            ],
+            [
+              1092,
+              1065
+            ],
+            [
+              6,
+              1053
+            ]
+          ],
+          "text": "prácticas bioquímicas frente a la “LA Asociación” o frente a cualquier tercero, que",
+          "score": 0.9851962327957153
+        },
+        {
+          "bbox": [
+            [
+              7,
+              1075
+            ],
+            [
+              1092,
+              1086
+            ],
+            [
+              1092,
+              1120
+            ],
+            [
+              7,
+              1109
+            ]
+          ],
+          "text": "se encuentren incluidas en cada orden de análisis ingresada para su gestión de cobro.",
+          "score": 0.9997697472572327
+        },
+        {
+          "bbox": [
+            [
+              9,
+              1134
+            ],
+            [
+              1087,
+              1143
+            ],
+            [
+              1087,
+              1174
+            ],
+            [
+              9,
+              1165
+            ]
+          ],
+          "text": "Cabe mencionar que el bioquímico/a responsable a designarse por “LA clínicA”,",
+          "score": 0.9749254584312439
+        },
+        {
+          "bbox": [
+            [
+              9,
+              1189
+            ],
+            [
+              1089,
+              1201
+            ],
+            [
+              1089,
+              1234
+            ],
+            [
+              9,
+              1221
+            ]
+          ],
+          "text": "deberá ser asociado de la Asociación Bioquímica de Mendoza, con cuota al día",
+          "score": 0.9794551730155945
+        },
+        {
+          "bbox": [
+            [
+              6,
+              1245
+            ],
+            [
+              1091,
+              1259
+            ],
+            [
+              1091,
+              1293
+            ],
+            [
+              6,
+              1279
+            ]
+          ],
+          "text": "quedando sometido/a a la aplicación de toda la normativa estatutaria y",
+          "score": 0.9855455756187439
+        },
+        {
+          "bbox": [
+            [
+              6,
+              1300
+            ],
+            [
+              603,
+              1310
+            ],
+            [
+              603,
+              1344
+            ],
+            [
+              6,
+              1334
+            ]
+          ],
+          "text": "reglamentaria vigente de la “LA Asociación”.",
+          "score": 0.9535868167877197
+        },
+        {
+          "bbox": [
+            [
+              450,
+              1352
+            ],
+            [
+              607,
+              1351
+            ],
+            [
+              607,
+              1386
+            ],
+            [
+              450,
+              1388
+            ]
+          ],
+          "text": "DuDeu",
+          "score": 0.4463273882865906
+        },
+        {
+          "bbox": [
+            [
+              42,
+              1364
+            ],
+            [
+              285,
+              1373
+            ],
+            [
+              284,
+              1401
+            ],
+            [
+              41,
+              1392
+            ]
+          ],
+          "text": "Bioq. PABLO TORNELLO",
+          "score": 0.9278780817985535
+        },
+        {
+          "bbox": [
+            [
+              374,
+              1382
+            ],
+            [
+              622,
+              1396
+            ],
+            [
+              620,
+              1422
+            ],
+            [
+              372,
+              1408
+            ]
+          ],
+          "text": "Bioq. MARÍA BEATRIZ DAMIANI",
+          "score": 0.9532203674316406
+        },
+        {
+          "bbox": [
+            [
+              104,
+              1392
+            ],
+            [
+              225,
+              1397
+            ],
+            [
+              224,
+              1417
+            ],
+            [
+              103,
+              1412
+            ]
+          ],
+          "text": "SECRETRIO",
+          "score": 0.8734195828437805
+        },
+        {
+          "bbox": [
+            [
+              28,
+              1408
+            ],
+            [
+              287,
+              1420
+            ],
+            [
+              286,
+              1443
+            ],
+            [
+              27,
+              1432
+            ]
+          ],
+          "text": "Asociación Bioquimica de Mendoza",
+          "score": 0.9328243732452393
+        },
+        {
+          "bbox": [
+            [
+              438,
+              1413
+            ],
+            [
+              557,
+              1420
+            ],
+            [
+              556,
+              1439
+            ],
+            [
+              437,
+              1433
+            ]
+          ],
+          "text": "PRESIDENTE",
+          "score": 0.9994980096817017
+        },
+        {
+          "bbox": [
+            [
+              372,
+              1428
+            ],
+            [
+              621,
+              1443
+            ],
+            [
+              619,
+              1465
+            ],
+            [
+              370,
+              1451
+            ]
+          ],
+          "text": "Asociación Bioquímica de Mendoza",
+          "score": 0.9719223976135254
+        },
+        {
+          "bbox": [
+            [
+              36,
+              1471
+            ],
+            [
+              403,
+              1494
+            ],
+            [
+              401,
+              1518
+            ],
+            [
+              35,
+              1495
+            ]
+          ],
+          "text": "Belgrano 925 , Ciudad de Mendoza.",
+          "score": 0.9735403060913086
+        },
+        {
+          "bbox": [
+            [
+              517,
+              1495
+            ],
+            [
+              754,
+              1505
+            ],
+            [
+              753,
+              1532
+            ],
+            [
+              516,
+              1522
+            ]
+          ],
+          "text": "(0261) 4412350/60",
+          "score": 0.9783363342285156
+        },
+        {
+          "bbox": [
+            [
+              823,
+              1508
+            ],
+            [
+              1078,
+              1519
+            ],
+            [
+              1077,
+              1546
+            ],
+            [
+              822,
+              1535
+            ]
+          ],
+          "text": "secretaria@abm.org.ar",
+          "score": 0.999891459941864
+        },
+        {
+          "bbox": [
+            [
+              420,
+              1548
+            ],
+            [
+              591,
+              1558
+            ],
+            [
+              589,
+              1583
+            ],
+            [
+              419,
+              1573
+            ]
+          ],
+          "text": "www.abm.org.ar",
+          "score": 0.9998641014099121
+        }
+      ]
+    },
+    {
+      "pagina": 6,
+      "image_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\temp_proceso\\LEGAJOS_18082025_141516_264780_p6.png",
+      "items": [
+        {
+          "bbox": [
+            [
+              881,
+              3
+            ],
+            [
+              1009,
+              3
+            ],
+            [
+              1009,
+              91
+            ],
+            [
+              881,
+              91
+            ]
+          ],
+          "text": "ABM",
+          "score": 0.7671810984611511
+        },
+        {
+          "bbox": [
+            [
+              802,
+              89
+            ],
+            [
+              1081,
+              86
+            ],
+            [
+              1081,
+              113
+            ],
+            [
+              802,
+              117
+            ]
+          ],
+          "text": "ASOCIACION BIOQUIMICA",
+          "score": 0.985962450504303
+        },
+        {
+          "bbox": [
+            [
+              866,
+              115
+            ],
+            [
+              1016,
+              112
+            ],
+            [
+              1017,
+              137
+            ],
+            [
+              866,
+              140
+            ]
+          ],
+          "text": "DE MENDOZA",
+          "score": 0.9475358128547668
+        },
+        {
+          "bbox": [
+            [
+              13,
+              155
+            ],
+            [
+              1084,
+              145
+            ],
+            [
+              1084,
+              182
+            ],
+            [
+              13,
+              192
+            ]
+          ],
+          "text": "CLÁUSULA NOVENA - REsCISIóN UNILATERAL: La falta de canCelaCión de dos o más",
+          "score": 0.9326677918434143
+        },
+        {
+          "bbox": [
+            [
+              11,
+              217
+            ],
+            [
+              1080,
+              204
+            ],
+            [
+              1080,
+              238
+            ],
+            [
+              11,
+              251
+            ]
+          ],
+          "text": "liquidaciones dentro del término de sesenta (60) días hábiles desde su confección,",
+          "score": 0.9811863899230957
+        },
+        {
+          "bbox": [
+            [
+              10,
+              273
+            ],
+            [
+              1081,
+              262
+            ],
+            [
+              1081,
+              296
+            ],
+            [
+              10,
+              307
+            ]
+          ],
+          "text": "faculta a “LA clínicA”, a disponer la suspensión de la prestación realizada por “LA",
+          "score": 0.9783782958984375
+        },
+        {
+          "bbox": [
+            [
+              9,
+              328
+            ],
+            [
+              1080,
+              319
+            ],
+            [
+              1080,
+              354
+            ],
+            [
+              9,
+              364
+            ]
+          ],
+          "text": "AsociAción”. Todo ello sin perjuicio de las acciones tendientes al cobro en mora.",
+          "score": 0.9781226515769958
+        },
+        {
+          "bbox": [
+            [
+              7,
+              382
+            ],
+            [
+              984,
+              375
+            ],
+            [
+              984,
+              413
+            ],
+            [
+              7,
+              420
+            ]
+          ],
+          "text": "Asimismo, el incumplimiento de esta cláusula faculta a “LA clínicA” a dar por",
+          "score": 0.9887378215789795
+        },
+        {
+          "bbox": [
+            [
+              7,
+              446
+            ],
+            [
+              423,
+              440
+            ],
+            [
+              424,
+              470
+            ],
+            [
+              7,
+              476
+            ]
+          ],
+          "text": "rescindido el presente convenio.",
+          "score": 0.9881292581558228
+        },
+        {
+          "bbox": [
+            [
+              7,
+              493
+            ],
+            [
+              1084,
+              494
+            ],
+            [
+              1084,
+              528
+            ],
+            [
+              7,
+              527
+            ]
+          ],
+          "text": "CLÁUSULA DÉCIMA - CONVENIO DE CONFIDENCIALIDAD: MedianTela SUSCripCIÓN del",
+          "score": 0.932473361492157
+        },
+        {
+          "bbox": [
+            [
+              6,
+              550
+            ],
+            [
+              1084,
+              548
+            ],
+            [
+              1084,
+              584
+            ],
+            [
+              6,
+              586
+            ]
+          ],
+          "text": "presente “CONVENIO DE COLABORACIÓN\",se COMprOmete \"LA ASOCIACIÓN\"a",
+          "score": 0.9160920977592468
+        },
+        {
+          "bbox": [
+            [
+              8,
+              608
+            ],
+            [
+              1085,
+              609
+            ],
+            [
+              1085,
+              643
+            ],
+            [
+              8,
+              642
+            ]
+          ],
+          "text": "guardar la máxima reserva y secreto sobre los datos e información a que acceda en",
+          "score": 0.9918754696846008
+        },
+        {
+          "bbox": [
+            [
+              9,
+              668
+            ],
+            [
+              1082,
+              668
+            ],
+            [
+              1082,
+              698
+            ],
+            [
+              9,
+              698
+            ]
+          ],
+          "text": "virtud_de la_ prestación_ de colaboración pautada, a utilizar_ dicha_ información",
+          "score": 0.9326642155647278
+        },
+        {
+          "bbox": [
+            [
+              8,
+              725
+            ],
+            [
+              1083,
+              725
+            ],
+            [
+              1083,
+              758
+            ],
+            [
+              8,
+              758
+            ]
+          ],
+          "text": "solamente para el fin específico al que se la ha destinado en este contrato, a no",
+          "score": 0.9946863651275635
+        },
+        {
+          "bbox": [
+            [
+              5,
+              781
+            ],
+            [
+              1086,
+              780
+            ],
+            [
+              1086,
+              816
+            ],
+            [
+              5,
+              817
+            ]
+          ],
+          "text": "comunicar o hacer pública la información no clasificada como “pública”, y a observar",
+          "score": 0.9839021563529968
+        },
+        {
+          "bbox": [
+            [
+              5,
+              839
+            ],
+            [
+              1085,
+              839
+            ],
+            [
+              1085,
+              873
+            ],
+            [
+              5,
+              873
+            ]
+          ],
+          "text": "y adoptar cuantas medidas de seguridad sean necesarias para asegurar la",
+          "score": 0.9839379787445068
+        },
+        {
+          "bbox": [
+            [
+              5,
+              892
+            ],
+            [
+              1086,
+              895
+            ],
+            [
+              1086,
+              932
+            ],
+            [
+              5,
+              929
+            ]
+          ],
+          "text": "confidencialidad, secreto e integridad de los datos e información, salvo autorización",
+          "score": 0.9977027177810669
+        },
+        {
+          "bbox": [
+            [
+              5,
+              947
+            ],
+            [
+              1088,
+              954
+            ],
+            [
+              1088,
+              991
+            ],
+            [
+              5,
+              984
+            ]
+          ],
+          "text": "legal o instrucción expresa de la autoridad competente. Esta obligación de reserva y",
+          "score": 0.9936065673828125
+        },
+        {
+          "bbox": [
+            [
+              5,
+              1003
+            ],
+            [
+              1086,
+              1011
+            ],
+            [
+              1086,
+              1048
+            ],
+            [
+              5,
+              1039
+            ]
+          ],
+          "text": "confidencialidad seguirá en vigencia aún después del vencimiento del plazo, de la",
+          "score": 0.9934048056602478
+        },
+        {
+          "bbox": [
+            [
+              5,
+              1060
+            ],
+            [
+              1085,
+              1070
+            ],
+            [
+              1085,
+              1104
+            ],
+            [
+              5,
+              1094
+            ]
+          ],
+          "text": "rescisión o resolución de este convenio y/o de sus adendas, o cese o interrupción de la",
+          "score": 0.9927030801773071
+        },
+        {
+          "bbox": [
+            [
+              6,
+              1118
+            ],
+            [
+              468,
+              1122
+            ],
+            [
+              468,
+              1155
+            ],
+            [
+              6,
+              1151
+            ]
+          ],
+          "text": "prestación colaborativa convenida.",
+          "score": 0.9966588616371155
+        },
+        {
+          "bbox": [
+            [
+              5,
+              1173
+            ],
+            [
+              1083,
+              1184
+            ],
+            [
+              1083,
+              1218
+            ],
+            [
+              5,
+              1207
+            ]
+          ],
+          "text": "CLÁUSULA DECIMOPRIMERA - MODIFICACIONES Y COMUNICACIONES ELECTRÓNICAS:",
+          "score": 0.9947090148925781
+        },
+        {
+          "bbox": [
+            [
+              5,
+              1232
+            ],
+            [
+              1083,
+              1244
+            ],
+            [
+              1083,
+              1277
+            ],
+            [
+              5,
+              1264
+            ]
+          ],
+          "text": "Las partes acuerdan que toda modificación, enmienda, adenda, instrucción,",
+          "score": 0.9782309532165527
+        },
+        {
+          "bbox": [
+            [
+              5,
+              1285
+            ],
+            [
+              1084,
+              1303
+            ],
+            [
+              1084,
+              1335
+            ],
+            [
+              5,
+              1318
+            ]
+          ],
+          "text": "modificación de anexos o cualquier otro elemento derivado del presente “convenio",
+          "score": 0.9951543807983398
+        },
+        {
+          "bbox": [
+            [
+              4,
+              1337
+            ],
+            [
+              1071,
+              1362
+            ],
+            [
+              1070,
+              1402
+            ],
+            [
+              3,
+              1377
+            ]
+          ],
+          "text": "DE CoLABORAción\" que sea comunicado por medios electrónicos, incluyendo pero",
+          "score": 0.9559647440910339
+        },
+        {
+          "bbox": [
+            [
+              55,
+              1379
+            ],
+            [
+              300,
+              1385
+            ],
+            [
+              300,
+              1413
+            ],
+            [
+              54,
+              1407
+            ]
+          ],
+          "text": "Bioq. PABLO TORNELLO",
+          "score": 0.9552570581436157
+        },
+        {
+          "bbox": [
+            [
+              438,
+              1383
+            ],
+            [
+              616,
+              1392
+            ],
+            [
+              614,
+              1427
+            ],
+            [
+              436,
+              1418
+            ]
+          ],
+          "text": "n",
+          "score": 0.3303779363632202
+        },
+        {
+          "bbox": [
+            [
+              120,
+              1408
+            ],
+            [
+              242,
+              1410
+            ],
+            [
+              241,
+              1432
+            ],
+            [
+              119,
+              1430
+            ]
+          ],
+          "text": "SECRETARIO",
+          "score": 0.9660733938217163
+        },
+        {
+          "bbox": [
+            [
+              405,
+              1412
+            ],
+            [
+              653,
+              1422
+            ],
+            [
+              652,
+              1449
+            ],
+            [
+              404,
+              1438
+            ]
+          ],
+          "text": "Bioq. MARÍA BEATRIZ DAMIANI",
+          "score": 0.9178246855735779
+        },
+        {
+          "bbox": [
+            [
+              41,
+              1424
+            ],
+            [
+              302,
+              1432
+            ],
+            [
+              302,
+              1456
+            ],
+            [
+              40,
+              1448
+            ]
+          ],
+          "text": "Asoclación Broquinica de Mendoza",
+          "score": 0.9167808294296265
+        },
+        {
+          "bbox": [
+            [
+              470,
+              1442
+            ],
+            [
+              587,
+              1448
+            ],
+            [
+              586,
+              1469
+            ],
+            [
+              469,
+              1463
+            ]
+          ],
+          "text": "PRESIDENTE",
+          "score": 0.999538779258728
+        },
+        {
+          "bbox": [
+            [
+              34,
+              1460
+            ],
+            [
+              401,
+              1479
+            ],
+            [
+              399,
+              1503
+            ],
+            [
+              33,
+              1484
+            ]
+          ],
+          "text": "Belgrano 925 , Ciudad de Mendoza.",
+          "score": 0.9882081747055054
+        },
+        {
+          "bbox": [
+            [
+              405,
+              1460
+            ],
+            [
+              652,
+              1472
+            ],
+            [
+              651,
+              1493
+            ],
+            [
+              404,
+              1481
+            ]
+          ],
+          "text": "Asociación Bioquímica de Mendoza",
+          "score": 0.9893477559089661
+        },
+        {
+          "bbox": [
+            [
+              477,
+              1479
+            ],
+            [
+              753,
+              1488
+            ],
+            [
+              752,
+              1516
+            ],
+            [
+              476,
+              1507
+            ]
+          ],
+          "text": "(0261) 4412350/60",
+          "score": 0.9536815881729126
+        },
+        {
+          "bbox": [
+            [
+              823,
+              1492
+            ],
+            [
+              1072,
+              1500
+            ],
+            [
+              1071,
+              1527
+            ],
+            [
+              822,
+              1519
+            ]
+          ],
+          "text": "secretaria@abm.org.ar",
+          "score": 0.9998741149902344
+        },
+        {
+          "bbox": [
+            [
+              417,
+              1531
+            ],
+            [
+              591,
+              1540
+            ],
+            [
+              590,
+              1564
+            ],
+            [
+              416,
+              1555
+            ]
+          ],
+          "text": "www.abm.org.ar",
+          "score": 0.9999065399169922
+        }
+      ]
+    },
+    {
+      "pagina": 7,
+      "image_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\temp_proceso\\LEGAJOS_18082025_141516_264780_p7.png",
+      "items": [
+        {
+          "bbox": [
+            [
+              880,
+              0
+            ],
+            [
+              1001,
+              0
+            ],
+            [
+              1001,
+              85
+            ],
+            [
+              880,
+              85
+            ]
+          ],
+          "text": "ARM",
+          "score": 0.8748704791069031
+        },
+        {
+          "bbox": [
+            [
+              806,
+              84
+            ],
+            [
+              1082,
+              84
+            ],
+            [
+              1082,
+              111
+            ],
+            [
+              806,
+              111
+            ]
+          ],
+          "text": "ASOCIACION BIOQUIMICA",
+          "score": 0.990249514579773
+        },
+        {
+          "bbox": [
+            [
+              867,
+              110
+            ],
+            [
+              1020,
+              110
+            ],
+            [
+              1020,
+              134
+            ],
+            [
+              867,
+              134
+            ]
+          ],
+          "text": "DE MENDOZA",
+          "score": 0.9547370076179504
+        },
+        {
+          "bbox": [
+            [
+              15,
+              157
+            ],
+            [
+              1084,
+              142
+            ],
+            [
+              1084,
+              178
+            ],
+            [
+              16,
+              193
+            ]
+          ],
+          "text": "no limitándose a correos electrónicos u otras plataformas digitales previamente",
+          "score": 0.9819974303245544
+        },
+        {
+          "bbox": [
+            [
+              7,
+              216
+            ],
+            [
+              1086,
+              202
+            ],
+            [
+              1086,
+              239
+            ],
+            [
+              7,
+              253
+            ]
+          ],
+          "text": "acordadas, será considerado parte integrante del convenio y tendrá plena validez y",
+          "score": 0.9916024804115295
+        },
+        {
+          "bbox": [
+            [
+              8,
+              274
+            ],
+            [
+              1084,
+              261
+            ],
+            [
+              1084,
+              298
+            ],
+            [
+              8,
+              311
+            ]
+          ],
+          "text": "eficacia jurídica, siempre que dichas comunicaciones sean emitidas por representantes",
+          "score": 0.9946847558021545
+        },
+        {
+          "bbox": [
+            [
+              8,
+              334
+            ],
+            [
+              942,
+              319
+            ],
+            [
+              943,
+              355
+            ],
+            [
+              8,
+              370
+            ]
+          ],
+          "text": "autorizados y/o delegados y/o administrativos designados por cada parte.-",
+          "score": 0.9915904402732849
+        },
+        {
+          "bbox": [
+            [
+              5,
+              386
+            ],
+            [
+              1085,
+              378
+            ],
+            [
+              1085,
+              416
+            ],
+            [
+              5,
+              424
+            ]
+          ],
+          "text": "CLÁUSULA DECIMOSEGUNDA - DOMICILIOS: Para todos los efeCtos judiciales y",
+          "score": 0.90196293592453
+        },
+        {
+          "bbox": [
+            [
+              5,
+              447
+            ],
+            [
+              1084,
+              437
+            ],
+            [
+              1084,
+              474
+            ],
+            [
+              5,
+              484
+            ]
+          ],
+          "text": "extrajudiciales emergentes del presente contrato, las partes constituyen domicilio en los",
+          "score": 0.9954043030738831
+        },
+        {
+          "bbox": [
+            [
+              6,
+              506
+            ],
+            [
+              1083,
+              499
+            ],
+            [
+              1083,
+              533
+            ],
+            [
+              6,
+              540
+            ]
+          ],
+          "text": "\"ut supra\" denunciados, tanto en los domicilios físicos como en los domicilios",
+          "score": 0.9746121168136597
+        },
+        {
+          "bbox": [
+            [
+              7,
+              564
+            ],
+            [
+              1084,
+              559
+            ],
+            [
+              1084,
+              592
+            ],
+            [
+              7,
+              597
+            ]
+          ],
+          "text": "electrónicos, donde tendrán indistintamente pleno efecto y validez todas las",
+          "score": 0.9760684967041016
+        },
+        {
+          "bbox": [
+            [
+              9,
+              626
+            ],
+            [
+              387,
+              623
+            ],
+            [
+              387,
+              651
+            ],
+            [
+              9,
+              654
+            ]
+          ],
+          "text": "notificaciones que se remitan.",
+          "score": 0.9998503923416138
+        },
+        {
+          "bbox": [
+            [
+              7,
+              678
+            ],
+            [
+              1084,
+              676
+            ],
+            [
+              1084,
+              710
+            ],
+            [
+              7,
+              712
+            ]
+          ],
+          "text": "CLÁUSULA DECIMOTERCERA - COMPETENCIA: Ambas partes se sOmeten a la",
+          "score": 0.9114149808883667
+        },
+        {
+          "bbox": [
+            [
+              8,
+              741
+            ],
+            [
+              1083,
+              739
+            ],
+            [
+              1083,
+              770
+            ],
+            [
+              8,
+              772
+            ]
+          ],
+          "text": "competencia ordinaria de los Juzgados de la Ciudad de Mendoza, renunciando",
+          "score": 0.9807018637657166
+        },
+        {
+          "bbox": [
+            [
+              8,
+              802
+            ],
+            [
+              1082,
+              798
+            ],
+            [
+              1082,
+              829
+            ],
+            [
+              8,
+              833
+            ]
+          ],
+          "text": "expresamente a cualquier otro fuero y/o jurisdicción que pudiera corresponderles. -----",
+          "score": 0.9944072365760803
+        },
+        {
+          "bbox": [
+            [
+              7,
+              857
+            ],
+            [
+              1088,
+              859
+            ],
+            [
+              1088,
+              892
+            ],
+            [
+              7,
+              890
+            ]
+          ],
+          "text": "Para constancia y fiel cumplimiento de lo pactado de buena fe, las partes suscriben",
+          "score": 0.9900913238525391
+        },
+        {
+          "bbox": [
+            [
+              6,
+              912
+            ],
+            [
+              1086,
+              916
+            ],
+            [
+              1086,
+              952
+            ],
+            [
+              6,
+              948
+            ]
+          ],
+          "text": "dos ejemplares de un mismo tenor y un solo efecto a través de medios electrónicos. --",
+          "score": 0.9955240488052368
+        },
+        {
+          "bbox": [
+            [
+              355,
+              963
+            ],
+            [
+              566,
+              968
+            ],
+            [
+              565,
+              1006
+            ],
+            [
+              354,
+              1001
+            ]
+          ],
+          "text": "AmiXu",
+          "score": 0.3082612156867981
+        },
+        {
+          "bbox": [
+            [
+              42,
+              1004
+            ],
+            [
+              283,
+              994
+            ],
+            [
+              284,
+              1021
+            ],
+            [
+              43,
+              1031
+            ]
+          ],
+          "text": "Bioq. PABLO FÓRNELLO",
+          "score": 0.9368235468864441
+        },
+        {
+          "bbox": [
+            [
+              104,
+              1028
+            ],
+            [
+              224,
+              1023
+            ],
+            [
+              225,
+              1044
+            ],
+            [
+              105,
+              1049
+            ]
+          ],
+          "text": "SECRETARIO",
+          "score": 0.9661895632743835
+        },
+        {
+          "bbox": [
+            [
+              340,
+              1025
+            ],
+            [
+              588,
+              1028
+            ],
+            [
+              588,
+              1056
+            ],
+            [
+              339,
+              1053
+            ]
+          ],
+          "text": "Bioq. MARÍA BEATRIZ DAMIANI",
+          "score": 0.9785358905792236
+        },
+        {
+          "bbox": [
+            [
+              38,
+              1050
+            ],
+            [
+              288,
+              1042
+            ],
+            [
+              289,
+              1066
+            ],
+            [
+              39,
+              1074
+            ]
+          ],
+          "text": "Asociacion Bioduimica de Mendoza",
+          "score": 0.9708613157272339
+        },
+        {
+          "bbox": [
+            [
+              404,
+              1056
+            ],
+            [
+              524,
+              1056
+            ],
+            [
+              524,
+              1076
+            ],
+            [
+              404,
+              1076
+            ]
+          ],
+          "text": "PRESIDENTE",
+          "score": 0.9993959665298462
+        },
+        {
+          "bbox": [
+            [
+              342,
+              1077
+            ],
+            [
+              588,
+              1077
+            ],
+            [
+              588,
+              1098
+            ],
+            [
+              342,
+              1098
+            ]
+          ],
+          "text": "Asociación Bioquímica de Mendoza",
+          "score": 0.9932335615158081
+        },
+        {
+          "bbox": [
+            [
+              0,
+              1477
+            ],
+            [
+              25,
+              1479
+            ],
+            [
+              22,
+              1515
+            ],
+            [
+              0,
+              1514
+            ]
+          ],
+          "text": "9",
+          "score": 0.23063822090625763
+        },
+        {
+          "bbox": [
+            [
+              36,
+              1483
+            ],
+            [
+              401,
+              1513
+            ],
+            [
+              399,
+              1540
+            ],
+            [
+              34,
+              1510
+            ]
+          ],
+          "text": "Belgrano 925 , Ciudad de Mendoza.",
+          "score": 0.9995291829109192
+        },
+        {
+          "bbox": [
+            [
+              517,
+              1517
+            ],
+            [
+              753,
+              1526
+            ],
+            [
+              752,
+              1556
+            ],
+            [
+              516,
+              1547
+            ]
+          ],
+          "text": "(0261) 4412350/60",
+          "score": 0.9995955228805542
+        },
+        {
+          "bbox": [
+            [
+              419,
+              1567
+            ],
+            [
+              593,
+              1581
+            ],
+            [
+              591,
+              1609
+            ],
+            [
+              417,
+              1595
+            ]
+          ],
+          "text": "www.abm.org.ar",
+          "score": 0.9998389482498169
+        }
+      ]
+    },
+    {
+      "pagina": 8,
+      "image_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\temp_proceso\\LEGAJOS_18082025_141516_264780_p8.png",
+      "items": [
+        {
+          "bbox": [
+            [
+              884,
+              43
+            ],
+            [
+              1001,
+              40
+            ],
+            [
+              1003,
+              121
+            ],
+            [
+              886,
+              124
+            ]
+          ],
+          "text": "ARM",
+          "score": 0.8790368437767029
+        },
+        {
+          "bbox": [
+            [
+              807,
+              125
+            ],
+            [
+              1079,
+              120
+            ],
+            [
+              1079,
+              147
+            ],
+            [
+              808,
+              152
+            ]
+          ],
+          "text": "ASOCIACION BIOQUIMICA",
+          "score": 0.9848853349685669
+        },
+        {
+          "bbox": [
+            [
+              866,
+              151
+            ],
+            [
+              1017,
+              147
+            ],
+            [
+              1018,
+              171
+            ],
+            [
+              866,
+              175
+            ]
+          ],
+          "text": "DE MENDOZA",
+          "score": 0.993297278881073
+        },
+        {
+          "bbox": [
+            [
+              484,
+              187
+            ],
+            [
+              627,
+              186
+            ],
+            [
+              628,
+              222
+            ],
+            [
+              484,
+              223
+            ]
+          ],
+          "text": "ANEXO I",
+          "score": 0.9773120284080505
+        },
+        {
+          "bbox": [
+            [
+              13,
+              251
+            ],
+            [
+              204,
+              257
+            ],
+            [
+              203,
+              285
+            ],
+            [
+              12,
+              279
+            ]
+          ],
+          "text": "PRESTACIONES",
+          "score": 0.9998008608818054
+        },
+        {
+          "bbox": [
+            [
+              8,
+              308
+            ],
+            [
+              1056,
+              311
+            ],
+            [
+              1056,
+              345
+            ],
+            [
+              8,
+              342
+            ]
+          ],
+          "text": "I.- CONTROL, AUDITORÍA Y GESTIÓN DE COBRANZAS DE OBRAS SOCIALES Y PREPAGAS",
+          "score": 0.9903303384780884
+        },
+        {
+          "bbox": [
+            [
+              9,
+              350
+            ],
+            [
+              174,
+              355
+            ],
+            [
+              173,
+              386
+            ],
+            [
+              8,
+              381
+            ]
+          ],
+          "text": "CAPITADAS.",
+          "score": 0.997979462146759
+        },
+        {
+          "bbox": [
+            [
+              8,
+              392
+            ],
+            [
+              1067,
+              396
+            ],
+            [
+              1067,
+              430
+            ],
+            [
+              8,
+              426
+            ]
+          ],
+          "text": "a) PAMI: Limite de 900 órdenes por mes, con revisión trimestral de la conveniencia de",
+          "score": 0.9910764098167419
+        },
+        {
+          "bbox": [
+            [
+              8,
+              436
+            ],
+            [
+              322,
+              439
+            ],
+            [
+              322,
+              469
+            ],
+            [
+              8,
+              466
+            ]
+          ],
+          "text": "la cantidad ingresada. -",
+          "score": 0.9924187660217285
+        },
+        {
+          "bbox": [
+            [
+              8,
+              476
+            ],
+            [
+              274,
+              480
+            ],
+            [
+              273,
+              511
+            ],
+            [
+              8,
+              507
+            ]
+          ],
+          "text": "b) OSEP: Sin Límite. -",
+          "score": 0.9637854099273682
+        },
+        {
+          "bbox": [
+            [
+              8,
+              516
+            ],
+            [
+              1067,
+              519
+            ],
+            [
+              1067,
+              552
+            ],
+            [
+              8,
+              549
+            ]
+          ],
+          "text": "II. - CONTROL, AUDITORÍA Y GESTIÓN DE COBRANZAS DE OBRAS SOCIALES Y PREPAGAS",
+          "score": 0.9889881014823914
+        },
+        {
+          "bbox": [
+            [
+              11,
+              559
+            ],
+            [
+              221,
+              565
+            ],
+            [
+              220,
+              593
+            ],
+            [
+              10,
+              587
+            ]
+          ],
+          "text": "NO CAPITADAS.",
+          "score": 0.9996235966682434
+        },
+        {
+          "bbox": [
+            [
+              12,
+              601
+            ],
+            [
+              276,
+              606
+            ],
+            [
+              275,
+              636
+            ],
+            [
+              11,
+              631
+            ]
+          ],
+          "text": "a) OSDE: Sin Límite. -",
+          "score": 0.9631271362304688
+        },
+        {
+          "bbox": [
+            [
+              10,
+              641
+            ],
+            [
+              582,
+              649
+            ],
+            [
+              582,
+              683
+            ],
+            [
+              10,
+              675
+            ]
+          ],
+          "text": "b) RESTO DE LOS FINANCIADORES: Sin LÍmite. -",
+          "score": 0.9797796010971069
+        },
+        {
+          "bbox": [
+            [
+              12,
+              684
+            ],
+            [
+              779,
+              691
+            ],
+            [
+              779,
+              721
+            ],
+            [
+              12,
+              714
+            ]
+          ],
+          "text": "III.- PROVEEDURÍA DE INSUMOS Y ADQUISICIONES CONJUNTAS",
+          "score": 0.9776492118835449
+        },
+        {
+          "bbox": [
+            [
+              12,
+              728
+            ],
+            [
+              684,
+              735
+            ],
+            [
+              684,
+              765
+            ],
+            [
+              12,
+              758
+            ]
+          ],
+          "text": "a) Programa de compras y adquisiciones conjuntas. -",
+          "score": 0.9904922842979431
+        },
+        {
+          "bbox": [
+            [
+              13,
+              771
+            ],
+            [
+              865,
+              781
+            ],
+            [
+              865,
+              809
+            ],
+            [
+              13,
+              799
+            ]
+          ],
+          "text": "b) Acceso a los insumos y aparatología de la proveeduría de ABM, -",
+          "score": 0.9874681234359741
+        },
+        {
+          "bbox": [
+            [
+              14,
+              814
+            ],
+            [
+              294,
+              817
+            ],
+            [
+              294,
+              841
+            ],
+            [
+              14,
+              838
+            ]
+          ],
+          "text": "IV.- CAPACITACIONES",
+          "score": 0.9742490649223328
+        },
+        {
+          "bbox": [
+            [
+              12,
+              854
+            ],
+            [
+              976,
+              867
+            ],
+            [
+              976,
+              897
+            ],
+            [
+              12,
+              884
+            ]
+          ],
+          "text": "a) Participación en el programa de capacitaciones certificadas de la ABM. -",
+          "score": 0.989342451095581
+        },
+        {
+          "bbox": [
+            [
+              13,
+              896
+            ],
+            [
+              274,
+              899
+            ],
+            [
+              274,
+              923
+            ],
+            [
+              13,
+              920
+            ]
+          ],
+          "text": "V.- ASESORAMIENTO",
+          "score": 0.9927259087562561
+        },
+        {
+          "bbox": [
+            [
+              11,
+              935
+            ],
+            [
+              1045,
+              951
+            ],
+            [
+              1044,
+              984
+            ],
+            [
+              11,
+              968
+            ]
+          ],
+          "text": "a) Por el asesoramiento permanente en derivaciones de prácticas bioquímicas de",
+          "score": 0.9940432906150818
+        },
+        {
+          "bbox": [
+            [
+              12,
+              975
+            ],
+            [
+              582,
+              989
+            ],
+            [
+              581,
+              1019
+            ],
+            [
+              11,
+              1005
+            ]
+          ],
+          "text": "mediana y alta complejidad (derivaciones). -",
+          "score": 0.9994869828224182
+        },
+        {
+          "bbox": [
+            [
+              9,
+              1015
+            ],
+            [
+              1042,
+              1035
+            ],
+            [
+              1041,
+              1072
+            ],
+            [
+              8,
+              1052
+            ]
+          ],
+          "text": "b) Por la actualización, cambios o nuevas normas aplicables en materia de NBU. -",
+          "score": 0.9815505743026733
+        },
+        {
+          "bbox": [
+            [
+              10,
+              1057
+            ],
+            [
+              865,
+              1074
+            ],
+            [
+              864,
+              1110
+            ],
+            [
+              9,
+              1093
+            ]
+          ],
+          "text": "VI.- BIOQUIMICO REFERENTE INICIAL ASOCIADA (DIRECTOR TÉCNICO)",
+          "score": 0.9905358552932739
+        },
+        {
+          "bbox": [
+            [
+              58,
+              1101
+            ],
+            [
+              957,
+              1124
+            ],
+            [
+              956,
+              1153
+            ],
+            [
+              57,
+              1130
+            ]
+          ],
+          "text": ")/ Bioquímica Natalia Florencia Díaz, Matrícula Nº 1356, DNI 29.224.651.-",
+          "score": 0.9661261439323425
+        },
+        {
+          "bbox": [
+            [
+              402,
+              1155
+            ],
+            [
+              560,
+              1161
+            ],
+            [
+              559,
+              1196
+            ],
+            [
+              401,
+              1190
+            ]
+          ],
+          "text": "muemu",
+          "score": 0.4207685887813568
+        },
+        {
+          "bbox": [
+            [
+              40,
+              1169
+            ],
+            [
+              287,
+              1172
+            ],
+            [
+              287,
+              1199
+            ],
+            [
+              39,
+              1196
+            ]
+          ],
+          "text": "Bioq.PABLO TORNELLO",
+          "score": 0.9414200782775879
+        },
+        {
+          "bbox": [
+            [
+              99,
+              1196
+            ],
+            [
+              225,
+              1198
+            ],
+            [
+              225,
+              1219
+            ],
+            [
+              99,
+              1217
+            ]
+          ],
+          "text": "SECRETARIO",
+          "score": 0.9736148715019226
+        },
+        {
+          "bbox": [
+            [
+              352,
+              1194
+            ],
+            [
+              599,
+              1198
+            ],
+            [
+              599,
+              1225
+            ],
+            [
+              351,
+              1221
+            ]
+          ],
+          "text": "Bioq. MARÍA BEATRIZ DAMIANI",
+          "score": 0.9568966031074524
+        },
+        {
+          "bbox": [
+            [
+              38,
+              1214
+            ],
+            [
+              290,
+              1219
+            ],
+            [
+              290,
+              1243
+            ],
+            [
+              37,
+              1238
+            ]
+          ],
+          "text": "Asbciacion Bioquímica de Mendoza",
+          "score": 0.9290563464164734
+        },
+        {
+          "bbox": [
+            [
+              417,
+              1221
+            ],
+            [
+              536,
+              1224
+            ],
+            [
+              535,
+              1244
+            ],
+            [
+              416,
+              1241
+            ]
+          ],
+          "text": "PRESIDENTE",
+          "score": 0.9994916915893555
+        },
+        {
+          "bbox": [
+            [
+              353,
+              1240
+            ],
+            [
+              599,
+              1246
+            ],
+            [
+              599,
+              1266
+            ],
+            [
+              352,
+              1260
+            ]
+          ],
+          "text": "Asociación Bioquímica de Mendoza",
+          "score": 0.9959498643875122
+        },
+        {
+          "bbox": [
+            [
+              37,
+              1464
+            ],
+            [
+              407,
+              1480
+            ],
+            [
+              405,
+              1507
+            ],
+            [
+              36,
+              1491
+            ]
+          ],
+          "text": "Belgrano 925 , Ciudad de Mendoza.",
+          "score": 0.9920607805252075
+        },
+        {
+          "bbox": [
+            [
+              486,
+              1487
+            ],
+            [
+              756,
+              1502
+            ],
+            [
+              755,
+              1526
+            ],
+            [
+              485,
+              1511
+            ]
+          ],
+          "text": "(0261) 4412350/60",
+          "score": 0.9703698754310608
+        },
+        {
+          "bbox": [
+            [
+              825,
+              1506
+            ],
+            [
+              1079,
+              1518
+            ],
+            [
+              1077,
+              1542
+            ],
+            [
+              824,
+              1530
+            ]
+          ],
+          "text": "secretaria@abm.org.ar",
+          "score": 0.9999165534973145
+        },
+        {
+          "bbox": [
+            [
+              423,
+              1533
+            ],
+            [
+              594,
+              1545
+            ],
+            [
+              592,
+              1571
+            ],
+            [
+              421,
+              1559
+            ]
+          ],
+          "text": "www.abm.org.ar",
+          "score": 0.9998196959495544
+        }
+      ]
+    }
+  ]
+}

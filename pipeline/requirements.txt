@@ -1,0 +1,10 @@
+paddlepaddle
+paddleocr
+pillow
+opencv-python
+numpy
+requests
+tqdm
+pydantic
+python-dateutil
+PyMuPDF

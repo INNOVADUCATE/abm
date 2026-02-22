@@ -1,0 +1,518 @@
+{
+  "documento": "LEGAJOS_19112025_131317_319029.pdf",
+  "document_id": "c2404a061e33f27c",
+  "paginas": [
+    {
+      "pagina": 1,
+      "image_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\temp_proceso\\LEGAJOS_19112025_131317_319029_p1.png",
+      "items": [
+        {
+          "bbox": [
+            [
+              684,
+              86
+            ],
+            [
+              1062,
+              83
+            ],
+            [
+              1062,
+              111
+            ],
+            [
+              684,
+              114
+            ]
+          ],
+          "text": "Mendoza, 19 de noviembre de 2025",
+          "score": 0.9946892261505127
+        },
+        {
+          "bbox": [
+            [
+              120,
+              141
+            ],
+            [
+              656,
+              144
+            ],
+            [
+              656,
+              178
+            ],
+            [
+              120,
+              175
+            ]
+          ],
+          "text": "A la Asociación Bioquímica de Mendoza (ABM)",
+          "score": 0.9994975328445435
+        },
+        {
+          "bbox": [
+            [
+              123,
+              173
+            ],
+            [
+              368,
+              178
+            ],
+            [
+              367,
+              206
+            ],
+            [
+              122,
+              201
+            ]
+          ],
+          "text": "Dra. Beatriz Damiani",
+          "score": 0.9856525659561157
+        },
+        {
+          "bbox": [
+            [
+              122,
+              233
+            ],
+            [
+              225,
+              237
+            ],
+            [
+              223,
+              269
+            ],
+            [
+              121,
+              265
+            ]
+          ],
+          "text": "Presente",
+          "score": 0.9999791979789734
+        },
+        {
+          "bbox": [
+            [
+              124,
+              297
+            ],
+            [
+              433,
+              297
+            ],
+            [
+              433,
+              324
+            ],
+            [
+              124,
+              324
+            ]
+          ],
+          "text": "De mi mayor consideración:",
+          "score": 0.9916502237319946
+        },
+        {
+          "bbox": [
+            [
+              122,
+              354
+            ],
+            [
+              1050,
+              352
+            ],
+            [
+              1050,
+              386
+            ],
+            [
+              122,
+              388
+            ]
+          ],
+          "text": "Por medio de la presente, dejo constancia de que asumo plena responsabilidad por el",
+          "score": 0.9895192384719849
+        },
+        {
+          "bbox": [
+            [
+              127,
+              389
+            ],
+            [
+              754,
+              389
+            ],
+            [
+              754,
+              413
+            ],
+            [
+              127,
+              413
+            ]
+          ],
+          "text": "cambio de cuenta bancaria informado a esta Asociación.",
+          "score": 0.9960602521896362
+        },
+        {
+          "bbox": [
+            [
+              125,
+              447
+            ],
+            [
+              525,
+              450
+            ],
+            [
+              525,
+              477
+            ],
+            [
+              125,
+              474
+            ]
+          ],
+          "text": "Se detallan datos correspondientes:",
+          "score": 0.9867436289787292
+        },
+        {
+          "bbox": [
+            [
+              124,
+              504
+            ],
+            [
+              475,
+              506
+            ],
+            [
+              475,
+              534
+            ],
+            [
+              124,
+              532
+            ]
+          ],
+          "text": "Titular/es: Renato Luis C D Inca",
+          "score": 0.980843186378479
+        },
+        {
+          "bbox": [
+            [
+              125,
+              563
+            ],
+            [
+              495,
+              567
+            ],
+            [
+              495,
+              598
+            ],
+            [
+              124,
+              593
+            ]
+          ],
+          "text": "CBU: 19101165-55111600272149",
+          "score": 0.9978511929512024
+        },
+        {
+          "bbox": [
+            [
+              124,
+              624
+            ],
+            [
+              396,
+              631
+            ],
+            [
+              396,
+              662
+            ],
+            [
+              123,
+              655
+            ]
+          ],
+          "text": "Banco: Banco Credicoop",
+          "score": 0.997311532497406
+        },
+        {
+          "bbox": [
+            [
+              126,
+              684
+            ],
+            [
+              437,
+              688
+            ],
+            [
+              436,
+              719
+            ],
+            [
+              125,
+              715
+            ]
+          ],
+          "text": "CUIT CUIL: 20-93493526-9",
+          "score": 0.999661922454834
+        },
+        {
+          "bbox": [
+            [
+              126,
+              746
+            ],
+            [
+              479,
+              749
+            ],
+            [
+              479,
+              777
+            ],
+            [
+              126,
+              774
+            ]
+          ],
+          "text": "Alias: CESPED.CHINA.CETRO",
+          "score": 0.9986721873283386
+        },
+        {
+          "bbox": [
+            [
+              125,
+              812
+            ],
+            [
+              544,
+              812
+            ],
+            [
+              544,
+              836
+            ],
+            [
+              125,
+              836
+            ]
+          ],
+          "text": "Número de cuenta: CA$116-002721/4",
+          "score": 0.9989343285560608
+        },
+        {
+          "bbox": [
+            [
+              120,
+              872
+            ],
+            [
+              1064,
+              866
+            ],
+            [
+              1064,
+              896
+            ],
+            [
+              120,
+              902
+            ]
+          ],
+          "text": "Asimismo, me comprometo a brindar toda la documentación respaldatoria necesaria",
+          "score": 0.9937068819999695
+        },
+        {
+          "bbox": [
+            [
+              119,
+              901
+            ],
+            [
+              1063,
+              895
+            ],
+            [
+              1063,
+              926
+            ],
+            [
+              119,
+              932
+            ]
+          ],
+          "text": "en caso de que la ARCA requiera realizar una inspección o verificación sobre dicho",
+          "score": 0.9955918192863464
+        },
+        {
+          "bbox": [
+            [
+              120,
+              933
+            ],
+            [
+              974,
+              928
+            ],
+            [
+              974,
+              958
+            ],
+            [
+              120,
+              963
+            ]
+          ],
+          "text": "cambio, garantizando la transparencia y trazabilidad de la información aportada.",
+          "score": 0.9990596771240234
+        },
+        {
+          "bbox": [
+            [
+              118,
+              992
+            ],
+            [
+              976,
+              986
+            ],
+            [
+              976,
+              1016
+            ],
+            [
+              118,
+              1023
+            ]
+          ],
+          "text": "Agradezco tener por recibida la presente notificación y quedo a disposición para",
+          "score": 0.9889154434204102
+        },
+        {
+          "bbox": [
+            [
+              119,
+              1026
+            ],
+            [
+              450,
+              1020
+            ],
+            [
+              451,
+              1047
+            ],
+            [
+              120,
+              1053
+            ]
+          ],
+          "text": "cualquier aclaración adicional.",
+          "score": 0.9998883605003357
+        },
+        {
+          "bbox": [
+            [
+              119,
+              1086
+            ],
+            [
+              269,
+              1086
+            ],
+            [
+              269,
+              1114
+            ],
+            [
+              119,
+              1114
+            ]
+          ],
+          "text": "Atentamente,",
+          "score": 0.999884843826294
+        },
+        {
+          "bbox": [
+            [
+              408,
+              1167
+            ],
+            [
+              425,
+              1167
+            ],
+            [
+              425,
+              1185
+            ],
+            [
+              408,
+              1185
+            ]
+          ],
+          "text": "/",
+          "score": 0.49028295278549194
+        },
+        {
+          "bbox": [
+            [
+              521,
+              1179
+            ],
+            [
+              802,
+              1168
+            ],
+            [
+              804,
+              1227
+            ],
+            [
+              523,
+              1238
+            ]
+          ],
+          "text": "Reneto D'INes",
+          "score": 0.8395054936408997
+        },
+        {
+          "bbox": [
+            [
+              521,
+              1259
+            ],
+            [
+              724,
+              1250
+            ],
+            [
+              726,
+              1302
+            ],
+            [
+              523,
+              1310
+            ]
+          ],
+          "text": "93493526",
+          "score": 0.6235263347625732
+        }
+      ]
+    }
+  ]
+}

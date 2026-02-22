@@ -1,0 +1,96 @@
+DOCUMENTO: LEGAJOS_13052025_151933_209855.pdf
+DOCUMENT_ID: f6e6f7bc5e9df2cc
+FECHA_PROCESO: 2026-02-22T21:25:06Z
+FUENTE: PaddleOCR(lang='es')
+============================================================
+
+--- PÁGINA 1 ---
+A
+FACTurA N° 0009 = 00002909
+P. GAGLIARDI 3650
+MENDOZA - ARGENTINA
+FECHA: 12/05/25
+TE.: 0261-4268253
+CUIT: 30715010565
+IVA Responsable Inscripto
+COD. 01
+IIBB: 0743731
+Inicio de actividades: 01/01/17
+Página 1 de 1
+Asociacion Bioquimica De Mendoza (54550865)
+N° Documento:
+Belgrano 925 0
+CUIT: 30545508652
+iviendoza Ciudad (5500)
+Responsable Inscripto
+Mendoza, Argentina
+Saldo al 12/05/25:$ 1634710.00
+Vendedor: DANI NOLI
+Artículo
+Color
+Talle
+Cantidad
+Precio
+% Des.
+Mto. des.
+Monto
+10070054
+ANTICIPO PRESL
+50.00
+27,020.00
+1,351,000.00
+Filas: 1
+Cantidad total:
+50.00 Ajustes por redondeos
+Desp. importación:
+Subtotal
+1,351,000.00
+Descuento
+Recargo
+Valor
+Fecha
+N° int.
+Recibido
+Impuesto
+%
+Base
+Monto
+C
+CUENTA CORRIE 12/05/25
+1,634,710.00
+I.V.A.
+21.00
+1,351,000.00
+283,710.00
+Total Impuestos
+283,710.00
+Vuelto
+TOTAL
+$
+1,634,710.00
+Observaciones:
+CAE N°: 75195732688419
+FECHA VTO: 22/5/2025
+FECHA IMP.: 12/5/2025
+
+--- PÁGINA 2 ---
+Nación Empresa
+a24
+CONSULTA DE CBU
+FECHA CONSULTA:
+27/12/2021
+HORA CONSULTA: 13:45
+CUIT:
+30717087840
+RAZÓN SOCIAL:
+GASU SAS
+TIPO CUENTA
+03 - CC $
+NÚMERO CUENTA
+13558420030899
+CBU
+0110842020084200308995
+ALIAS
+GASU.ARGENTINA
+LINK
+

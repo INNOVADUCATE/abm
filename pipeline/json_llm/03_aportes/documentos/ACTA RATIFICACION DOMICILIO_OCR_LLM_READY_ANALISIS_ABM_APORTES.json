@@ -1,0 +1,71 @@
+{
+  "schema": "abm_doc_aportes_v1",
+  "fecha_proceso": "2026-02-22T18:24:21",
+  "socio_uid": "5f524284ac3f2afb",
+  "document_id": "5f524284ac3f2afb",
+  "input_doc_clasificado": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\02_clasificado\\documentos\\ACTA RATIFICACION DOMICILIO_OCR_LLM_READY_ANALISIS_ABM_CLASIFICADO.json",
+  "input_txt_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\00_ocr\\ACTA RATIFICACION DOMICILIO_OCR_LLM_READY.txt",
+  "clasificacion": {
+    "tipos": [
+      {
+        "tipo": "titulo_habilitante",
+        "confianza": "media",
+        "score": 2
+      }
+    ],
+    "heuristica_scores": {
+      "dni": 0,
+      "afip_arca": 0,
+      "ingresos_brutos_atm": 0,
+      "titulo_habilitante": 2,
+      "matricula_profesional": 0,
+      "sss_prestador": 0,
+      "seguro_mala_praxis": 0,
+      "habilitacion_laboratorio": 0,
+      "designacion_director_tecnico": 0,
+      "adhesion_abm": 0,
+      "adhesion_osep": 0,
+      "adhesion_pami": 0,
+      "aceptacion_pago_convenios": 0,
+      "cuenta_bancaria": 0,
+      "otros": 0
+    },
+    "llm": {
+      "usado": false,
+      "model": null,
+      "error": null
+    }
+  },
+  "campos_aportados": {
+    "dni": null,
+    "cuil_cuit": null,
+    "matricula": null,
+    "nombre_completo": null,
+    "direccion": null,
+    "localidad": "mendoza"
+  },
+  "aportes": [
+    {
+      "tipo_documento": "titulo_habilitante",
+      "aporte_key": "profesion.titulo_habilitante",
+      "vence": false,
+      "prioridad": "alta",
+      "vigencia": {
+        "desde": null,
+        "hasta": null,
+        "fuente": null,
+        "confianza": null,
+        "evidencia": []
+      }
+    }
+  ],
+  "vencimientos_detectados": {
+    "profesion.titulo_habilitante": {
+      "vence": false,
+      "prioridad": "alta",
+      "desde": null,
+      "hasta": null,
+      "fuente": null
+    }
+  }
+}

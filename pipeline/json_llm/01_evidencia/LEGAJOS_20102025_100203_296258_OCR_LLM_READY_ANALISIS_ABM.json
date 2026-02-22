@@ -1,0 +1,42 @@
+{
+  "document_id": "c8f25d7d13c75e91",
+  "cliente_id": "NOMBRE_LEGAJOS",
+  "campos": {
+    "dni": "20102025",
+    "cuil_cuit": "27-29125435-2",
+    "nombre_completo": "SILLERO LORENA MIRTA - C.U.I.T.: --. DENOMINADO FLOR DE LIS.",
+    "direccion": null,
+    "localidad": "mendoza",
+    "matricula": null,
+    "laboratorio": null,
+    "tipo_persona": null
+  },
+  "documentos_detectados_preliminar": {
+    "dni": true,
+    "titulo": false,
+    "matricula_actualizada": false,
+    "constancia_cuit": false,
+    "seguro_mala_praxis": false,
+    "adhesion_pami": false,
+    "adhesion_osep": false
+  },
+  "evidencia": {
+    "dni_candidatos": [
+      "20102025"
+    ],
+    "dni_mrz": [],
+    "cuit_candidatos": [
+      "27-29125435-2"
+    ],
+    "matricula_candidatos": [],
+    "keywords": {
+      "dni": true,
+      "osep": false,
+      "pami": false,
+      "seguro": false,
+      "mala_praxis": false
+    }
+  },
+  "faltantes": [],
+  "txt_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\00_ocr\\LEGAJOS_20102025_100203_296258_OCR_LLM_READY.txt"
+}

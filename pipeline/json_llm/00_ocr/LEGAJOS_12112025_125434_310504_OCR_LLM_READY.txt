@@ -1,0 +1,35 @@
+DOCUMENTO: LEGAJOS_12112025_125434_310504.pdf
+DOCUMENT_ID: c5a00cddc4a57263
+FECHA_PROCESO: 2026-02-22T21:24:58Z
+FUENTE: PaddleOCR(lang='es')
+============================================================
+
+--- PÁGINA 1 ---
+SSalud
+Ministerio de Salud
+Presidencia de la Nación
+SUPERINTENDENCIA
+DE SERVICIOSDESALUD
+Registro Nacional de Prestadores
+Ley Nro 23.661
+Certificado de Inscripción de Profesionales
+Apellido y Nombre: FERNANDEZ MUÑOZ, JUAN MANUEL
+Nro Certificado: 501763
+DNI: 32355042
+CUIL: 20323550426
+Profesión
+Nro Matricula
+Provincia
+Bioquímico
+1652
+Mendoza
+Vigencia del Certificado
+Lic. Pablo Saavedra
+Fecha Inicio: 18-03-2025
+Subgerente de Control Prestacional
+Fecha Fin: 18-03-2030
+Gerencia de Control Prestacional
+Superintendencia de Servicios de Salud
+Para verificar el presente Certificado escanee el código y acceda a su información en línea.
+El presente Certificado carecerá de validez en caso de contener tachaduras o enmiendas
+

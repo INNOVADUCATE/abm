@@ -1,0 +1,64 @@
+[22:03:24] [INFO] [pipeline] Procesando ESCUDERO ASAN ANTONELLA OSEP.pdf
+[22:03:26] [INFO] [pipeline] 15 páginas renderizadas
+[22:03:26] [INFO] [pipeline] OCR página 1/15
+[22:03:26] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[22:03:29] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[22:03:32] [INFO] [pipeline] OCR página 1 OK (chars=498)
+[22:03:32] [INFO] [pipeline] OCR página 2/15
+[22:03:35] [INFO] [pipeline] OCR página 2 OK (chars=299)
+[22:03:35] [INFO] [pipeline] OCR página 3/15
+[22:03:38] [INFO] [pipeline] OCR página 3 OK (chars=663)
+[22:03:38] [INFO] [pipeline] OCR página 4/15
+[22:03:40] [INFO] [pipeline] OCR página 4 OK (chars=193)
+[22:03:40] [INFO] [pipeline] OCR página 5/15
+[22:03:44] [INFO] [pipeline] OCR página 5 OK (chars=652)
+[22:03:44] [INFO] [pipeline] OCR página 6/15
+[22:03:46] [INFO] [pipeline] OCR página 6 OK (chars=385)
+[22:03:46] [INFO] [pipeline] OCR página 7/15
+[22:03:50] [INFO] [pipeline] OCR página 7 OK (chars=877)
+[22:03:50] [INFO] [pipeline] OCR página 8/15
+[22:03:53] [INFO] [pipeline] OCR página 8 OK (chars=623)
+[22:03:53] [INFO] [pipeline] OCR página 9/15
+[22:03:58] [INFO] [pipeline] OCR página 9 OK (chars=2930)
+[22:03:58] [INFO] [pipeline] OCR página 10/15
+[22:04:03] [INFO] [pipeline] OCR página 10 OK (chars=1439)
+[22:04:03] [INFO] [pipeline] OCR página 11/15
+[22:04:06] [INFO] [pipeline] OCR página 11 OK (chars=834)
+[22:04:06] [INFO] [pipeline] OCR página 12/15
+[22:04:09] [INFO] [pipeline] OCR página 12 OK (chars=541)
+[22:04:09] [INFO] [pipeline] OCR página 13/15
+[22:04:13] [INFO] [pipeline] OCR página 13 OK (chars=1169)
+[22:04:13] [INFO] [pipeline] OCR página 14/15
+[22:04:17] [INFO] [pipeline] OCR página 14 OK (chars=1147)
+[22:04:17] [INFO] [pipeline] OCR página 15/15
+[22:04:21] [INFO] [pipeline] OCR página 15 OK (chars=1067)
+[22:04:21] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\ESCUDERO ASAN ANTONELLA OSEP_OCR_LLM_READY.txt
+[22:04:21] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\ESCUDERO ASAN ANTONELLA OSEP_OCR_LLM_READY_RAW.json
+[22:04:21] [INFO] [pipeline] Procesamiento completado en 56.83s
+[22:04:21] [INFO] [pipeline] Procesando ESCUDERO ASAN ANTONELLA.pdf
+[22:04:22] [INFO] [pipeline] 13 páginas renderizadas
+[22:04:22] [INFO] [pipeline] OCR página 1/13
+[22:04:22] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[22:04:24] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[22:04:27] [INFO] [pipeline] OCR página 1 OK (chars=511)
+[22:04:27] [INFO] [pipeline] OCR página 2/13
+[22:04:30] [INFO] [pipeline] OCR página 2 OK (chars=289)
+[22:04:30] [INFO] [pipeline] OCR página 3/13
+[22:04:33] [INFO] [pipeline] OCR página 3 OK (chars=666)
+[22:04:33] [INFO] [pipeline] OCR página 4/13
+[22:04:35] [INFO] [pipeline] OCR página 4 OK (chars=207)
+[22:04:35] [INFO] [pipeline] OCR página 5/13
+[22:04:38] [INFO] [pipeline] OCR página 5 OK (chars=647)
+[22:04:38] [INFO] [pipeline] OCR página 6/13
+[22:04:41] [INFO] [pipeline] OCR página 6 OK (chars=387)
+[22:04:41] [INFO] [pipeline] OCR página 7/13
+[22:04:44] [INFO] [pipeline] OCR página 7 OK (chars=877)
+[22:04:44] [INFO] [pipeline] OCR página 8/13
+[22:04:47] [INFO] [pipeline] OCR página 8 OK (chars=623)
+[22:04:47] [INFO] [pipeline] OCR página 9/13
+[22:04:53] [INFO] [pipeline] OCR página 9 OK (chars=2911)
+[22:04:53] [INFO] [pipeline] OCR página 10/13
+[22:04:58] [INFO] [pipeline] OCR página 10 OK (chars=1416)
+[22:04:58] [INFO] [pipeline] OCR página 11/13
+[22:05:01] [INFO] [pipeline] OCR página 11 OK (chars=834)
+[22:05:01] [INFO] [pipeline] OCR página 12/13

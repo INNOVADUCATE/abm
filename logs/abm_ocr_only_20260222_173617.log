@@ -1,0 +1,9 @@
+[17:36:17] [INFO] [pipeline] Procesando ACTA RATIFICACION DOMICILIO.pdf
+[17:36:17] [INFO] [pipeline] 1 páginas renderizadas
+[17:36:17] [INFO] [pipeline] OCR página 1/1
+[17:36:17] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[17:36:21] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[17:36:26] [INFO] [pipeline] OCR página 1 OK (chars=1060)
+[17:36:26] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\runs\ocr_only_out\ACTA RATIFICACION DOMICILIO_OCR_LLM_READY.txt
+[17:36:26] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\ACTA RATIFICACION DOMICILIO_OCR_LLM_READY_RAW.json
+[17:36:26] [INFO] [pipeline] Procesamiento completado en 9.20s

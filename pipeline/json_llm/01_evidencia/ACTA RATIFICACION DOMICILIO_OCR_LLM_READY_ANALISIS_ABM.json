@@ -1,0 +1,38 @@
+{
+  "document_id": "5f524284ac3f2afb",
+  "cliente_id": "NOMBRE_ACTA RATIFICACION DOMICILIO",
+  "campos": {
+    "dni": null,
+    "cuil_cuit": null,
+    "nombre_completo": null,
+    "direccion": null,
+    "localidad": "mendoza",
+    "matricula": null,
+    "laboratorio": null,
+    "tipo_persona": null
+  },
+  "documentos_detectados_preliminar": {
+    "dni": false,
+    "titulo": false,
+    "matricula_actualizada": false,
+    "constancia_cuit": false,
+    "seguro_mala_praxis": false,
+    "adhesion_pami": false,
+    "adhesion_osep": false
+  },
+  "evidencia": {
+    "dni_candidatos": [],
+    "dni_mrz": [],
+    "cuit_candidatos": [],
+    "matricula_candidatos": [],
+    "keywords": {
+      "dni": true,
+      "osep": false,
+      "pami": false,
+      "seguro": false,
+      "mala_praxis": false
+    }
+  },
+  "faltantes": [],
+  "txt_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\00_ocr\\ACTA RATIFICACION DOMICILIO_OCR_LLM_READY.txt"
+}
