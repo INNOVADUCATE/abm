@@ -514,8 +514,13 @@ def build_notificaciones(items_eval):
 
 def process_socio_file(p: Path, requisitos, dias_prox: int):
     socio = json.loads(p.read_text(encoding="utf-8", errors="ignore"))
+    file_uid = p.stem
+    if file_uid.startswith("SOCIO_"):
+        file_uid = file_uid[len("SOCIO_"):]
+    if file_uid.endswith("_APORTES"):
+        file_uid = file_uid[:-len("_APORTES")]
 
-    socio_uid_safe = socio.get("socio_uid_safe") or safe_uid(p.stem.replace("SOCIO_", ""))
+    socio_uid_safe = socio.get("socio_uid_safe") or safe_uid(file_uid)
     hoy = today_local()
 
     aportes_resumen = socio.get("aportes_resumen") or {}

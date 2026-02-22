@@ -175,6 +175,19 @@ def ensure_dirs(ocr_output_dir: Path) -> None:
         d.mkdir(parents=True, exist_ok=True)
 
 
+def discover_aportes_socios_files(aportes_socios_dir: Path) -> List[Path]:
+    """Compatibilidad: acepta SOCIO_<uid>.json y SOCIO_<uid>_APORTES.json."""
+    if not aportes_socios_dir.exists():
+        return []
+
+    by_name: Dict[str, Path] = {}
+    for path in sorted(aportes_socios_dir.glob("SOCIO_*.json")):
+        by_name[path.name] = path
+    for path in sorted(aportes_socios_dir.glob("SOCIO_*_APORTES.json")):
+        by_name[path.name] = path
+    return sorted(by_name.values())
+
+
 def _clean_str(value: Any) -> str:
     if value is None:
         return ""
@@ -916,6 +929,8 @@ def run_pipeline(
             socio_path.write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding="utf-8")
             resumen["socios_aportes"] += 1
 
+        print(f"[03_aportes] socios detectados: {len(consol_aportes)}")
+
         resumen_estado = {
             "schema": "abm_resumen_estado_v1",
             "fecha_proceso": datetime.now().isoformat(timespec="seconds"),
@@ -924,15 +939,20 @@ def run_pipeline(
             "socios": [],
         }
 
-        for socio_path in APORTES_SOCIOS_DIR.glob("SOCIO_*.json"):
+        socios_aportes_inputs = discover_aportes_socios_files(APORTES_SOCIOS_DIR)
+        socios_estado_ok = 0
+        for socio_path in socios_aportes_inputs:
             try:
-                socio_uid_safe, out_estado = process_socio_file(socio_path, DEFAULT_REQUISITOS, dias_prox)
+                socio_uid_safe, out_estado, _ = process_socio_file(socio_path, DEFAULT_REQUISITOS, dias_prox)
                 out_path = OUT_ESTADO_SOCIOS_DIR / f"SOCIO_{socio_uid_safe}_ESTADO.json"
                 atomic_json_write(out_path, out_estado)
                 resumen_estado["socios"].append(out_path.name)
                 resumen["socios_estado"] += 1
+                socios_estado_ok += 1
             except Exception:
                 continue
+
+        print(f"[04_estado] socios consumidos: {socios_estado_ok} (inputs detectados: {len(socios_aportes_inputs)})")
 
         atomic_json_write(OUT_ESTADO_RESUMEN, resumen_estado)
 
@@ -953,6 +973,7 @@ def run_pipeline(
                     detalle_tecnico=str(exc),
                 )
 
+        perfiles_emitidos = 0
         for estado_path in OUT_ESTADO_SOCIOS_DIR.glob("*.json"):
             try:
                 socio_json = json.loads(estado_path.read_text(encoding="utf-8"))
@@ -1037,8 +1058,11 @@ def run_pipeline(
 
                 write_socio_profile(profile, OUT_PERFILES_DIR)
                 write_txt(profile, OUT_PERFILES_DIR)
+                perfiles_emitidos += 1
             except Exception:
                 continue
+
+        print(f"[05_perfiles_socios] perfiles emitidos: {perfiles_emitidos}")
     finally:
         process_logger.write(resumen)
         state_conn.close()
