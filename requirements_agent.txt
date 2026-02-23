@@ -1,0 +1,9 @@
+# ABM Agent + OpenClaw requirements
+# Install with: pip install -r requirements_agent.txt
+
+# Required
+psutil>=5.9.0
+
+# Already in your stack (listed for completeness)
+# paddlepaddle or paddlepaddle-gpu  ← OCR
+# openai or anthropic               ← LLM

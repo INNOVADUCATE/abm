@@ -1,0 +1,83 @@
+[14:33:53] [INFO] [pipeline] Procesando ACTA RATIFICACION DOMICILIO.pdf
+[14:33:53] [INFO] [pipeline] 1 páginas renderizadas
+[14:33:53] [INFO] [pipeline] OCR página 1/1
+[14:33:53] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[14:33:57] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[14:34:01] [INFO] [pipeline] OCR página 1 OK (chars=1060)
+[14:34:01] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\ACTA RATIFICACION DOMICILIO_OCR_LLM_READY.txt
+[14:34:01] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\ACTA RATIFICACION DOMICILIO_OCR_LLM_READY_RAW.json
+[14:34:01] [INFO] [pipeline] Procesamiento completado en 7.50s
+[14:34:01] [INFO] [pipeline] Procesando ADENDA SANCOR.pdf
+[14:34:01] [INFO] [pipeline] 1 páginas renderizadas
+[14:34:01] [INFO] [pipeline] OCR página 1/1
+[14:34:01] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[14:34:02] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[14:34:06] [INFO] [pipeline] OCR página 1 OK (chars=492)
+[14:34:06] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\ADENDA SANCOR_OCR_LLM_READY.txt
+[14:34:06] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\ADENDA SANCOR_OCR_LLM_READY_RAW.json
+[14:34:06] [INFO] [pipeline] Procesamiento completado en 4.84s
+[14:34:06] [INFO] [pipeline] Procesando Adhesion al debito ANA FONTANA.pdf
+[14:34:06] [INFO] [pipeline] 2 páginas renderizadas
+[14:34:06] [INFO] [pipeline] OCR página 1/2
+[14:34:06] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[14:34:07] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[14:34:11] [INFO] [pipeline] OCR página 1 OK (chars=793)
+[14:34:11] [INFO] [pipeline] OCR página 2/2
+[14:34:14] [INFO] [pipeline] OCR página 2 OK (chars=271)
+[14:34:14] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\Adhesion al debito ANA FONTANA_OCR_LLM_READY.txt
+[14:34:14] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\Adhesion al debito ANA FONTANA_OCR_LLM_READY_RAW.json
+[14:34:14] [INFO] [pipeline] Procesamiento completado en 8.10s
+[14:34:14] [INFO] [pipeline] Procesando AMPK NUEVA SEDE.pdf
+[14:34:15] [INFO] [pipeline] 9 páginas renderizadas
+[14:34:15] [INFO] [pipeline] OCR página 1/9
+[14:34:15] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[14:34:16] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[14:34:20] [INFO] [pipeline] OCR página 1 OK (chars=674)
+[14:34:20] [INFO] [pipeline] OCR página 2/9
+[14:34:24] [INFO] [pipeline] OCR página 2 OK (chars=536)
+[14:34:24] [INFO] [pipeline] OCR página 3/9
+[14:34:28] [INFO] [pipeline] OCR página 3 OK (chars=731)
+[14:34:28] [INFO] [pipeline] OCR página 4/9
+[14:34:34] [INFO] [pipeline] OCR página 4 OK (chars=4286)
+[14:34:34] [INFO] [pipeline] OCR página 5/9
+[14:34:38] [INFO] [pipeline] OCR página 5 OK (chars=767)
+[14:34:38] [INFO] [pipeline] OCR página 6/9
+[14:34:43] [INFO] [pipeline] OCR página 6 OK (chars=1378)
+[14:34:43] [INFO] [pipeline] OCR página 7/9
+[14:34:46] [INFO] [pipeline] OCR página 7 OK (chars=111)
+[14:34:46] [INFO] [pipeline] OCR página 8/9
+[14:34:51] [INFO] [pipeline] OCR página 8 OK (chars=1829)
+[14:34:51] [INFO] [pipeline] OCR página 9/9
+[14:34:54] [INFO] [pipeline] OCR página 9 OK (chars=684)
+[14:34:54] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\AMPK NUEVA SEDE_OCR_LLM_READY.txt
+[14:34:54] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\AMPK NUEVA SEDE_OCR_LLM_READY_RAW.json
+[14:34:54] [INFO] [pipeline] Procesamiento completado en 40.30s
+[14:34:54] [INFO] [pipeline] Procesando ANA MARIA CAROLINA MARIN.pdf
+[14:34:55] [INFO] [pipeline] 11 páginas renderizadas
+[14:34:55] [INFO] [pipeline] OCR página 1/11
+[14:34:55] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[14:34:57] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[14:35:01] [INFO] [pipeline] OCR página 1 OK (chars=683)
+[14:35:01] [INFO] [pipeline] OCR página 2/11
+[14:35:04] [INFO] [pipeline] OCR página 2 OK (chars=668)
+[14:35:04] [INFO] [pipeline] OCR página 3/11
+[14:35:08] [INFO] [pipeline] OCR página 3 OK (chars=483)
+[14:35:08] [INFO] [pipeline] OCR página 4/11
+[14:35:11] [INFO] [pipeline] OCR página 4 OK (chars=428)
+[14:35:11] [INFO] [pipeline] OCR página 5/11
+[14:35:15] [INFO] [pipeline] OCR página 5 OK (chars=668)
+[14:35:15] [INFO] [pipeline] OCR página 6/11
+[14:35:21] [INFO] [pipeline] OCR página 6 OK (chars=4114)
+[14:35:21] [INFO] [pipeline] OCR página 7/11
+[14:35:25] [INFO] [pipeline] OCR página 7 OK (chars=741)
+[14:35:25] [INFO] [pipeline] OCR página 8/11
+[14:35:28] [INFO] [pipeline] OCR página 8 OK (chars=620)
+[14:35:28] [INFO] [pipeline] OCR página 9/11
+[14:35:32] [INFO] [pipeline] OCR página 9 OK (chars=1251)
+[14:35:32] [INFO] [pipeline] OCR página 10/11
+[14:35:37] [INFO] [pipeline] OCR página 10 OK (chars=1252)
+[14:35:37] [INFO] [pipeline] OCR página 11/11
+[14:35:42] [INFO] [pipeline] OCR página 11 OK (chars=1055)
+[14:35:42] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\ANA MARIA CAROLINA MARIN_OCR_LLM_READY.txt
+[14:35:42] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\ANA MARIA CAROLINA MARIN_OCR_LLM_READY_RAW.json
+[14:35:42] [INFO] [pipeline] Procesamiento completado en 48.10s

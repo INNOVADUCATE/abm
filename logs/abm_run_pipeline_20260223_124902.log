@@ -1,0 +1,207 @@
+[12:49:02] [INFO] [pipeline] Procesando ACTA RATIFICACION DOMICILIO.pdf
+[12:49:02] [INFO] [pipeline] 1 páginas renderizadas
+[12:49:02] [INFO] [pipeline] OCR página 1/1
+[12:49:02] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[12:49:05] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[12:49:09] [INFO] [pipeline] OCR página 1 OK (chars=1060)
+[12:49:09] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\ACTA RATIFICACION DOMICILIO_OCR_LLM_READY.txt
+[12:49:09] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\ACTA RATIFICACION DOMICILIO_OCR_LLM_READY_RAW.json
+[12:49:09] [INFO] [pipeline] Procesamiento completado en 6.82s
+[12:49:09] [INFO] [pipeline] Procesando ADENDA SANCOR.pdf
+[12:49:09] [INFO] [pipeline] 1 páginas renderizadas
+[12:49:09] [INFO] [pipeline] OCR página 1/1
+[12:49:09] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[12:49:10] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[12:49:14] [INFO] [pipeline] OCR página 1 OK (chars=492)
+[12:49:14] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\ADENDA SANCOR_OCR_LLM_READY.txt
+[12:49:14] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\ADENDA SANCOR_OCR_LLM_READY_RAW.json
+[12:49:14] [INFO] [pipeline] Procesamiento completado en 4.78s
+[12:49:14] [INFO] [pipeline] Procesando Adhesion al debito ANA FONTANA.pdf
+[12:49:14] [INFO] [pipeline] 2 páginas renderizadas
+[12:49:14] [INFO] [pipeline] OCR página 1/2
+[12:49:14] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[12:49:15] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[12:49:19] [INFO] [pipeline] OCR página 1 OK (chars=793)
+[12:49:19] [INFO] [pipeline] OCR página 2/2
+[12:49:22] [INFO] [pipeline] OCR página 2 OK (chars=271)
+[12:49:22] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\Adhesion al debito ANA FONTANA_OCR_LLM_READY.txt
+[12:49:22] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\Adhesion al debito ANA FONTANA_OCR_LLM_READY_RAW.json
+[12:49:22] [INFO] [pipeline] Procesamiento completado en 8.05s
+[12:49:22] [INFO] [pipeline] Procesando AMPK NUEVA SEDE.pdf
+[12:49:23] [INFO] [pipeline] 9 páginas renderizadas
+[12:49:23] [INFO] [pipeline] OCR página 1/9
+[12:49:23] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[12:49:24] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[12:49:28] [INFO] [pipeline] OCR página 1 OK (chars=674)
+[12:49:28] [INFO] [pipeline] OCR página 2/9
+[12:49:32] [INFO] [pipeline] OCR página 2 OK (chars=536)
+[12:49:32] [INFO] [pipeline] OCR página 3/9
+[12:49:35] [INFO] [pipeline] OCR página 3 OK (chars=731)
+[12:49:35] [INFO] [pipeline] OCR página 4/9
+[12:49:41] [INFO] [pipeline] OCR página 4 OK (chars=4286)
+[12:49:41] [INFO] [pipeline] OCR página 5/9
+[12:49:45] [INFO] [pipeline] OCR página 5 OK (chars=767)
+[12:49:45] [INFO] [pipeline] OCR página 6/9
+[12:49:49] [INFO] [pipeline] OCR página 6 OK (chars=1378)
+[12:49:49] [INFO] [pipeline] OCR página 7/9
+[12:49:51] [INFO] [pipeline] OCR página 7 OK (chars=111)
+[12:49:51] [INFO] [pipeline] OCR página 8/9
+[12:49:56] [INFO] [pipeline] OCR página 8 OK (chars=1829)
+[12:49:56] [INFO] [pipeline] OCR página 9/9
+[12:49:59] [INFO] [pipeline] OCR página 9 OK (chars=684)
+[12:49:59] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\AMPK NUEVA SEDE_OCR_LLM_READY.txt
+[12:49:59] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\AMPK NUEVA SEDE_OCR_LLM_READY_RAW.json
+[12:49:59] [INFO] [pipeline] Procesamiento completado en 37.04s
+[12:49:59] [INFO] [pipeline] Procesando ANA MARIA CAROLINA MARIN.pdf
+[12:50:00] [INFO] [pipeline] 11 páginas renderizadas
+[12:50:00] [INFO] [pipeline] OCR página 1/11
+[12:50:00] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[12:50:02] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[12:50:05] [INFO] [pipeline] OCR página 1 OK (chars=683)
+[12:50:05] [INFO] [pipeline] OCR página 2/11
+[12:50:08] [INFO] [pipeline] OCR página 2 OK (chars=668)
+[12:50:08] [INFO] [pipeline] OCR página 3/11
+[12:50:11] [INFO] [pipeline] OCR página 3 OK (chars=483)
+[12:50:11] [INFO] [pipeline] OCR página 4/11
+[12:50:15] [INFO] [pipeline] OCR página 4 OK (chars=428)
+[12:50:15] [INFO] [pipeline] OCR página 5/11
+[12:50:18] [INFO] [pipeline] OCR página 5 OK (chars=668)
+[12:50:18] [INFO] [pipeline] OCR página 6/11
+[12:50:24] [INFO] [pipeline] OCR página 6 OK (chars=4114)
+[12:50:24] [INFO] [pipeline] OCR página 7/11
+[12:50:28] [INFO] [pipeline] OCR página 7 OK (chars=741)
+[12:50:28] [INFO] [pipeline] OCR página 8/11
+[12:50:31] [INFO] [pipeline] OCR página 8 OK (chars=620)
+[12:50:31] [INFO] [pipeline] OCR página 9/11
+[12:50:35] [INFO] [pipeline] OCR página 9 OK (chars=1251)
+[12:50:35] [INFO] [pipeline] OCR página 10/11
+[12:50:40] [INFO] [pipeline] OCR página 10 OK (chars=1252)
+[12:50:40] [INFO] [pipeline] OCR página 11/11
+[12:50:45] [INFO] [pipeline] OCR página 11 OK (chars=1055)
+[12:50:45] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\ANA MARIA CAROLINA MARIN_OCR_LLM_READY.txt
+[12:50:45] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\ANA MARIA CAROLINA MARIN_OCR_LLM_READY_RAW.json
+[12:50:45] [INFO] [pipeline] Procesamiento completado en 45.78s
+[12:50:45] [INFO] [pipeline] Procesando ARAMBURO JUAN MANUEL.pdf
+[12:50:45] [INFO] [pipeline] 6 páginas renderizadas
+[12:50:45] [INFO] [pipeline] OCR página 1/6
+[12:50:45] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[12:50:47] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[12:50:50] [INFO] [pipeline] OCR página 1 OK (chars=576)
+[12:50:50] [INFO] [pipeline] OCR página 2/6
+[12:50:53] [INFO] [pipeline] OCR página 2 OK (chars=579)
+[12:50:53] [INFO] [pipeline] OCR página 3/6
+[12:51:00] [INFO] [pipeline] OCR página 3 OK (chars=4273)
+[12:51:00] [INFO] [pipeline] OCR página 4/6
+[12:51:03] [INFO] [pipeline] OCR página 4 OK (chars=793)
+[12:51:03] [INFO] [pipeline] OCR página 5/6
+[12:51:08] [INFO] [pipeline] OCR página 5 OK (chars=1335)
+[12:51:08] [INFO] [pipeline] OCR página 6/6
+[12:51:12] [INFO] [pipeline] OCR página 6 OK (chars=990)
+[12:51:12] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\ARAMBURO JUAN MANUEL_OCR_LLM_READY.txt
+[12:51:12] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\ARAMBURO JUAN MANUEL_OCR_LLM_READY_RAW.json
+[12:51:12] [INFO] [pipeline] Procesamiento completado en 27.54s
+[12:51:12] [INFO] [pipeline] Procesando AREZO MARCELA OSEP.pdf
+[12:51:13] [INFO] [pipeline] 12 páginas renderizadas
+[12:51:13] [INFO] [pipeline] OCR página 1/12
+[12:51:13] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[12:51:15] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[12:51:18] [INFO] [pipeline] OCR página 1 OK (chars=351)
+[12:51:18] [INFO] [pipeline] OCR página 2/12
+[12:51:21] [INFO] [pipeline] OCR página 2 OK (chars=204)
+[12:51:21] [INFO] [pipeline] OCR página 3/12
+[12:51:24] [INFO] [pipeline] OCR página 3 OK (chars=743)
+[12:51:24] [INFO] [pipeline] OCR página 4/12
+[12:51:27] [INFO] [pipeline] OCR página 4 OK (chars=304)
+[12:51:27] [INFO] [pipeline] OCR página 5/12
+[12:51:30] [INFO] [pipeline] OCR página 5 OK (chars=378)
+[12:51:30] [INFO] [pipeline] OCR página 6/12
+[12:51:35] [INFO] [pipeline] OCR página 6 OK (chars=2117)
+[12:51:35] [INFO] [pipeline] OCR página 7/12
+[12:51:38] [INFO] [pipeline] OCR página 7 OK (chars=766)
+[12:51:38] [INFO] [pipeline] OCR página 8/12
+[12:51:44] [INFO] [pipeline] OCR página 8 OK (chars=2737)
+[12:51:44] [INFO] [pipeline] OCR página 9/12
+[12:51:48] [INFO] [pipeline] OCR página 9 OK (chars=755)
+[12:51:48] [INFO] [pipeline] OCR página 10/12
+[12:51:52] [INFO] [pipeline] OCR página 10 OK (chars=1197)
+[12:51:52] [INFO] [pipeline] OCR página 11/12
+[12:51:56] [INFO] [pipeline] OCR página 11 OK (chars=1109)
+[12:51:56] [INFO] [pipeline] OCR página 12/12
+[12:52:00] [INFO] [pipeline] OCR página 12 OK (chars=1043)
+[12:52:00] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\AREZO MARCELA OSEP_OCR_LLM_READY.txt
+[12:52:00] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\AREZO MARCELA OSEP_OCR_LLM_READY_RAW.json
+[12:52:00] [INFO] [pipeline] Procesamiento completado en 48.15s
+[12:52:00] [INFO] [pipeline] Procesando AREZO MARCELA.pdf
+[12:52:02] [INFO] [pipeline] 16 páginas renderizadas
+[12:52:02] [INFO] [pipeline] OCR página 1/16
+[12:52:02] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[12:52:03] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[12:52:07] [INFO] [pipeline] OCR página 1 OK (chars=357)
+[12:52:07] [INFO] [pipeline] OCR página 2/16
+[12:52:09] [INFO] [pipeline] OCR página 2 OK (chars=200)
+[12:52:09] [INFO] [pipeline] OCR página 3/16
+[12:52:12] [INFO] [pipeline] OCR página 3 OK (chars=384)
+[12:52:12] [INFO] [pipeline] OCR página 4/16
+[12:52:14] [ERROR] [pipeline] Error en página 4: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[12:52:14] [INFO] [pipeline] OCR página 5/16
+[12:52:18] [INFO] [pipeline] OCR página 5 OK (chars=766)
+[12:52:18] [INFO] [pipeline] OCR página 6/16
+[12:52:20] [INFO] [pipeline] OCR página 6 OK (chars=306)
+[12:52:20] [INFO] [pipeline] OCR página 7/16
+[12:52:27] [INFO] [pipeline] OCR página 7 OK (chars=3825)
+[12:52:27] [INFO] [pipeline] OCR página 8/16
+[12:52:29] [ERROR] [pipeline] Error en página 8: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[12:52:29] [INFO] [pipeline] OCR página 9/16
+[12:52:33] [INFO] [pipeline] OCR página 9 OK (chars=770)
+[12:52:33] [INFO] [pipeline] OCR página 10/16
+[12:52:35] [ERROR] [pipeline] Error en página 10: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[12:52:35] [INFO] [pipeline] OCR página 11/16
+[12:52:38] [INFO] [pipeline] OCR página 11 OK (chars=762)
+[12:52:38] [INFO] [pipeline] OCR página 12/16
+[12:52:40] [ERROR] [pipeline] Error en página 12: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[12:52:40] [INFO] [pipeline] OCR página 13/16
+[12:52:46] [INFO] [pipeline] OCR página 13 OK (chars=2082)
+[12:52:46] [INFO] [pipeline] OCR página 14/16
+[12:52:48] [ERROR] [pipeline] Error en página 14: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[12:52:48] [INFO] [pipeline] OCR página 15/16
+[12:52:52] [INFO] [pipeline] OCR página 15 OK (chars=1140)
+[12:52:52] [INFO] [pipeline] OCR página 16/16
+[12:52:54] [ERROR] [pipeline] Error en página 16: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[12:52:54] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\AREZO MARCELA_OCR_LLM_READY.txt
+[12:52:54] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\AREZO MARCELA_OCR_LLM_READY_RAW.json
+[12:52:54] [INFO] [pipeline] Procesamiento completado en 53.74s
+[12:52:54] [INFO] [pipeline] Procesando bajas proveeduria inventario.pdf
+[12:52:54] [INFO] [pipeline] 1 páginas renderizadas
+[12:52:54] [INFO] [pipeline] OCR página 1/1
+[12:52:54] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[12:52:56] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[12:53:01] [INFO] [pipeline] OCR página 1 OK (chars=1390)
+[12:53:01] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\bajas proveeduria inventario_OCR_LLM_READY.txt
+[12:53:01] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\bajas proveeduria inventario_OCR_LLM_READY_RAW.json
+[12:53:01] [INFO] [pipeline] Procesamiento completado en 7.24s
+[12:53:02] [INFO] [pipeline] Procesando Bono de sueldo.pdf
+[12:53:02] [INFO] [pipeline] 1 páginas renderizadas
+[12:53:02] [INFO] [pipeline] OCR página 1/1
+[12:53:02] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[12:53:03] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[12:53:07] [INFO] [pipeline] OCR página 1 OK (chars=1198)
+[12:53:07] [INFO] [pipeline] TXT LLM-ready guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\json_llm\00_ocr\Bono de sueldo_OCR_LLM_READY.txt
+[12:53:07] [INFO] [pipeline] JSON crudo guardado en C:\Users\aguss\OneDrive\Documentos\GitHub\abm\pipeline\raw_ocr\Bono de sueldo_OCR_LLM_READY_RAW.json
+[12:53:07] [INFO] [pipeline] Procesamiento completado en 5.31s
+[12:53:07] [INFO] [pipeline] Procesando BRIZUELA MARIA Y PECERE C.pdf
+[12:53:08] [INFO] [pipeline] 9 páginas renderizadas
+[12:53:08] [INFO] [pipeline] OCR página 1/9
+[12:53:08] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
+[12:53:09] [INFO] [paddle_engine] PaddleOCR inicializado correctamente.
+[12:53:13] [INFO] [pipeline] OCR página 1 OK (chars=645)
+[12:53:13] [INFO] [pipeline] OCR página 2/9
+[12:53:17] [INFO] [pipeline] OCR página 2 OK (chars=586)
+[12:53:17] [INFO] [pipeline] OCR página 3/9
+[12:53:19] [ERROR] [pipeline] Error en página 3: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.
+[12:53:19] [INFO] [pipeline] OCR página 4/9
+[12:53:25] [INFO] [pipeline] OCR página 4 OK (chars=2917)
+[12:53:25] [INFO] [pipeline] OCR página 5/9
+[12:53:28] [INFO] [pipeline] OCR página 5 OK (chars=722)
+[12:53:28] [INFO] [pipeline] OCR página 6/9
+[12:53:35] [INFO] [pipeline] OCR página 6 OK (chars=2060)
+[12:53:35] [INFO] [pipeline] OCR página 7/9

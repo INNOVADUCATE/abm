@@ -1,0 +1,4 @@
+[15:16:50] [INFO] [pipeline] Procesando ACTA RATIFICACION DOMICILIO.pdf
+[15:16:50] [INFO] [pipeline] 1 páginas renderizadas
+[15:16:50] [INFO] [pipeline] OCR página 1/1
+[15:16:50] [INFO] [paddle_engine] Inicializando PaddleOCR(lang='es')…
