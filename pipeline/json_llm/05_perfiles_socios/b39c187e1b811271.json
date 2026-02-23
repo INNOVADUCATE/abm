@@ -1,0 +1,155 @@
+{
+  "schema": "abm_socio_profile_v1",
+  "generated_at": "2026-02-22T20:09:39",
+  "socio_uid": "b39c187e1b811271",
+  "display_name": "b39c187e1b811271",
+  "ids": {
+    "dni": "",
+    "cuil_cuit": "",
+    "cliente_id": ""
+  },
+  "estado_general": "",
+  "documentos": [
+    {
+      "key": "identidad.dni",
+      "label": "DNI",
+      "estado": "FALTANTE",
+      "vigencia_hasta": null
+    },
+    {
+      "key": "fiscal.afip_arca",
+      "label": "Constancia AFIP/ARCA",
+      "estado": "FALTANTE",
+      "vigencia_hasta": null
+    },
+    {
+      "key": "fiscal.ingresos_brutos",
+      "label": "Ingresos Brutos (ATM/ARBA)",
+      "estado": "FALTANTE",
+      "vigencia_hasta": null
+    },
+    {
+      "key": "profesion.titulo_habilitante",
+      "label": "Título habilitante",
+      "estado": "OK",
+      "vigencia_hasta": null
+    },
+    {
+      "key": "profesion.matricula",
+      "label": "Matrícula profesional",
+      "estado": "FALTANTE",
+      "vigencia_hasta": null
+    },
+    {
+      "key": "profesion.sss",
+      "label": "Inscripción SSS (prestador)",
+      "estado": "REVISAR",
+      "vigencia_hasta": null
+    },
+    {
+      "key": "ejercicio.seguro_mala_praxis",
+      "label": "Seguro de mala praxis",
+      "estado": "FALTANTE",
+      "vigencia_hasta": null
+    },
+    {
+      "key": "ejercicio.habilitacion_laboratorio",
+      "label": "Habilitación de laboratorio (si corresponde)",
+      "estado": "FALTANTE",
+      "vigencia_hasta": null
+    },
+    {
+      "key": "ejercicio.director_tecnico",
+      "label": "Designación Director Técnico (si corresponde)",
+      "estado": "FALTANTE",
+      "vigencia_hasta": null
+    },
+    {
+      "key": "adhesiones.abm",
+      "label": "Adhesión ABM",
+      "estado": "FALTANTE",
+      "vigencia_hasta": null
+    },
+    {
+      "key": "adhesiones.osep",
+      "label": "Adhesión OSEP",
+      "estado": "FALTANTE",
+      "vigencia_hasta": null
+    },
+    {
+      "key": "adhesiones.pami",
+      "label": "Adhesión PAMI",
+      "estado": "FALTANTE",
+      "vigencia_hasta": null
+    },
+    {
+      "key": "adhesiones.convenios_pago",
+      "label": "Aceptación de pago / convenios",
+      "estado": "FALTANTE",
+      "vigencia_hasta": null
+    },
+    {
+      "key": "admin.cuenta_bancaria",
+      "label": "Cuenta bancaria (CBU/Alias)",
+      "estado": "FALTANTE",
+      "vigencia_hasta": null
+    }
+  ],
+  "faltantes": [
+    {
+      "key": "identidad.dni",
+      "label": "DNI"
+    },
+    {
+      "key": "fiscal.afip_arca",
+      "label": "Constancia AFIP/ARCA"
+    },
+    {
+      "key": "fiscal.ingresos_brutos",
+      "label": "Ingresos Brutos (ATM/ARBA)"
+    },
+    {
+      "key": "profesion.matricula",
+      "label": "Matrícula profesional"
+    },
+    {
+      "key": "ejercicio.seguro_mala_praxis",
+      "label": "Seguro de mala praxis"
+    },
+    {
+      "key": "ejercicio.habilitacion_laboratorio",
+      "label": "Habilitación de laboratorio (si corresponde)"
+    },
+    {
+      "key": "ejercicio.director_tecnico",
+      "label": "Designación Director Técnico (si corresponde)"
+    },
+    {
+      "key": "adhesiones.abm",
+      "label": "Adhesión ABM"
+    },
+    {
+      "key": "adhesiones.osep",
+      "label": "Adhesión OSEP"
+    },
+    {
+      "key": "adhesiones.pami",
+      "label": "Adhesión PAMI"
+    },
+    {
+      "key": "adhesiones.convenios_pago",
+      "label": "Aceptación de pago / convenios"
+    },
+    {
+      "key": "admin.cuenta_bancaria",
+      "label": "Cuenta bancaria (CBU/Alias)"
+    }
+  ],
+  "vencidos": [],
+  "proximos_30": [],
+  "notes": [
+    "No se encontró nombre consolidado para el socio.",
+    "No se encontró identificador principal (CUIL/CUIT, cliente_id o DNI).",
+    "Advertencia: display_name quedó con apariencia de hash."
+  ]
+}

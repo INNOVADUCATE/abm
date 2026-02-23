@@ -1,6 +1,6 @@
 DOCUMENTO: ACTA RATIFICACION DOMICILIO.pdf
 DOCUMENT_ID: 5f524284ac3f2afb
-FECHA_PROCESO: 2026-02-22T21:24:21Z
+FECHA_PROCESO: 2026-02-22T23:08:01Z
 FUENTE: PaddleOCR(lang='es')
 ============================================================
 

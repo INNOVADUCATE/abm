@@ -1,7 +1,13 @@
 {
   "schema": "abm_resumen_estado_v1",
-  "fecha_proceso": "2026-02-22T18:24:21",
+  "fecha_proceso": "2026-02-22T20:09:39",
   "hoy": "2026-02-22",
   "dias_proximos_vencimientos": 30,
-  "socios": []
+  "socios": [
+    "SOCIO_27_22736921_9_ESTADO.json",
+    "SOCIO_27_31645151_4_ESTADO.json",
+    "SOCIO_27_33705560_0_ESTADO.json",
+    "SOCIO_5f524284ac3f2afb_ESTADO.json",
+    "SOCIO_b39c187e1b811271_ESTADO.json"
+  ]
 }

@@ -1,0 +1,31 @@
+{
+  "schema": "abm_socio_clasificado_v1",
+  "fecha_proceso_utc": "2026-02-22T23:08:05Z",
+  "socio_uid_safe": "b39c187e1b811271",
+  "campos_consolidados": {
+    "localidad": "mendoza"
+  },
+  "documentos": [
+    {
+      "document_id": "b39c187e1b811271",
+      "analysis_json": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\01_evidencia\\ADENDA SANCOR_OCR_LLM_READY_ANALISIS_ABM.json",
+      "txt_path": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\00_ocr\\ADENDA SANCOR_OCR_LLM_READY.txt",
+      "tipos": [
+        {
+          "tipo": "sss_prestador",
+          "confianza": "alta",
+          "score": 3
+        },
+        {
+          "tipo": "titulo_habilitante",
+          "confianza": "media",
+          "score": 2
+        }
+      ]
+    }
+  ],
+  "tipos_detectados": {
+    "sss_prestador": 1,
+    "titulo_habilitante": 1
+  }
+}

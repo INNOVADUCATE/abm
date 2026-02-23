@@ -1,0 +1,286 @@
+{
+  "schema": "abm_socio_estado_v1",
+  "fecha_proceso": "2026-02-22T20:09:39",
+  "hoy": "2026-02-22",
+  "socio_uid_safe": "b39c187e1b811271",
+  "campos_consolidados": {
+    "localidad": "mendoza"
+  },
+  "cliente": {},
+  "estado_global": "BLOQUEA",
+  "identity": {
+    "display_name": "Socio · b39c187e",
+    "dni": null,
+    "cuil_cuit": null,
+    "source": null,
+    "confidence": null
+  },
+  "identity_keys": [
+    {
+      "key": "socio_uid_safe",
+      "value": "b39c187e1b811271"
+    }
+  ],
+  "items": [
+    {
+      "key": "identidad.dni",
+      "label": "DNI",
+      "tipo": "obligatorio",
+      "estado": "FALTANTE",
+      "vence": false,
+      "bloquea": true,
+      "prioridad": "media",
+      "vigencia": null,
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "key": "fiscal.afip_arca",
+      "label": "Constancia AFIP/ARCA",
+      "tipo": "obligatorio",
+      "estado": "FALTANTE",
+      "vence": true,
+      "bloquea": true,
+      "prioridad": "alta",
+      "vigencia": null,
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "key": "fiscal.ingresos_brutos",
+      "label": "Ingresos Brutos (ATM/ARBA)",
+      "tipo": "obligatorio",
+      "estado": "FALTANTE",
+      "vence": true,
+      "bloquea": true,
+      "prioridad": "alta",
+      "vigencia": null,
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "key": "profesion.titulo_habilitante",
+      "label": "Título habilitante",
+      "tipo": "obligatorio",
+      "estado": "OK",
+      "vence": false,
+      "bloquea": true,
+      "prioridad": "alta",
+      "vigencia": {
+        "desde": null,
+        "hasta": null,
+        "confianza": null,
+        "fuente": null
+      },
+      "detalle": "Presente (no vence)."
+    },
+    {
+      "key": "profesion.matricula",
+      "label": "Matrícula profesional",
+      "tipo": "obligatorio",
+      "estado": "FALTANTE",
+      "vence": true,
+      "bloquea": true,
+      "prioridad": "alta",
+      "vigencia": null,
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "key": "profesion.sss",
+      "label": "Inscripción SSS (prestador)",
+      "tipo": "obligatorio",
+      "estado": "REVISAR",
+      "vence": true,
+      "bloquea": true,
+      "prioridad": "alta",
+      "vigencia": {
+        "desde": null,
+        "hasta": null,
+        "confianza": null,
+        "fuente": null
+      },
+      "detalle": "Presente, pero no se detectó fecha de vencimiento (revisar)."
+    },
+    {
+      "key": "ejercicio.seguro_mala_praxis",
+      "label": "Seguro de mala praxis",
+      "tipo": "obligatorio",
+      "estado": "FALTANTE",
+      "vence": true,
+      "bloquea": true,
+      "prioridad": "alta",
+      "vigencia": null,
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "key": "ejercicio.habilitacion_laboratorio",
+      "label": "Habilitación de laboratorio (si corresponde)",
+      "tipo": "obligatorio",
+      "estado": "FALTANTE",
+      "vence": true,
+      "bloquea": false,
+      "prioridad": "alta",
+      "vigencia": null,
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "key": "ejercicio.director_tecnico",
+      "label": "Designación Director Técnico (si corresponde)",
+      "tipo": "obligatorio",
+      "estado": "FALTANTE",
+      "vence": true,
+      "bloquea": false,
+      "prioridad": "media",
+      "vigencia": null,
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "key": "adhesiones.abm",
+      "label": "Adhesión ABM",
+      "tipo": "condicional",
+      "estado": "FALTANTE",
+      "vence": true,
+      "bloquea": false,
+      "prioridad": "media",
+      "vigencia": null,
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "key": "adhesiones.osep",
+      "label": "Adhesión OSEP",
+      "tipo": "condicional",
+      "estado": "FALTANTE",
+      "vence": true,
+      "bloquea": false,
+      "prioridad": "media",
+      "vigencia": null,
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "key": "adhesiones.pami",
+      "label": "Adhesión PAMI",
+      "tipo": "condicional",
+      "estado": "FALTANTE",
+      "vence": true,
+      "bloquea": false,
+      "prioridad": "media",
+      "vigencia": null,
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "key": "adhesiones.convenios_pago",
+      "label": "Aceptación de pago / convenios",
+      "tipo": "condicional",
+      "estado": "FALTANTE",
+      "vence": true,
+      "bloquea": false,
+      "prioridad": "media",
+      "vigencia": null,
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "key": "admin.cuenta_bancaria",
+      "label": "Cuenta bancaria (CBU/Alias)",
+      "tipo": "dato",
+      "estado": "FALTANTE",
+      "vence": false,
+      "bloquea": false,
+      "prioridad": "baja",
+      "vigencia": null,
+      "detalle": "No hay aporte registrado para este requisito."
+    }
+  ],
+  "notificaciones": [
+    {
+      "severidad": "alta",
+      "estado": "FALTANTE",
+      "key": "fiscal.afip_arca",
+      "label": "Constancia AFIP/ARCA",
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "severidad": "alta",
+      "estado": "FALTANTE",
+      "key": "ejercicio.habilitacion_laboratorio",
+      "label": "Habilitación de laboratorio (si corresponde)",
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "severidad": "alta",
+      "estado": "FALTANTE",
+      "key": "fiscal.ingresos_brutos",
+      "label": "Ingresos Brutos (ATM/ARBA)",
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "severidad": "alta",
+      "estado": "FALTANTE",
+      "key": "profesion.matricula",
+      "label": "Matrícula profesional",
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "severidad": "alta",
+      "estado": "FALTANTE",
+      "key": "ejercicio.seguro_mala_praxis",
+      "label": "Seguro de mala praxis",
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "severidad": "alta",
+      "estado": "REVISAR",
+      "key": "profesion.sss",
+      "label": "Inscripción SSS (prestador)",
+      "detalle": "Presente, pero no se detectó fecha de vencimiento (revisar)."
+    },
+    {
+      "severidad": "media",
+      "estado": "FALTANTE",
+      "key": "adhesiones.convenios_pago",
+      "label": "Aceptación de pago / convenios",
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "severidad": "media",
+      "estado": "FALTANTE",
+      "key": "adhesiones.abm",
+      "label": "Adhesión ABM",
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "severidad": "media",
+      "estado": "FALTANTE",
+      "key": "adhesiones.osep",
+      "label": "Adhesión OSEP",
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "severidad": "media",
+      "estado": "FALTANTE",
+      "key": "adhesiones.pami",
+      "label": "Adhesión PAMI",
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "severidad": "media",
+      "estado": "FALTANTE",
+      "key": "identidad.dni",
+      "label": "DNI",
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "severidad": "media",
+      "estado": "FALTANTE",
+      "key": "ejercicio.director_tecnico",
+      "label": "Designación Director Técnico (si corresponde)",
+      "detalle": "No hay aporte registrado para este requisito."
+    },
+    {
+      "severidad": "baja",
+      "estado": "FALTANTE",
+      "key": "admin.cuenta_bancaria",
+      "label": "Cuenta bancaria (CBU/Alias)",
+      "detalle": "No hay aporte registrado para este requisito."
+    }
+  ],
+  "input": {
+    "socio_aportes_json": "C:\\Users\\aguss\\OneDrive\\Documentos\\GitHub\\abm\\pipeline\\json_llm\\03_aportes\\socios\\SOCIO_b39c187e1b811271.json"
+  }
+}
